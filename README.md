@@ -1,5 +1,8 @@
 # Algorithm
 
+### Jul 24, 2022
+- BOJ 2108 - C++
+
 ### Jul 23, 2022
 - BOJ 1018 - C++
 - BOJ 17478 - C++
