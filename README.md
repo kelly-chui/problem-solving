@@ -1,6 +1,7 @@
 # Algorithm
 
 ### Jul 24, 2022
+- BOJ 1931 - Python
 - BOJ 2108 - C++
 
 ### Jul 23, 2022
