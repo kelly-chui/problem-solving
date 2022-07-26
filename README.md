@@ -1,4 +1,7 @@
 # Algorithm
+### Jul 26, 2022
+- Programmers 나머지가 1이 되는 수 찾기 - Swift
+- Programmers 부족한 금액 계산하기 - Swift
 
 ### Jul 24, 2022
 - BOJ 10986 - Python
