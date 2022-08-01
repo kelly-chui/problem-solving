@@ -1,4 +1,7 @@
 # Algorithm
+### Jul 27, 2022
+- Programmers 가운데 글자 가져오기 - Swift
+
 ### Jul 26, 2022
 - Programmers 비밀 지도 - Swift
 - Programmers 나머지가 1이 되는 수 찾기 - Swift
