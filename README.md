@@ -1,4 +1,7 @@
 # Algorithm
+### Aug 2, 2022
+- Programmers 나누어 떨어지는 숫자 배열 - Swift
+
 ### Jul 27, 2022
 - Programmers 가운데 글자 가져오기 - Swift
 
