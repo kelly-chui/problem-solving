@@ -1,6 +1,8 @@
 # Algorithm
 ### Aug 5, 2022
+- Programmers 시저 암호 - Swift
 - Programmers 수박수박수박수박수박수? - Swift
+- Programmers 문자열을 정수로 바꾸기 - Swift
 
 ### Aug 4, 2022
 - Programmers 소수 찾기 - Swift
