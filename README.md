@@ -1,5 +1,6 @@
 # Algorithm
 ### Aug 4, 2022
+- Programmers 문자열 내림차순으로 배치하기
 - Programmers 문자열 내 p와 y의 개수
 - Programmers 문자열 내 마음대로 정렬하기
 
