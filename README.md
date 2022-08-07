@@ -1,4 +1,9 @@
 # Algorithm
+### Aug 7, 2022
+- Programmers 자연수 뒤집어 배열로 만들기 - Swift
+- Programmers 자릿수 더하기 - Swift
+- Programmers 이상한 문자 만들기 - Swift
+
 ### Aug 5, 2022
 - Programmers 약수의 합 - Swift
 - Programmers 시저 암호 - Swift
