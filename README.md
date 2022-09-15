@@ -1,4 +1,7 @@
 # Algorithm
+### Sep 15, 2022
+- Programmers 짝수와 홀수 - Swift
+
 ### Aug 7, 2022
 - Programmers 자연수 뒤집어 배열로 만들기 - Swift
 - Programmers 자릿수 더하기 - Swift
