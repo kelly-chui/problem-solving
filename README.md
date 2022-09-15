@@ -1,6 +1,7 @@
 # Algorithm
 ### Sep 15, 2022
 - Programmers 짝수와 홀수 - Swift
+- Programmers 평균 구하기 - Swift
 
 ### Aug 7, 2022
 - Programmers 자연수 뒤집어 배열로 만들기 - Swift
