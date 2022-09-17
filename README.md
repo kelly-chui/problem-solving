@@ -1,4 +1,17 @@
 # Algorithm
+### Sep 18, 2022
+- Programmers 정수 내림차순으로 배치하기 - Swift
+- Programmers 하샤드 수 - Swift
+- Programmers x만큼 간격이 있는 n개의 숫자 - Swift
+- Programmers 콜라츠 추측 - Swift
+- Programmers 핸드폰 번호 가리기 - Swift
+- Programmers 제일 작은 수 제거하기 - Swift
+- Programmers 음양 더하기 - Swift
+- Programmers 없는 숫자 더하기 - Swift
+
+### Sep 16, 2022
+- Programmers 정수 제곱근 판별 - Swift
+
 ### Sep 15, 2022
 - Programmers 짝수와 홀수 - Swift
 - Programmers 평균 구하기 - Swift
