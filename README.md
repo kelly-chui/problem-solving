@@ -1,4 +1,15 @@
 # Algorithm
+### Sep 19, 2022
+- Programmers 예산 - Swift
+- Programmers 3진법 뒤집기 - Swift
+- Programmers 최소직사각형 - Swift
+- Programmers 숫자 문자열과 영단어 - Swift
+- Programmers 두개 뽑아서 더하기 - Swift
+- Programmers 2016년 - Swift
+- Programmers 모의고사 - Swift
+- Programmers 소수 만들기 - Swift
+
+
 ### Sep 18, 2022
 - Programmers 정수 내림차순으로 배치하기 - Swift
 - Programmers 하샤드 수 - Swift
@@ -8,6 +19,11 @@
 - Programmers 제일 작은 수 제거하기 - Swift
 - Programmers 음양 더하기 - Swift
 - Programmers 없는 숫자 더하기 - Swift
+- Programmers 내적 - Swift
+- Programmers 약수의 개수와 덧셈 - Swift
+- Programmers 행렬의 덧셈 - Swift
+- Programmers 직사각형 별찍기 - Swift
+- Programmers 최대공약수와 최소공배수 - Swift
 
 ### Sep 16, 2022
 - Programmers 정수 제곱근 판별 - Swift
