@@ -1,4 +1,7 @@
 # Algorithm
+### Sep 22, 2022
+- Programmers 다트 게임 - Swift
+
 ### Sep 21, 2022
 - Programmers 실패율 - Swift
 
