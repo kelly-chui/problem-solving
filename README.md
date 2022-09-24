@@ -1,4 +1,7 @@
 # Algorithm
+### Sep 24, 2022
+- Programmers 키패드 누르기 - Swift
+
 ### Sep 22, 2022
 - Programmers 다트 게임 - Swift
 - Programmers 로또의 최고 순위와 최저 순위 - Swift
