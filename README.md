@@ -1,4 +1,7 @@
 # Algorithm
+### Sep 26, 2022
+- Programmers 신고 결과 받기 - Swift ▲
+- Programmers 최댓값과 최솟값 - Swift
 
 ### Sep 25, 2022
 - Programmers 크레인 인형뽑기 게임 - Swift
