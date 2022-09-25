@@ -1,4 +1,10 @@
 # Algorithm
+
+### Sep 25, 2022
+- Programmers 크레인 인형뽑기 게임 - Swift
+- Programmers 신규 아이디 추천 - Swift ▲
+- Programmers 성격 유형 검사하기 - Swift
+
 ### Sep 24, 2022
 - Programmers 키패드 누르기 - Swift
 
