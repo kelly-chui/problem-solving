@@ -1,4 +1,11 @@
 # Algorithm
+### Sep 27, 2022
+- Programmers 이진 변환 반복하기 - Swift
+- Programmers 최솟값 만들기 - Swift
+- Programmers 올바른 괄호 - Swift
+- Programmers 피보나치 수 - Swift
+- Programmers 다음 큰 숫자 - Swift
+
 ### Sep 26, 2022
 - Programmers 신고 결과 받기 - Swift ▲
 - Programmers 최댓값과 최솟값 - Swift
