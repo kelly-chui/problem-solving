@@ -1,4 +1,7 @@
 # Algorithm
+### Sep 29, 2022
+- BOJ4530 - C++
+
 ### Sep 28, 2022
 - Programmers 카펫 - Swift
 
