@@ -1,4 +1,11 @@
 # Algorithm
+### Oct 2, 2022
+- programmers N개의 최소공배수 - Swift
+
+### Sep 30, 2022
+- Programmers 영어 끝말잇기 - Swift
+- Programmers 짝지어 제거하기 - Swift
+
 ### Sep 29, 2022
 - BOJ4530 - C++
 
