@@ -1,6 +1,9 @@
 # Algorithm
+### Ooc 3, 2022
+- Programmers 예상 대진표 - Swift
+
 ### Oct 2, 2022
-- programmers N개의 최소공배수 - Swift
+- Programmers N개의 최소공배수 - Swift
 
 ### Sep 30, 2022
 - Programmers 영어 끝말잇기 - Swift
