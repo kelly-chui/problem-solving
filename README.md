@@ -1,5 +1,9 @@
 # Algorithm
 
+### Nov 5, 2022
+- BOJ 1260 - Python
+- BOJ 2178 - Python
+
 ### Nov 4, 2022
 - Programmers 행렬의 곱셈 - Swift
 
