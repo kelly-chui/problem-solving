@@ -1,6 +1,7 @@
 # Algorithm
 ### Nov 17, 2022
 - BOJ 3055 - Python
+- BOJ 1726 - Python
 
 ### Nov 10, 2022
 - BOJ 1193 - Python
