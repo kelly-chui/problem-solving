@@ -6,7 +6,6 @@
 //
 
 #include <iostream>
-//using namespace »ç¿ë ÀÚÁ¦ÇÏ±â
 
 void print_(int n) {
 	for (int i = 0; i < n; i++) {
@@ -18,23 +17,23 @@ void professorSaid(int recursionNumber, int *ref) {
 	//std::cout << *recursionNumber << std::endl;
 	if (recursionNumber <= *ref) {
 		print_(recursionNumber);
-		std::cout << "\"Àç±ÍÇÔ¼ö°¡ ¹º°¡¿ä?\"" << std::endl;
+		std::cout << "\"ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½?\"" << std::endl;
 		//std::cout << *recursionNumber << std::endl;
 		if (recursionNumber < *ref) {
 			print_(recursionNumber);
-			std::cout << "\"Àß µé¾îº¸°Ô. ¿¾³¯¿¾³¯ ÇÑ »ê ²À´ë±â¿¡ ÀÌ¼¼»ó ¸ğµç Áö½ÄÀ» Åë´ŞÇÑ ¼±ÀÎÀÌ ÀÖ¾ú¾î." << std::endl;
+			std::cout << "\"ï¿½ï¿½ ï¿½ï¿½îº¸ï¿½ï¿½. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½â¿¡ ï¿½Ì¼ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¾ï¿½ï¿½ï¿½." << std::endl;
 			print_(recursionNumber);
-			std::cout << "¸¶À» »ç¶÷µéÀº ¸ğµÎ ±× ¼±ÀÎ¿¡°Ô ¼ö¸¹Àº Áú¹®À» Çß°í, ¸ğµÎ ÁöÇı·Ó°Ô ´ë´äÇØ ÁÖ¾úÁö." << std::endl;
+			std::cout << "ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½Î¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½, ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ó°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¾ï¿½ï¿½ï¿½." << std::endl;
 			print_(recursionNumber);
-			std::cout << "±×ÀÇ ´äÀº ´ëºÎºĞ ¿Ç¾Ò´Ù°í ÇÏ³×. ±×·±µ¥ ¾î´À ³¯, ±× ¼±ÀÎ¿¡°Ô ÇÑ ¼±ºñ°¡ Ã£¾Æ¿Í¼­ ¹°¾ú¾î.\"" << std::endl;
+			std::cout << "ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Îºï¿½ ï¿½Ç¾Ò´Ù°ï¿½ ï¿½Ï³ï¿½. ï¿½×·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½, ï¿½ï¿½ ï¿½ï¿½ï¿½Î¿ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ã£ï¿½Æ¿Í¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.\"" << std::endl;
 			professorSaid(recursionNumber + 1, ref);
 		}
 		else {
 			print_(recursionNumber);
-			std::cout << "\"Àç±ÍÇÔ¼ö´Â ÀÚ±â ÀÚ½ÅÀ» È£ÃâÇÏ´Â ÇÔ¼ö¶ó³×\"" << std::endl;
+			std::cout << "\"ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ ï¿½Ú±ï¿½ ï¿½Ú½ï¿½ï¿½ï¿½ È£ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½\"" << std::endl;
 		}
 		print_(recursionNumber);
-		std::cout << "¶ó°í ´äº¯ÇÏ¿´Áö." << std::endl;
+		std::cout << "ï¿½ï¿½ï¿½ ï¿½äº¯ï¿½Ï¿ï¿½ï¿½ï¿½." << std::endl;
 	}
 	else {
 	}
@@ -44,7 +43,7 @@ int main(void) {
 
 	int recursionNumber;
 	std::cin >> recursionNumber;
-	std::cout << "¾î´À ÇÑ ÄÄÇ»ÅÍ°øÇĞ°ú ÇĞ»ıÀÌ À¯¸íÇÑ ±³¼ö´ÔÀ» Ã£¾Æ°¡ ¹°¾ú´Ù." << std::endl;
+	std::cout << "ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½Ç»ï¿½Í°ï¿½ï¿½Ğ°ï¿½ ï¿½Ğ»ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ã£ï¿½Æ°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½." << std::endl;
 	professorSaid(0, &recursionNumber);
 	return 0;
 }
