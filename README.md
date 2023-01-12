@@ -2,6 +2,7 @@
 
 ### Jan 12, 2023
 - BOJ 10815 - Python
+- BOJ 2512 - Python
 
 ### Jan 11, 2023
 - BOJ 2805 - Python
