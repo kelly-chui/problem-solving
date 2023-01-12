@@ -1,6 +1,7 @@
 n = int(input())
 a = list(map(int, input().split()))
 m = int(input())
+
 numbers = list(map(int, input().split()))
 a.sort()
 
