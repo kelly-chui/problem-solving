@@ -1,5 +1,8 @@
 # Algorithm
 
+### Jan 17, 2023
+- BOJ 7795 - Python
+
 ### Jan 16, 2023
 - BOJ 13706 - Python
 
