@@ -1,5 +1,10 @@
 # Algorithm
 
+<details>
+  <summary>
+    <b>Jan 2023</b>
+  </summary>
+
 ### Jan 19, 2023
 - BOJ 2110 - Python
 - BOJ 1300 - Python ▲
@@ -31,6 +36,12 @@
 - BOJ 2805 - Python
 - BOJ 1920 - Python
 - BOJ 1654 - Python
+</details>
+
+<details>
+  <summary>
+    <b>2022</b>
+  </summary>
 
 ### Dec 21, 2022
 - BOJ 2468 - Python
@@ -188,3 +199,4 @@
 ### Jul 22, 2022
 - BOJ 23567 - C++
 - BOJ 2447 - Python
+</details>
