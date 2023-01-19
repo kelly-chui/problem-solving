@@ -8,6 +8,8 @@
 ### Jan 19, 2023
 - BOJ 2110 - Python
 - BOJ 1300 - Python ▲
+- BOJ 11660 - Python
+- BOJ 25682 - Python
 
 ### Jan 18, 2023
 - BOJ 16401 - Python ▲
