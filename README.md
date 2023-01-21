@@ -5,6 +5,10 @@
     <b>Jan 2023</b>
   </summary>
 
+### Jan 20, 2023
+- BOJ 1874 - Python
+- BOJ 4949 - Python
+
 ### Jan 19, 2023
 - BOJ 2110 - Python
 - BOJ 1300 - Python ▲
