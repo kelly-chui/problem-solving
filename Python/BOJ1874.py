@@ -9,9 +9,6 @@ originSeq = list(range(1, n + 1))
 for _ in range(n):
     seq.append(int(sys.stdin.readline()))
 
-print("seq", seq)
-print("originSeq", originSeq)
-
 i = 0
 for element in seq:
     if len(nStack) == 0:

@@ -9,8 +9,6 @@ sum = 0
 low = 0
 high = 0
 
-print(seq)
-
 if seq[n - 1] < s:
     print(0)
 else:
@@ -26,5 +24,4 @@ else:
             low += 1
         else:
             high += 1
-
-print(ans)
+    print(ans)
