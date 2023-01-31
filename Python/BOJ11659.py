@@ -10,3 +10,4 @@ for _ in range(m):
         print(seq[end - 1])
     else:
         print(seq[end - 1] - seq[start - 2])
+        

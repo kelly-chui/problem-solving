@@ -1,10 +1,7 @@
 def backTracking():
     if len(sequences) == m:
         for i in range(m):
-            print(sequences[i], end = "")
-            if i != m - 1:
-                print(" ", end = "")
-        print()
+            print(sequences[i], end = "\n" if i == m - 1 else " ")
         return
     
     for i in range(1, n + 1):

@@ -27,3 +27,4 @@ for _ in range(m):
     else:
         ans = table[x2][y2] - table[x2][y1 - 1] - table[x1 - 1][y2] + table[x1 - 1][y1 - 1]
     print(ans)
+    

@@ -54,3 +54,4 @@ for i in range(N):
     for j in range(N):
         print(printstar[i][j], end="")
     print()
+    
