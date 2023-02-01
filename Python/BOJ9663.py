@@ -1,28 +1,22 @@
-def check(row_locations, column_locations, row, column):
-    for i, j in zip(row_locations, column_locations):
-        if abs(row - i) == abs(column - j):
-            return True
-    return False
+def check(row_idx):
+    for idx in range(row_idx):
+        if rows[row_idx] == rows[idx] or abs(rows[row_idx] - rows[idx]) == row_idx - idx:
+            return False
+    return True
 
-def backTracking(row_locations, column_locations, count):
-    print(count)
-    if count == n:
+def backTracking(row_idx):
+    global answer
+    if row_idx == n:
         answer += 1
-        return
-    
-    for row in range(n):
+    else:
         for column in range(n):
-            if row in row_locations or column in column_locations or check(row_locations, column_locations, row, column):
-                continue
-            else:
-                row_locations.append(row)
-                column_locations.append(column)
-                backTracking(row_locations, column_locations, count + 1)
-
+            rows[row_idx] = column
+            if check(row_idx):
+                backTracking(row_idx + 1)
 
 n = int(input())
-row_locations = []
-column_locations = []
+rows = [0] * n
 answer = 0
-backTracking(row_locations, column_locations, 0)
+
+backTracking(0)
 print(answer)
