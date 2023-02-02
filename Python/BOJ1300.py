@@ -6,7 +6,6 @@ high = k
 
 while low < high:
     mid = (low + high) // 2
-    print(low, mid, high)
     sum = 0
     for i in range(1, n + 1):
         sum += min(mid // i, n)
