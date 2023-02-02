@@ -2,8 +2,25 @@
 
 <details>
   <summary>
+    <b>2022</b>
+  </summary>
+
+### Feb 02, 2023
+- BOJ 11725 - Python
+- BOJ 14888 - Python
+
+### Feb 01, 2023
+- BOJ 9663 - Python
+</details>
+
+<details>
+  <summary>
     <b>Jan 2023</b>
   </summary>
+
+### Jan 31, 2023
+- BOJ 15651 - Python
+- BOJ 15652 - Python
 
 ### Jan 30, 2023
 - BOJ 15649 - Python

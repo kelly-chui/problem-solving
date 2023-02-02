@@ -1,5 +1,5 @@
 //
-//  n-queen.cpp
+//  BOJ9663.cpp
 //  CPPAlgorithm
 //
 //  Created by Kelly Chui on 2023/01/31.
