@@ -14,7 +14,6 @@ def bfs(root):
             answer[node] = current_node
             bfsQ.append(node)
             
-
 n = int(sys.stdin.readline())
 isVisited = [False] * (n + 1)
 answer = [0] * (n + 1)
