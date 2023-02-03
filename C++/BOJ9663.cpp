@@ -18,9 +18,9 @@ bool check(int row_idx, std::vector<int>& rows) {
     return true;
 }
 
-void backTracking(int row_idx, int n, int& answer, std::vector<int>& rows) {
+void backTracking(int row_idx, int n, int* answer, std::vector<int>& rows) {
     if(row_idx == n) {
-        answer++;
+        (*answer)++;
         return;
     }
     
@@ -38,7 +38,7 @@ int main(void) {
     std::vector<int> rows(n);
     fill(rows.begin(), rows.end(), 0);
     
-    backTracking(0, n, answer, rows);
+    backTracking(0, n, &answer, rows);
     std::cout << answer << std::endl;
     return 0;
 }
