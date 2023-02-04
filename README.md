@@ -5,6 +5,9 @@
     <b>Feb 2023</b>
   </summary>
 
+### Feb 4, 2023
+- BOJ 1012 - Python
+
 ### Feb 3, 2023
 - BOJ 14889 - Python
 - BOJ 1991 - Python
