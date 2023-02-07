@@ -5,6 +5,9 @@
     <b>Feb 2023</b>
   </summary>
 
+### Feb 7, 2023
+- BOJ 16928 - Python
+
 ### Feb 5, 2023
 - BOJ 7569 - Python
 
