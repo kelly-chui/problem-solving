@@ -1,6 +1,6 @@
 # Algorithm
 
-[![https://solved.ac/profile/jjwls97](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![https://solved.ac/profile/jjwls97](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwls97)](https://solved.ac/{handle})
 
 <details>
   <summary>
