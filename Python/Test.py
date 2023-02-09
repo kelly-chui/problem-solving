@@ -1,6 +1,13 @@
-a = {1: 2, 3: 4}
+n = int(input())
+p = list(map(int, input().split()))
+np = []
+count = 0
 
-if not a[5]:
-    a[5] = 6
+for i in range(len(p)):
+    np.append((i, p[i]))
 
-print(a)
+np = sorted(np, key = lambda x: x[1])
+
+for i in range(len(np)):
+    count += np[i][1] * (len(np) - i)
+print(count)

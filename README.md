@@ -5,6 +5,9 @@
     <b>Feb 2023</b>
   </summary>
 
+### Feb 10, 2023
+- BOJ 2263 - Python
+
 ### Feb 9, 2023
 - BOJ 5639 - Python
 
