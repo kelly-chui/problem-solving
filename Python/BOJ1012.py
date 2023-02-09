@@ -34,3 +34,4 @@ for _ in range(t):
                 bfs((row, column))
                 count += 1
     print(count)
+    
