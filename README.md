@@ -5,6 +5,10 @@
     <b>Feb 2023</b>
   </summary>
 
+### Feb 17, 2023
+- BOJ 1764 - Python
+- BOJ 9019 - C++
+
 ### Feb 15, 2023
 - BOJ 5430 - Python
 
