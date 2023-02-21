@@ -5,6 +5,10 @@
     <b>Feb 2023</b>
   </summary>
 
+### Feb 21, 2023
+- BOJ 1976 - Python
+- BOJ 1717 - Python
+
 ### Feb 20, 2023
 - BOJ 2606 - Python
 
@@ -171,7 +175,7 @@
 - Programmers 짝지어 제거하기 - Swift
 
 ### Sep 29, 2022
-- BOJ4530 - C++
+- BOJ 4530 - C++
 
 ### Sep 28, 2022
 - Programmers 카펫 - Swift
@@ -205,7 +209,7 @@
 - Programmers 실패율 - Swift
 
 ### Sep 20, 2022
-- BOJ10816 - C++
+- BOJ 10816 - C++
 
 ### Sep 19, 2022
 - Programmers 예산 - Swift
