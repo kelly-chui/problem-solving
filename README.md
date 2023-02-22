@@ -5,6 +5,11 @@
     <b>Feb 2023</b>
   </summary>
 
+### Feb 22, 2023
+- BOJ 4195 - Swift
+- BOJ 20040 - Swift
+- BOJ 1043 - Swift
+
 ### Feb 21, 2023
 - BOJ 1976 - Python
 - BOJ 1717 - Python
