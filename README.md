@@ -1,9 +1,15 @@
 # Algorithm
 
+[![https://solved.ac/profile/jjwls97](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwls97)](https://solved.ac/{handle})
+
 <details>
   <summary>
     <b>Feb 2023</b>
   </summary>
+
+### Feb 27, 2023
+- BOJ 11053 - Swift LIS O(n²)
+- BOJ 12015 - C++ LIS O(nlogn)
 
 ### Feb 26, 2023
 - BOJ 1932 - Swift
