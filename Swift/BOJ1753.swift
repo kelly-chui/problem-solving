@@ -69,7 +69,7 @@ func dijkstra(k: Int) {
             continue
         }
         for node in graph[edge.0] {
-            let cost = edge.1 + node.1
+            let cost = edge.1 + node.1e
             if cost < distanceTable[node.0] {
                 distanceTable[node.0] = cost
                 heap.insert((node.0, cost))

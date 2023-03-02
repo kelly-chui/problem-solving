@@ -6,7 +6,10 @@
   <summary>
     <b>Mar 2023</b>
   </summary>
-  
+
+### Mar 2, 2023
+- BOJ 1504 - Swift
+
 ### Mar 1, 2023
 - BOJ 11279 - Swift
 - BOJ 1927 - Swift
@@ -22,7 +25,7 @@
 ### Feb 28, 2023
 - BOJ 12738 - C++
 - BOJ 14002 - C++ LIS O(n²)
-- BOJ 14033 - C++ LIS O(nlogn)
+- BOJ 14003 - C++ LIS O(nlogn)
 
 ### Feb 27, 2023
 - BOJ 11053 - Swift LIS O(n²)
