@@ -56,8 +56,8 @@ struct Heap {
 
 func daijkstra(start: Int) -> [Int] {
     var heap = Heap()
-    heap.insert(tuple: (start, 0))
     var distances = [Int](repeating: 100_000_000_000, count: ne[0] + 1)
+    heap.insert(tuple: (start, 0))
     distances[start] = 0
     
     while !heap.isEmpty() {
@@ -67,7 +67,7 @@ func daijkstra(start: Int) -> [Int] {
         }
         for edge in graph[curNode.0] {
             let distanceSum = curNode.1 + edge.1
-            if distanceSum < distances[edge.0] {
+            if curNode.1 + edge.1 < distances[edge.0] {
                 distances[edge.0] = distanceSum
                 heap.insert(tuple: (node: edge.0, distance: distanceSum))
             }
