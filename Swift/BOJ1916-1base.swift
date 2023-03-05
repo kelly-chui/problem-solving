@@ -8,33 +8,34 @@
 import Foundation
 
 struct Heap {
-    var heap: [(dest: Int, cost: Int)] = []
+    var heap: [(dest: Int, cost: Int)] = [(0, 0)]
     
     func isEmpty() -> Bool {
-        return heap.isEmpty
+        return heap.count == 1
     }
     
     mutating func insert(_ bus: (dest: Int, cost: Int)) {
         heap.append(bus)
         var curIdx = heap.count - 1
         
-        while heap[curIdx] < heap[curIdx / 2] && curIdx > 0 {
+        while heap[curIdx].cost < heap[curIdx / 2].cost && curIdx > 1 {
             heap.swapAt(curIdx, curIdx / 2)
             curIdx = curIdx / 2
         }
     }
     
     mutating func delete() -> (dest: Int, cost: Int) {
-        let min = heap[0]
-        heap.swapAt(0, heap.count - 1)
+        let min = heap[1]
+        heap.swapAt(1, heap.count - 1)
         heap.removeLast()
-        var curIdx = 0
+        var curIdx = 1
         
-        while curIdx * 2 < heap.count {
-            let rChildIdx = curIdx * 2 + 1
+        while curIdx * 2 <= heap.count - 1 {
             let lChildIdx = curIdx * 2
+            let rChildIdx = curIdx * 2 + 1
             var minChildIdx = lChildIdx
-            if rChildIdx < heap.count && heap[rChildIdx].cost < heap[minChildIdx].cost {
+
+            if rChildIdx <= heap.count - 1 && heap[rChildIdx].cost < heap[minChildIdx].cost {
                 minChildIdx = rChildIdx
             }
             if heap[minChildIdx].cost < heap[curIdx].cost {

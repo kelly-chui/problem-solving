@@ -54,7 +54,7 @@ struct Heap {
     }
 }
 
-func daijkstra(start: Int) -> [Int] {
+func dijkstra(start: Int) -> [Int] {
     var heap = Heap()
     var distances = [Int](repeating: 100_000_000_000, count: ne[0] + 1)
     heap.insert(tuple: (start, 0))
@@ -86,9 +86,9 @@ for _ in 0..<ne[1] {
 let ab = readLine()!.split(separator: " ").map { Int(String($0))! }
 var distances = [[Int]](repeating: [Int](repeating: 100_000_000_000, count: ne[0] + 1), count: 5)
 
-let daijkstra1 = daijkstra(start: 1)
-let daijkstraN = daijkstra(start: ne[0])
-let daijkstraA = daijkstra(start: ab[0])
+let dijkstra1 = dijkstra(start: 1)
+let dijkstraN = dijkstra(start: ne[0])
+let dijkstraA = dijkstra(start: ab[0])
 
-let answer = min(daijkstra1[ab[0]] + daijkstraN[ab[1]] + daijkstraA[ab[1]], daijkstra1[ab[1]] + daijkstraN[ab[0]] + daijkstraA[ab[1]])
+let answer = min(dijkstra1[ab[0]] + dijkstraN[ab[1]] + dijkstraA[ab[1]], dijkstra1[ab[1]] + dijkstraN[ab[0]] + dijkstraA[ab[1]])
 print(answer >= 100_000_000_000 ? -1 : answer)
