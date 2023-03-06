@@ -7,6 +7,11 @@
     <b>Mar 2023</b>
   </summary>
 
+### Mar 6, 2023
+- BOJ 14621 - Swift
+- BOJ 2665 - Swift
+- BOJ 10423 - Swift
+
 ### Mar 5, 2023
 - BOJ 11779 - Python
 - BOJ 11779 - Swift ▲
