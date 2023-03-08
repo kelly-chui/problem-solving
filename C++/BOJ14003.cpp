@@ -38,13 +38,7 @@ int main(void) {
 
     int max = *max_element(order.begin(), order.end());
     cout << max << endl;
-    /*
-    cout << "order: ";
-    for (int i : order) {
-        cout << i << " ";
-    }
-    cout << endl;
-    */
+    
     vector<int> lis;
     for (int i = n - 1; i >= 0; i--) {
         if (order[i] == max) {
