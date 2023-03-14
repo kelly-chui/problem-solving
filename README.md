@@ -7,8 +7,10 @@
     <b>Mar 2023</b>
   </summary>
 
+### Mar 14, 2023
+- BOJ 1074 - Swift
+
 ### Mar 13, 2023
-- BOJ 1074 - Python
 - BOJ 10866 - Python
 - BOJ 11650 - Python
 - BOJ 11651 - Python
