@@ -7,6 +7,10 @@
     <b>Mar 2023</b>
   </summary>
 
+### Mar 25, 2023
+- BOJ 1967 - Swift
+- BOJ 11404 - Swift
+
 ### Mar 24, 2023
 - BOJ 9251 - Swift
 
