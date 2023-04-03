@@ -7,6 +7,14 @@
     <b>Apr 2023</b>
   </summary>
 
+### Apr 3, 2023
+- Programmers - 개인정보 수집 유효기간 - Swift
+- Programmers - 대충 만든 자판 - Swift
+- Programmers - 둘만의 암호 - Swift
+- Programmers - 문자열 나누기 - Swift
+- Programmers - 옹알이(2) - Swift
+- Programmers - 햄버거 만들기 - Swift
+
 ### Apr 2, 2023
 - Programmers - 명예의 전당(1) - Swift
 - Programmers - 추억 점수 - Swift
