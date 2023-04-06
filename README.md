@@ -7,6 +7,12 @@
     <b>Apr 2023</b>
   </summary>
 
+### Apr 6, 2023
+- Programmers - [1차] 캐시 - Swift
+- Programmers - 연속 부분 수열 합의 개수  - Swift
+- Programmers - 위장 - Swift
+- Programmers - 튜플 - Swift
+
 ### Apr 5, 2023
 - Programmers - 귤 고르기 - Swift
 - Programmers - 괄호 회전하기 - Swift
