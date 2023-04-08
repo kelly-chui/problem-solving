@@ -7,6 +7,10 @@
     <b>Apr 2023</b>
   </summary>
 
+### Apr 8, 2023
+- Programmers - 프린터 - Swift
+- Programmers - 뉴스 클러스터링 - Swift
+
 ### Apr 7, 2023
 - Programmers - n^2 배열 자르기 - Swift
 - Programmers - 기능개발 - Swift
