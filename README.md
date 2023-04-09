@@ -7,6 +7,11 @@
     <b>Apr 2023</b>
   </summary>
 
+### Apr 9, 2023
+- Programmers - 피로도 - Swift
+- Programmers - k진수에서 소수 개수 구하기 - Swift
+- Programmers - 타겟 넘버 - Swift
+
 ### Apr 8, 2023
 - Programmers - 프린터 - Swift
 - Programmers - 뉴스 클러스터링 - Swift
