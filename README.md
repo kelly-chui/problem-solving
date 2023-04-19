@@ -7,6 +7,13 @@
     <b>Apr 2023</b>
   </summary>
 
+### Apr 19, 2023
+- Programmers - 뒤에 있는 큰 수 찾기 - Swift
+- Programmers - 2개 이하로 다른 비트 - Swift
+- Programmers - 다리를 지나는 트럭 - Swift
+- BOJ 1011 - Fly me to the Alpha Centauri - Swift
+- BOJ 20928 - 걷는 건 귀찮아 - Swift
+
 ### Apr 18, 2023
 - Programmers - [1차] 프렌즈4블록 - Swift
 
