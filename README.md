@@ -7,6 +7,9 @@
     <b>May 2023</b>
   </summary>
 
+### May 8, 2023
+- Programmers - 이모티콘 할인 행사 - Swift
+
 ### May 7, 2023
 - Programmers - 혼자서 하는 틱택토 - Swift
 
