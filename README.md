@@ -7,6 +7,10 @@
     <b>May 2023</b>
   </summary>
 
+### May 9, 2023
+- Programemrs - 양궁 대회 - Swift
+- Programmers - 과제 진행하기 - Swift
+
 ### May 8, 2023
 - Programmers - 이모티콘 할인 행사 - Swift
 
