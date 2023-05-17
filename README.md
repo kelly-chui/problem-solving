@@ -1,5 +1,6 @@
 # Algorithm
 
+[Blog(Kelly's personal archive)](https://junmusu.tistory.com)  
 [![https://solved.ac/profile/jjwls97](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwls97)](https://solved.ac/{handle})
 
 <details>
