@@ -8,6 +8,9 @@
     <b>May 2023</b>
   </summary>
 
+### May 17, 2023
+- BOJ 21924 - 도시 건설 - C++
+
 ### May 16, 2023
 - BOJ 7785 - 회사에 있는 사람 - Swift
 - BOJ 1181 - 단어 정렬 - Swift
