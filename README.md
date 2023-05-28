@@ -8,6 +8,11 @@
     <b>May 2023</b>
   </summary>
 
+### May 27, 2023
+- BOJ 1213 - 팰린드롬 만들기 - Swift
+- BOJ 12904 - A와 B - Swift
+- BOJ 17609 - 회문 - Swift
+
 ### May 26, 2023
 - BOJ 14425 - 문자열 집합 - Swift
 - BOJ 17412 - 단어 뒤집기2 - Swift
