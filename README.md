@@ -8,6 +8,9 @@
     <b>May 2023</b>
   </summary>
 
+### May 29, 2023
+- BOJ 9996 - 한국이 그리울땐 서버에 접속하지 - Swift
+
 ### May 27, 2023
 - BOJ 1213 - 팰린드롬 만들기 - Swift
 - BOJ 12904 - A와 B - Swift
