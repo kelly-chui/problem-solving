@@ -8,6 +8,9 @@
     <b>May 2023</b>
   </summary>
 
+### May 31, 2023
+- BOJ 2607 - 비슷한 단어 - Swift
+
 ### May 30, 2023
 - BOJ 14725 - 개미굴 - Swift
 
