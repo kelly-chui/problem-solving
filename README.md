@@ -5,6 +5,17 @@
 
 <details>
   <summary>
+    <b>Jun 2023</b>
+  </summary>
+
+### Jun 1, 2023
+- BOJ 20291 - 파일 정리 - Swift
+- BOJ 20920 - 영단어 암기는 괴로워 - Swift
+
+</details>
+
+<details>
+  <summary>
     <b>May 2023</b>
   </summary>
 
