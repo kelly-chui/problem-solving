@@ -8,6 +8,9 @@
     <b>Jun 2023</b>
   </summary>
 
+### Jun 2, 2023
+- BOJ 10799 - 쇠막대기 - Swift
+
 ### Jun 1, 2023
 - BOJ 20291 - 파일 정리 - Swift
 - BOJ 20920 - 영단어 암기는 괴로워 - Swift
