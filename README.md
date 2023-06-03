@@ -8,6 +8,10 @@
     <b>Jun 2023</b>
   </summary>
 
+### Jun 3, 2023
+- BOJ 5582 - 공통 부분 문자열 - C++
+- BOJ 1958 - LCS3 - C++
+
 ### Jun 2, 2023
 - BOJ 10799 - 쇠막대기 - Swift
 
