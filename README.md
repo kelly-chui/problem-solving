@@ -8,6 +8,11 @@
     <b>Jun 2023</b>
   </summary>
 
+### Jun 6, 2023
+- BOJ 1026 - 보물 - Swift
+- BOJ 2217 - 로프 - Swift
+- BOJ 1789 - 수들의 합 - Swift
+
 ### Jun 5, 2023
 - BOJ 16120 - PPAP - Swift, Python
 
