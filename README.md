@@ -8,6 +8,9 @@
     <b>Jun 2023</b>
   </summary>
 
+### Jun 8, 2023
+- BOJ 1715 - 카드 정렬하기 - Swift
+
 ### Jun 7, 2023
 - BOJ 13305 - 주유소 - Swift
 - BOJ 10610 - 30 - Swift
