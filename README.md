@@ -8,6 +8,14 @@
     <b>Jun 2023</b>
   </summary>
 
+### Jun 13, 2023
+- BOJ 1202 - 보석 도둑 - Swift
+- BOJ 1744 - 수 묶기 - Swift
+- BOJ 14888 - 연산자 끼워넣기 - Python
+
+### Jun 11, 2023
+- BOJ 1946 - 신입 사원 - C++
+
 ### Jun 8, 2023
 - BOJ 1715 - 카드 정렬하기 - Swift
 

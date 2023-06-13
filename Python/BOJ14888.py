@@ -22,11 +22,8 @@ n = int(input())
 a = list(map(int, input().split()))
 operators = list(map(int, input().split()))
 count = 0
-answer_max = -100_000_000
-answer_min = 100_000_000
-orders = []
-
+answer_max = -1_000_000_000
+answer_min = 1_000_000_000
 backTracking(1, a[0])
-
 print(answer_max)
 print(answer_min)

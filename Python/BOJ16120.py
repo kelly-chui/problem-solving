@@ -8,5 +8,4 @@ for char in str:
         stack.pop()
         stack.pop()
         stack.pop()
-print(stack)
 print("PPAP" if stack == ["P"] or stack == ppap else "NP")
