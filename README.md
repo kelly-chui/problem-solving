@@ -8,6 +8,9 @@
     <b>Jun 2023</b>
   </summary>
 
+### Jun 19, 2023
+- BOJ 6603 - 로또 - Swift
+
 ### Jun 16, 2023
 - BOJ 1049 - 기타줄 - Swift
 - BOJ 11000 - 강의실 배정 - Swift
