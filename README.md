@@ -8,6 +8,9 @@
     <b>Jun 2023</b>
   </summary>
 
+### Jun 22, 2023
+- BOJ 1987 - 알파벳 - Swift
+
 ### Jun 20, 2023
 - BOJ 14916 - 거스름돈 - Swift
 - BOJ 2812 - 크게 만들기 - Swift
