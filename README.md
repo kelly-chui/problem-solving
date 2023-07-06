@@ -8,6 +8,10 @@
     <b>Jul 2023</b>
   </summary>
 
+### Jul 06, 2023
+- BOJ 16234 - 인구 이동 - Swift
+- BOJ 1520 - 내리막길 - Swift
+
 ### Jul 05, 2023
 - BOJ 14502 - 연구소 - Swift
 - BOJ 6087 - 레이저 통신 - Swift
