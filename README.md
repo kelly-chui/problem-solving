@@ -8,6 +8,9 @@
     <b>Jul 2023</b>
   </summary>
 
+### Jul 07, 2023
+- BOJ 1939 - 중량 제한 - Swift
+
 ### Jul 06, 2023
 - BOJ 16234 - 인구 이동 - Swift
 - BOJ 1520 - 내리막길 - Swift
