@@ -8,6 +8,10 @@
     <b>Jul 2023</b>
   </summary>
 
+### Jul 09, 2023
+- BOJ 2493 - 탑 - Swift
+- BOJ 17298 - 오큰수 - C++/Swift
+
 ### Jul 08, 2023
 - BOJ 2293 - 동전 1 - Swift
 
