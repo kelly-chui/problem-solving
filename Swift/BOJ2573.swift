@@ -13,13 +13,6 @@ struct Queue {
     }
     mutating func pop() -> (Int, Int) {
         let poppedValue = queue[ptr]
-        ptr += 1
-        /*
-        if ptr > 50000 {
-            queue = Array(queue[ptr...])
-            ptr = 0
-        }
-         */
         return poppedValue
     }
 }
@@ -48,7 +41,6 @@ func bfs(_ root: (Int, Int)) -> Int {
             isVisited[newNode.0][newNode.1] = true
         }
     }
-    
     return 1
 }
 
@@ -61,7 +53,7 @@ for _ in 0..<n {
 let moves = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 var isVisited = [[Bool]]()
 var answer = 0
-var meltingTable = [[Int]]()
+var meltingTable = [[Int]]() // 얼만큼 녹는지 적어놓는 배열
 
 while true {
     var bfsCounter = 0
