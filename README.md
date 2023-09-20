@@ -8,6 +8,10 @@
     <b>Sep 2023</b>
   </summary>
 
+### Sep 20, 2023
+- BOJ 1655 - 가운데를 말해요 - C++
+- BOJ 7579 - 앱 - Swift
+
 ### Sep 13, 2023
 - BOJ 9084 - 동전 - Swift
 - BOJ 2660 - 회장뽑기 - Swift

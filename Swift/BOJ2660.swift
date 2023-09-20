@@ -24,6 +24,7 @@ for m in 0..<n {
         }
     }
 }
+
 var rank = [Int]()
 var minRank = 987_654_321
 var candidates = [Int]()
@@ -33,7 +34,6 @@ for member in relationships {
         minRank = member.max()!
     }
 }
-
 for i in 0..<rank.count {
     if rank[i] == minRank {
         candidates.append(i + 1)
