@@ -5,8 +5,21 @@
 
 <details>
   <summary>
+    <b>Oct 2023</b>
+  </summary>
+
+### Oct 5, 2023
+- BOJ 2647 - 용액 - Swift
+
+</details>
+
+<details>
+  <summary>
     <b>Sep 2023</b>
   </summary>
+
+### Sep 21, 2023
+- BOJ 11066 - 파일 합치기 - Swift
 
 ### Sep 20, 2023
 - BOJ 1655 - 가운데를 말해요 - C++
@@ -16,7 +29,7 @@
 - BOJ 9084 - 동전 - Swift
 - BOJ 2660 - 회장뽑기 - Swift
 
-### Sep 07, 2023
+### Sep 7, 2023
 - BOJ 2573 - 빙산 - Swift
 - BOJ 9205 - 맥주 마시면서 걸어가기 - Swift
 
