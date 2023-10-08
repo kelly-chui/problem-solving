@@ -8,6 +8,9 @@
     <b>Oct 2023</b>
   </summary>
 
+### Oct 8, 2023
+- BOJ 1039 - 교환 - Swift
+
 ### Oct 5, 2023
 - BOJ 2647 - 용액 - Swift
 
