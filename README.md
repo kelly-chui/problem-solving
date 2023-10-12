@@ -8,6 +8,12 @@
     <b>Oct 2023</b>
   </summary>
 
+### Oct 12, 2023
+- BOJ 1719 - 택배 - Swift
+
+### Oct 11, 2023
+- BOJ 10942 - 팰린드롬? - C++
+
 ### Oct 9, 2023
 - BOJ 11657 - 타임머신 - Swift
 - BOJ 1956 - 운동 - Swift
