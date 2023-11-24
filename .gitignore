@@ -1,6 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/xcode,swift,c++,pycharm,python,visualstudio,windows,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=xcode,swift,c++,pycharm,python,visualstudio,windows,macos
 
+# Compiled Output Binary files
+*
+!*.*
+!*/
+
 ### VScode ###
 *.vscode/
 *.vscode
