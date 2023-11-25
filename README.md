@@ -8,6 +8,9 @@
     <b>Nov 2023</b>
   </summary>
 
+### Nov 25, 2023
+- BOJ 14497 - 주난의 난(難) - Swift
+
 ### Nov 24, 2023
 - BOJ 2636 - 치즈 - Swift
 
