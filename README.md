@@ -8,6 +8,9 @@
     <b>Nov 2023</b>
   </summary>
 
+### Nov 27, 2023
+- BOJ 1253 - 좋다 - Swift
+
 ### Nov 25, 2023
 - BOJ 14497 - 주난의 난(難) - Swift
 
