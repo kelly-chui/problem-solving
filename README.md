@@ -8,6 +8,9 @@
     <b>Nov 2023</b>
   </summary>
 
+### Nov 30, 2023
+- BOJ 9466 - 텀 프로젝트 - Swift
+
 ### Nov 27, 2023
 - BOJ 1253 - 좋다 - Swift
 
