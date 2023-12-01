@@ -5,6 +5,16 @@
 
 <details>
   <summary>
+    <b>Dec 2023</b>
+  </summary>
+
+### Dec 1, 2023
+- BOJ 2239 - 스도쿠 - Swift
+
+</details>
+
+<details>
+  <summary>
     <b>Nov 2023</b>
   </summary>
 
