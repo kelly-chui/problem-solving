@@ -8,8 +8,11 @@
     <b>Dec 2023</b>
   </summary>
 
+### Dec 3, 2023
+- BOJ 2143 - 두 배열의 합 - Swift
+
 ### Dec 2, 2023
-- BOj 17404 - RGB거리2 - Swift
+- BOJ 17404 - RGB거리2 - Swift
 - BOJ 2580 - 스도쿠 - Swift
 
 ### Dec 1, 2023
