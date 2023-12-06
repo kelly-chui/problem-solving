@@ -21,9 +21,9 @@ struct Queue {
 
 func bfs1(_ root: (Int, Int), _ marker: Int) {
     var queue = Queue()
-    islandMap[root.0][root.1] = marker
     queue.push(root)
     isVisited[root.0][root.1] = true
+    board[root.0][root.1] = marker
     
     while !queue.isEmpty {
         let (row, column) = queue.pop()
@@ -36,17 +36,25 @@ func bfs1(_ root: (Int, Int), _ marker: Int) {
                 continue
             }
             isVisited[newRow][newColumn] = true
+            board[newRow][newColumn] = marker
             queue.push((newRow, newColumn))
-            islandMap[newRow][newColumn] = marker
         }
     }
 }
 
-func bfs2(_ root: (Int, Int), _ marker: Int) {
+func bfs2(_ marker: Int) {
     var queue = Queue()
-    queue.push(root)
-    isVisited[root.0][root.1] = true
-    
+    var distances = [[Int]](repeating: [Int](repeating: -1, count: n), count: n)
+
+    for i in 0..<n {
+        for j in 0..<n {
+            if board[i][j] == marker {
+                queue.push((i, j))
+                distances[i][j] = 0
+            }
+        }
+    }
+
     while !queue.isEmpty {
         let (row, column) = queue.pop()
         for move in moves {
@@ -54,20 +62,13 @@ func bfs2(_ root: (Int, Int), _ marker: Int) {
             if newRow < 0 || newRow >= n || newColumn < 0 || newColumn >= n {
                 continue
             }
-            if isVisited[newRow][newColumn] {
-                continue
+            if board[newRow][newColumn] > 0 && board[newRow][newColumn] != marker {
+                answer = min(answer, distances[row][column])
+                return
             }
-            if board[newRow][newColumn] == 0 {
-                isVisited[newRow][newColumn] = true
+            if board[newRow][newColumn] == 0 && distances[newRow][newColumn] == -1 {
+                distances[newRow][newColumn] = distances[row][column] + 1
                 queue.push((newRow, newColumn))
-                board[newRow][newColumn] = board[row][column] + 1
-            }
-            if board[newRow][newColumn] == 1 && islandMap[newRow][newColumn] == marker {
-                isVisited[newRow][newColumn] = true
-                queue.push((newRow, newColumn))
-            }
-            if board[newRow][newColumn] == 1 && islandMap[newRow][newColumn] != marker {
-                answer = min(answer, board[row][column])
             }
         }
     }
@@ -78,14 +79,11 @@ var board = [[Int]]()
 for _ in 0..<n {
     board.append(readLine()!.split(separator: " ").map { Int(String($0))! })
 }
-var newBoard = board
-var islandMap = board
-var isVisited = [[Bool]](repeating: [Bool](repeating: false, count: n), count: n)
-var marker = 1
-var representLocation = [Int: (Int, Int)]()
 var answer = 987_654_321
 let moves = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
+var isVisited = [[Bool]](repeating: [Bool](repeating: false, count: n), count: n)
+var marker = 1
 for row in 0..<n {
     for column in 0..<n {
         if isVisited[row][column] || board[row][column] == 0 {
@@ -93,22 +91,10 @@ for row in 0..<n {
         }
         bfs1((row, column), marker)
         marker += 1
-        representLocation[marker] = (row, column)
     }
 }
 
-isVisited = [[Bool]](repeating: [Bool](repeating: false, count: n), count: n)
-
-for (marker, location) in representLocation {
-    bfs2(location, marker)
-    board = newBoard
+for m in 1..<marker {
+    bfs2(m)
 }
-
-
-board.forEach { print($0) }
-print()
-newBoard.forEach { print($0) }
-print()
-islandMap.forEach { print($0) }
-
 print(answer)
