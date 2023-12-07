@@ -8,6 +8,11 @@
     <b>Dec 2023</b>
   </summary>
 
+### Dec 7, 2023
+- BOJ 2638 - 치즈 - Swift
+- BOJ 13275 - 가장 긴 팰린드롬 부분 문자열 - Swift
+- Programmers - 달리기 경주 - Swift
+
 ### Dec 6, 2023
 - BOJ 2146 - 다리 만들기 - Swift
 
