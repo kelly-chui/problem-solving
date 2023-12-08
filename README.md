@@ -8,6 +8,9 @@
     <b>Dec 2023</b>
   </summary>
 
+### Dec 8, 2023
+- Programmers - 수식 최대화 - Swift
+
 ### Dec 7, 2023
 - BOJ 2638 - 치즈 - Swift
 - BOJ 13275 - 가장 긴 팰린드롬 부분 문자열 - Swift
