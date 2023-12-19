@@ -8,6 +8,9 @@
     <b>Dec 2023</b>
   </summary>
 
+### Dec 19, 2023
+- BOJ 13424 - 비밀 모임 - Swift
+
 ### Dec 8, 2023
 - Programmers - 수식 최대화 - Swift
 
