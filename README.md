@@ -1,7 +1,21 @@
 # Algorithm
 
 [Blog(Kelly's personal archive)](https://junmusu.tistory.com)  
-[![https://solved.ac/profile/jjwls97](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwls97)](https://solved.ac/{handle})
+[![https://solved.ac/profile/jjwls97](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwls97)](https://solved.ac/jjwls97)
+
+<details>
+  <summary>
+    <b>Feb 2024</b>
+  </summary>
+
+### Feb 12, 2024
+- BOJ 21736: 헌내기는 친구가 필요해 - Swift
+- BOJ 20529: 가장 가까운 세 사람의 심리적 거리 - Swift
+
+### Feb 11, 2024
+- BOJ 14940: 쉬운 최단거리 - Swift
+
+</details>
 
 <details>
   <summary>
@@ -9,35 +23,35 @@
   </summary>
 
 ### Dec 19, 2023
-- BOJ 13424 - 비밀 모임 - Swift
+- BOJ 13424: 비밀 모임 - Swift
 
 ### Dec 8, 2023
-- Programmers - 수식 최대화 - Swift
+- Programmers: 수식 최대화 - Swift
 
 ### Dec 7, 2023
-- BOJ 2638 - 치즈 - Swift
-- BOJ 13275 - 가장 긴 팰린드롬 부분 문자열 - Swift
-- Programmers - 달리기 경주 - Swift
+- BOJ 2638: 치즈 - Swift
+- BOJ 13275: 가장 긴 팰린드롬 부분 문자열 - Swift
+- Programmers: 달리기 경주 - Swift
 
 ### Dec 6, 2023
-- BOJ 2146 - 다리 만들기 - Swift
+- BOJ 2146: 다리 만들기 - Swift
 
 ### Dec 5, 2023
-- BOJ 2252 - 줄 세우기 - C++
-- BOJ 2473 - 세 용액 - C++
+- BOJ 2252: 줄 세우기 - C++
+- BOJ 2473: 세 용액 - C++
 
 ### Dec 4, 2023
-- BOJ 27172 - 수 나누기 게임 - Swift
+- BOJ 27172: 수 나누기 게임 - Swift
 
 ### Dec 3, 2023
-- BOJ 2143 - 두 배열의 합 - Swift
+- BOJ 2143: 두 배열의 합 - Swift
 
 ### Dec 2, 2023
-- BOJ 17404 - RGB거리2 - Swift
-- BOJ 2580 - 스도쿠 - Swift
+- BOJ 17404: RGB거리2 - Swift
+- BOJ 2580: 스도쿠 - Swift
 
 ### Dec 1, 2023
-- BOJ 2239 - 스도쿠 - Swift
+- BOJ 2239: 스도쿠 - Swift
 
 </details>
 
@@ -47,16 +61,16 @@
   </summary>
 
 ### Nov 30, 2023
-- BOJ 9466 - 텀 프로젝트 - Swift
+- BOJ 9466: 텀 프로젝트 - Swift
 
 ### Nov 27, 2023
-- BOJ 1253 - 좋다 - Swift
+- BOJ 1253: 좋다 - Swift
 
 ### Nov 25, 2023
-- BOJ 14497 - 주난의 난(難) - Swift
+- BOJ 14497: 주난의 난(難) - Swift
 
 ### Nov 24, 2023
-- BOJ 2636 - 치즈 - Swift
+- BOJ 2636: 치즈 - Swift
 
 </details>
 
@@ -66,23 +80,23 @@
   </summary>
 
 ### Oct 13, 2023
-- BOJ 1445 - 일요일 아침의 데이트 - Swift
+- BOJ 1445: 일요일 아침의 데이트 - Swift
 
 ### Oct 12, 2023
-- BOJ 1719 - 택배 - Swift
+- BOJ 1719: 택배 - Swift
 
 ### Oct 11, 2023
-- BOJ 10942 - 팰린드롬? - C++
+- BOJ 10942: 팰린드롬? - C++
 
 ### Oct 9, 2023
-- BOJ 11657 - 타임머신 - Swift
-- BOJ 1956 - 운동 - Swift
+- BOJ 11657: 타임머신 - Swift
+- BOJ 1956: 운동 - Swift
 
 ### Oct 8, 2023
-- BOJ 1039 - 교환 - Swift
+- BOJ 1039: 교환 - Swift
 
 ### Oct 5, 2023
-- BOJ 2647 - 용액 - Swift
+- BOJ 2647: 용액 - Swift
 
 </details>
 
@@ -92,19 +106,19 @@
   </summary>
 
 ### Sep 21, 2023
-- BOJ 11066 - 파일 합치기 - Swift
+- BOJ 11066: 파일 합치기 - Swift
 
 ### Sep 20, 2023
-- BOJ 1655 - 가운데를 말해요 - C++
-- BOJ 7579 - 앱 - Swift
+- BOJ 1655: 가운데를 말해요 - C++
+- BOJ 7579: 앱 - Swift
 
 ### Sep 13, 2023
-- BOJ 9084 - 동전 - Swift
-- BOJ 2660 - 회장뽑기 - Swift
+- BOJ 9084: 동전 - Swift
+- BOJ 2660: 회장뽑기 - Swift
 
 ### Sep 7, 2023
-- BOJ 2573 - 빙산 - Swift
-- BOJ 9205 - 맥주 마시면서 걸어가기 - Swift
+- BOJ 2573: 빙산 - Swift
+- BOJ 9205: 맥주 마시면서 걸어가기 - Swift
 
 </details>
 
@@ -114,22 +128,22 @@
   </summary>
 
 ### Jul 9, 2023
-- BOJ 2493 - 탑 - Swift
-- BOJ 17298 - 오큰수 - C++/Swift
+- BOJ 2493: 탑 - Swift
+- BOJ 17298: 오큰수 - C++/Swift
 
 ### Jul 8, 2023
-- BOJ 2293 - 동전 1 - Swift
+- BOJ 2293: 동전 1 - Swift
 
 ### Jul 7, 2023
-- BOJ 1939 - 중량 제한 - Swift
+- BOJ 1939: 중량 제한 - Swift
 
 ### Jul 6, 2023
-- BOJ 16234 - 인구 이동 - Swift
-- BOJ 1520 - 내리막길 - Swift
+- BOJ 16234: 인구 이동 - Swift
+- BOJ 1520: 내리막길 - Swift
 
 ### Jul 5, 2023
-- BOJ 14502 - 연구소 - Swift
-- BOJ 6087 - 레이저 통신 - Swift
+- BOJ 14502: 연구소 - Swift
+- BOJ 6087: 레이저 통신 - Swift
 </details>
 
 <details>
@@ -138,55 +152,55 @@
   </summary>
 
 ### Jun 22, 2023
-- BOJ 1987 - 알파벳 - Swift
+- BOJ 1987: 알파벳 - Swift
 
 ### Jun 20, 2023
-- BOJ 14916 - 거스름돈 - Swift
-- BOJ 2812 - 크게 만들기 - Swift
+- BOJ 14916: 거스름돈 - Swift
+- BOJ 2812: 크게 만들기 - Swift
 
 ### Jun 19, 2023
-- BOJ 6603 - 로또 - Swift
+- BOJ 6603: 로또 - Swift
 
 ### Jun 16, 2023
-- BOJ 1049 - 기타줄 - Swift
-- BOJ 11000 - 강의실 배정 - Swift
+- BOJ 1049: 기타줄 - Swift
+- BOJ 11000: 강의실 배정 - Swift
 
 ### Jun 13, 2023
-- BOJ 1202 - 보석 도둑 - Swift
-- BOJ 1744 - 수 묶기 - Swift
-- BOJ 14888 - 연산자 끼워넣기 - Python
+- BOJ 1202: 보석 도둑 - Swift
+- BOJ 1744: 수 묶기 - Swift
+- BOJ 14888: 연산자 끼워넣기 - Python
 
 ### Jun 11, 2023
-- BOJ 1946 - 신입 사원 - C++
+- BOJ 1946: 신입 사원 - C++
 
 ### Jun 8, 2023
-- BOJ 1715 - 카드 정렬하기 - Swift
+- BOJ 1715: 카드 정렬하기 - Swift
 
 ### Jun 7, 2023
-- BOJ 13305 - 주유소 - Swift
-- BOJ 10610 - 30 - Swift
+- BOJ 13305: 주유소 - Swift
+- BOJ 10610: 30 - Swift
 
 ### Jun 6, 2023
-- BOJ 1026 - 보물 - Swift
-- BOJ 2217 - 로프 - Swift
-- BOJ 1789 - 수들의 합 - Swift
+- BOJ 1026: 보물 - Swift
+- BOJ 2217: 로프 - Swift
+- BOJ 1789: 수들의 합 - Swift
 
 ### Jun 5, 2023
-- BOJ 16120 - PPAP - Swift, Python
+- BOJ 16120: PPAP - Swift, Python
 
 ### Jun 4, 2023
-- BOJ 1786 - 찾기 - C++
+- BOJ 1786: 찾기 - C++
 
 ### Jun 3, 2023
-- BOJ 5582 - 공통 부분 문자열 - C++
-- BOJ 1958 - LCS3 - C++
+- BOJ 5582: 공통 부분 문자열 - C++
+- BOJ 1958: LCS3 - C++
 
 ### Jun 2, 2023
-- BOJ 10799 - 쇠막대기 - Swift
+- BOJ 10799: 쇠막대기 - Swift
 
 ### Jun 1, 2023
-- BOJ 20291 - 파일 정리 - Swift
-- BOJ 20920 - 영단어 암기는 괴로워 - Swift
+- BOJ 20291: 파일 정리 - Swift
+- BOJ 20920: 영단어 암기는 괴로워 - Swift
 
 </details>
 
@@ -196,97 +210,97 @@
   </summary>
 
 ### May 31, 2023
-- BOJ 2607 - 비슷한 단어 - Swift
+- BOJ 2607: 비슷한 단어 - Swift
 
 ### May 30, 2023
-- BOJ 14725 - 개미굴 - Swift
+- BOJ 14725: 개미굴 - Swift
 
 ### May 29, 2023
-- BOJ 9996 - 한국이 그리울땐 서버에 접속하지 - Swift
+- BOJ 9996: 한국이 그리울땐 서버에 접속하지 - Swift
 
 ### May 27, 2023
-- BOJ 1213 - 팰린드롬 만들기 - Swift
-- BOJ 12904 - A와 B - Swift
-- BOJ 17609 - 회문 - Swift
+- BOJ 1213: 팰린드롬 만들기 - Swift
+- BOJ 12904: A와 B - Swift
+- BOJ 17609: 회문 - Swift
 
 ### May 26, 2023
-- BOJ 14425 - 문자열 집합 - Swift
-- BOJ 17412 - 단어 뒤집기2 - Swift
-- BOJ 11478 - 서로 다른 부분 문자열의 개수 - Python
+- BOJ 14425: 문자열 집합 - Swift
+- BOJ 17412: 단어 뒤집기2 - Swift
+- BOJ 11478: 서로 다른 부분 문자열의 개수 - Python
 
 ### May 25, 2023
-- BOJ 12891 - DNA비밀번호 - Swift
+- BOJ 12891: DNA비밀번호 - Swift
 
 ### May 24, 2023
-- BOJ 1439 - 뒤집기 - Swift
-- BOJ 4358 - 생태학 - Swift
-- BOJ 1254 - 팰린드롬 만들기 - Swift
-- BOJ 9935 - 문자열 폭발 - C++
+- BOJ 1439: 뒤집기 - Swift
+- BOJ 4358: 생태학 - Swift
+- BOJ 1254: 팰린드롬 만들기 - Swift
+- BOJ 9935: 문자열 폭발 - C++
 
 ### May 23, 2023
-- BOJ 1158 - 요세푸스 문제 - Swift
-- BOJ 2156 - 포도주 시식 - Swift
-- BOJ 10844 - 쉬운 계단 수 - Swift ▲
-- BOJ 1010 - 다리 놓기 - Swift
+- BOJ 1158: 요세푸스 문제 - Swift
+- BOJ 2156: 포도주 시식 - Swift
+- BOJ 10844: 쉬운 계단 수 - Swift ▲
+- BOJ 1010: 다리 놓기 - Swift
 
 ### May 22, 2023
-- BOJ 1316 - 그룹 단어 체커 - Swift
-- BOJ 1193 - 분수 찾기 - Swift
-- BOJ 1912 - 연속합 - Swift
+- BOJ 1316: 그룹 단어 체커 - Swift
+- BOJ 1193: 분수 찾기 - Swift
+- BOJ 1912: 연속합 - Swift
 
 ### May 21, 2023
-- BOJ 4673 - 셀프 넘버 - C++
-- BOJ 1065 - 한수 - C++
+- BOJ 4673: 셀프 넘버 - C++
+- BOJ 1065: 한수 - C++
 
 ### May 17, 2023
-- BOJ 21924 - 도시 건설 - C++
+- BOJ 21924: 도시 건설 - C++
 
 ### May 16, 2023
-- BOJ 7785 - 회사에 있는 사람 - Swift
-- BOJ 1181 - 단어 정렬 - Swift
+- BOJ 7785: 회사에 있는 사람 - Swift
+- BOJ 1181: 단어 정렬 - Swift
 
 ### May 15, 2023
-- BOJ 17396 - 백도어 - Swift
+- BOJ 17396: 백도어 - Swift
 
 ### May 14, 2023
-- BOJ 20007 - 떡 돌리기 - Swift
+- BOJ 20007: 떡 돌리기 - Swift
 
 ### May 10, 2023
-- BOJ 10282 - 해킹 - Swift
-- BOJ 18352 - 특정 거리의 도시 찾기 - Swift
+- BOJ 10282: 해킹 - Swift
+- BOJ 18352: 특정 거리의 도시 찾기 - Swift
 
 ### May 9, 2023
-- Programemrs - 양궁 대회 - Swift
-- Programmers - 과제 진행하기 - Swift
+- Programemrs: 양궁 대회 - Swift
+- Programmers: 과제 진행하기 - Swift
 
 ### May 8, 2023
-- Programmers - 이모티콘 할인 행사 - Swift
+- Programmers: 이모티콘 할인 행사 - Swift
 
 ### May 7, 2023
-- Programmers - 혼자서 하는 틱택토 - Swift
+- Programmers: 혼자서 하는 틱택토 - Swift
 
 ### May 6, 2023
-- Programmers - 요격 시스템 - Swift
-- Programmers - 두 원 사이의 정수 쌍 - Swift
+- Programmers: 요격 시스템 - Swift
+- Programmers: 두 원 사이의 정수 쌍 - Swift
 
 ### May 5, 2023
-- Programmers - 우박수열 정적분 - Swift
-- Programmers - N-queen - Swift
+- Programmers: 우박수열 정적분 - Swift
+- Programmers: N-queen - Swift
 
 ### May 4, 2023
-- Programmers - 디펜스 게임 - Swift
+- Programmers: 디펜스 게임 - Swift
 
 ### May 3, 2023
-- Programmers - 광물 캐기 - Swift
-- Programmers - 미로 탈출 - Swift
-- Programmers - 시소 짝꿍 - Swift
+- Programmers: 광물 캐기 - Swift
+- Programmers: 미로 탈출 - Swift
+- Programmers: 시소 짝꿍 - Swift
 
 ### May 2, 2023
-- Programmers - 테이블 해시 함수 - Swift
-- Programmers - 혼자 놀기의 달인 - Swift
+- Programmers: 테이블 해시 함수 - Swift
+- Programmers: 혼자 놀기의 달인 - Swift
 
 ### May 1, 2023
-- Programmers - 숫자 카드 나누기 - Swift
+- Programmers: 숫자 카드 나누기 - Swift
 
 </details>
 
@@ -296,135 +310,135 @@
   </summary>
 
 ### Apr 30, 2023
-- Programmers - 마법의 엘리베이터 - Swift
-- Programmers - 하노이의 탑 - Swift
+- Programmers: 마법의 엘리베이터 - Swift
+- Programmers: 하노이의 탑 - Swift
 
 ### Apr 28, 2023
-- Programmers - 거리두기 확인하기 - Swift
-- Programmers - 점 찍기 - Swift
-- Programmers - 멀쩡한 사각형 - Swift
-- Programmers - 호텔 대실 - Swift
-- BOJ5972 - 택배 배송 - Swift
+- Programmers: 거리두기 확인하기 - Swift
+- Programmers: 점 찍기 - Swift
+- Programmers: 멀쩡한 사각형 - Swift
+- Programmers: 호텔 대실 - Swift
+- BOJ5972: 택배 배송 - Swift
 
 ### Apr 27, 2023
-- Programmers - 무인도 여행 - Swift
-- Programmers - 전력망을 둘로 나누기 - Swift
+- Programmers: 무인도 여행 - Swift
+- Programmers: 전력망을 둘로 나누기 - Swift
 
 ### Apr 26, 2023
-- Programmers - 행렬 테두리 회전하기 - Swift
-- Programmers - 배달 - Swift
+- Programmers: 행렬 테두리 회전하기 - Swift
+- Programmers: 배달 - Swift
 
 ### Apr 25, 2023
-- Programmers - 연속된 부분 수열의 합 - Swift
-- Programmers - [3차] 방금그곡 - Swift
-- Programmers - 괄호 변환 - Swift
-- BOJ2407 - 조합 - Swift
+- Programmers: 연속된 부분 수열의 합 - Swift
+- Programmers: [3차] 방금그곡 - Swift
+- Programmers: 괄호 변환 - Swift
+- BOJ2407: 조합 - Swift
 
 ### Apr 24, 2023
-- Programmers - 두 큐 합 같게 만들기 - Swift
-- Programmers - 괄호 변환 - Swift
-- Programmers - 택배상자 - Swift
-- BOJ 1339 - 단어 수학 - Swift
+- Programmers: 두 큐 합 같게 만들기 - Swift
+- Programmers: 괄호 변환 - Swift
+- Programmers: 택배상자 - Swift
+- BOJ 1339: 단어 수학 - Swift
 
 ### Apr 23, 2023
-- Programmers - 메뉴 리뉴얼 - Swift
-- Programmers - 삼각 달팽이 - Swift
-- Programmers - 큰 수 만들기 - Swift
+- Programmers: 메뉴 리뉴얼 - Swift
+- Programmers: 삼각 달팽이 - Swift
+- Programmers: 큰 수 만들기 - Swift
 
 ### Apr 22, 2023
-- Programmers - 쿼드압축 후 개수 세기 - Swift
-- Programmers - 롤케이크 자르기 - Swift
+- Programmers: 쿼드압축 후 개수 세기 - Swift
+- Programmers: 롤케이크 자르기 - Swift
 
 ### Apr 21, 2023
-- Programmers - 소수 찾기 - Swift
+- Programmers: 소수 찾기 - Swift
 
 ### Apr 20, 2023
-- Programmers - 가장 큰 수 - Swift
-- Programmers - 숫자 변환하기 - Swift
+- Programmers: 가장 큰 수 - Swift
+- Programmers: 숫자 변환하기 - Swift
 
 ### Apr 19, 2023
-- Programmers - 뒤에 있는 큰 수 찾기 - Swift
-- Programmers - 2개 이하로 다른 비트 - Swift
-- Programmers - 다리를 지나는 트럭 - Swift
-- BOJ 1011 - Fly me to the Alpha Centauri - Swift
-- BOJ 20928 - 걷는 건 귀찮아 - Swift
+- Programmers: 뒤에 있는 큰 수 찾기 - Swift
+- Programmers: 2개 이하로 다른 비트 - Swift
+- Programmers: 다리를 지나는 트럭 - Swift
+- BOJ 1011: Fly me to the Alpha Centauri - Swift
+- BOJ 20928: 걷는 건 귀찮아 - Swift
 
 ### Apr 18, 2023
-- Programmers - [1차] 프렌즈4블록 - Swift
+- Programmers: [1차] 프렌즈4블록 - Swift
 
 ### Apr 17, 2023
-- Programmers - [3차] 파일명 정렬 - Swift
+- Programmers: [3차] 파일명 정렬 - Swift
 
 ### Apr 14, 2023
-- BOJ 1647 - 도시 분할 계획 - C++
-- BOJ 4485 - 녹색 옷 입은 애가 젤다지? - Swift
-- BOJ 5052 - 전화번호 목록 - Swift
+- BOJ 1647: 도시 분할 계획 - C++
+- BOJ 4485: 녹색 옷 입은 애가 젤다지? - Swift
+- BOJ 5052: 전화번호 목록 - Swift
 
 ### Apr 13, 2023
-- Programmers - 모음사전 - Swift
-- Programmers - 땅따먹기 - Swift
-- Programmers - 스킬트리 - Swift
-- Programmers - 방문 길이 - Swift
-- BOJ 1992 - 네트워크 연결 - Swift
+- Programmers: 모음사전 - Swift
+- Programmers: 땅따먹기 - Swift
+- Programmers: 스킬트리 - Swift
+- Programmers: 방문 길이 - Swift
+- BOJ 1992: 네트워크 연결 - Swift
 
 ### Apr 12, 2023
-- Programmers - 오픈채팅방 - Swift
-- Programmers - 주차 요금 계산 - Swift
+- Programmers: 오픈채팅방 - Swift
+- Programmers: 주차 요금 계산 - Swift
 
 ### Apr 11, 2023
-- Programmers - 할인 행사 - Swift
-- Programmers - [3차] 압축 - Swift
-- Programmers - [3차] n진수 게임 - Swift
+- Programmers: 할인 행사 - Swift
+- Programmers: [3차] 압축 - Swift
+- Programmers: [3차] n진수 게임 - Swift
 
 ### Apr 9, 2023
-- Programmers - 피로도 - Swift
-- Programmers - k진수에서 소수 개수 구하기 - Swift
-- Programmers - 타겟 넘버 - Swift
+- Programmers: 피로도 - Swift
+- Programmers: k진수에서 소수 개수 구하기 - Swift
+- Programmers: 타겟 넘버 - Swift
 
 ### Apr 8, 2023
-- Programmers - 프린터 - Swift
-- Programmers - 뉴스 클러스터링 - Swift
+- Programmers: 프린터 - Swift
+- Programmers: 뉴스 클러스터링 - Swift
 
 ### Apr 7, 2023
-- Programmers - n^2 배열 자르기 - Swift
-- Programmers - 기능개발 - Swift
+- Programmers: n^2 배열 자르기 - Swift
+- Programmers: 기능개발 - Swift
 
 ### Apr 6, 2023
-- Programmers - [1차] 캐시 - Swift
-- Programmers - 연속 부분 수열 합의 개수  - Swift
-- Programmers - 위장 - Swift
-- Programmers - 튜플 - Swift
+- Programmers: [1차] 캐시 - Swift
+- Programmers: 연속 부분 수열 합의 개수  - Swift
+- Programmers: 위장 - Swift
+- Programmers: 튜플 - Swift
 
 ### Apr 5, 2023
-- Programmers - 귤 고르기 - Swift
-- Programmers - 괄호 회전하기 - Swift
+- Programmers: 귤 고르기 - Swift
+- Programmers: 괄호 회전하기 - Swift
 
 ### Apr 4, 2023
-- Programmers - 점프와 순간 이동 - Swift
-- Programmers - 멀리 뛰기 - Swift
-- Programmers - H-Index - Swift
+- Programmers: 점프와 순간 이동 - Swift
+- Programmers: 멀리 뛰기 - Swift
+- Programmers: H-Index - Swift
 
 ### Apr 3, 2023
-- Programmers - 개인정보 수집 유효기간 - Swift
-- Programmers - 대충 만든 자판 - Swift
-- Programmers - 둘만의 암호 - Swift
-- Programmers - 문자열 나누기 - Swift
-- Programmers - 옹알이(2) - Swift
-- Programmers - 햄버거 만들기 - Swift
+- Programmers: 개인정보 수집 유효기간 - Swift
+- Programmers: 대충 만든 자판 - Swift
+- Programmers: 둘만의 암호 - Swift
+- Programmers: 문자열 나누기 - Swift
+- Programmers: 옹알이(2) - Swift
+- Programmers: 햄버거 만들기 - Swift
 
 ### Apr 2, 2023
-- Programmers - 명예의 전당(1) - Swift
-- Programmers - 추억 점수 - Swift
-- Programmers - 기사단원의 무기 - Swift
-- Programmers - 카드 뭉치 - Swift
-- Programmers - 숫자 짝궁 - Swift
+- Programmers: 명예의 전당(1) - Swift
+- Programmers: 추억 점수 - Swift
+- Programmers: 기사단원의 무기 - Swift
+- Programmers: 카드 뭉치 - Swift
+- Programmers: 숫자 짝궁 - Swift
 
 ### Apr 1, 2023
-- Programmers - 크기가 작은 부분문자열 - Swift
-- Programmers - 콜라 문제 - Swift
-- Programmers - 푸드 파이트 대회 - Swift
-- Programmers - 가장 가까운 같은 글자 - Swift
-- Programmers - 과일 장수 - Swift
+- Programmers: 크기가 작은 부분문자열 - Swift
+- Programmers: 콜라 문제 - Swift
+- Programmers: 푸드 파이트 대회 - Swift
+- Programmers: 가장 가까운 같은 글자 - Swift
+- Programmers: 과일 장수 - Swift
 
 </details>
 
@@ -434,13 +448,13 @@
   </summary>
 
 ### Mar 31, 2023
-- Programmers - 삼총사 - Swift
+- Programmers: 삼총사 - Swift
 
 ### Mar 30, 2023
-- Programmers - 덧칠하기 - Python
+- Programmers: 덧칠하기 - Python
 
 ### Mar 29, 2023
-- Programmers - 바탕화면 정리 - Swift
+- Programmers: 바탕화면 정리 - Swift
 
 ### Mar 28, 2023
 - BOJ 1167 - Swift
