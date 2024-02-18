@@ -8,6 +8,10 @@
     <b>Feb 2024</b>
   </summary>
 
+### Feb 18, 2024
+- BOJ 2096: 내려가기 - Swift
+- BOJ 2448: 별 찍기 - 11 - Swift
+
 ### Feb 16, 2024
 - BOJ 18110: solved.ac - C++
 
