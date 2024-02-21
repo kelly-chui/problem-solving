@@ -8,6 +8,9 @@
     <b>Feb 2024</b>
   </summary>
 
+### Feb 19, 2024
+- BOJ 12851: 숨바꼭질2 - Swift
+
 ### Feb 18, 2024
 - BOJ 2096: 내려가기 - Swift
 - BOJ 2448: 별 찍기 - 11 - Swift
