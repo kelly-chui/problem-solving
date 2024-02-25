@@ -1,35 +1,29 @@
 import Foundation
 
-let mod = 1000000007
-func getExpectedValue(_ n: Int, _ s: Int) -> Int {
-    return s * getSquaredNumber(n, mod - 2) % mod
-}
+let mod: Int = 1000000007
 
-func getSquaredNumber(_ num: Int, _ exp: Int) -> Int {
-    if exp == 1 {
-        return num
+func power(_ base: Int, _ exponent: Int) -> Int {
+    var result = 1
+    var base = base
+    var exponent = exponent
+    while exponent > 0 {
+        if exponent & 1 == 1 {
+            result = result * base % mod
+        }
+        exponent /= 2
+        base = base * base % mod
     }
-
-    if exp % 2 == 0 {
-        let half = getSquaredNumber(num, exp/2)
-        return half * half % mod
-    } else {
-        return num * getSquaredNumber(num, exp - 1) % X
-    }
+    return result
 }
 
-let M = Int(readLine()!)!
-var sum = 0
 
-for _ in 0..<M {
-    let input = readLine()!.split(separator: " ").map { Int($0)! }
-    var (n, s) = (input[0], input[1])
-    let gcd = n.gcd(s)
-    n /= gcd
-    s /= gcd
+let m = Int(readLine()!)!
+var ans = 0
 
-    sum += getExpectedValue(n, s)
-    sum %= X
+for _ in 0..<m {
+    let ns = readLine()!.split(separator: " ").map { Int(String($0))! }
+    let (n, s) = (ns[0], ns[1])
+    ans += (s * power(n, mod - 2)) % mod
 }
 
-print(sum)
+print(ans % mod)
