@@ -8,6 +8,9 @@
     <b>Mar 2024</b>
   </summary>
 
+### Mar 15, 2024
+- Programmers: 문자열 압축 - Swift
+
 ### Mar 4, 2024
 - BOJ 1005: ACM Craft - C++
 
