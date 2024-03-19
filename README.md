@@ -8,6 +8,11 @@
     <b>Mar 2024</b>
   </summary>
 
+### Mar 19, 2024
+- Programmers: 폰켓몬 - Python
+- Programmers: 같은 숫자는 싫어 - Python
+- Programmers: 완주하지 못한 선수 - Python
+
 ### Mar 18, 2024
 - Programmers: 가장 큰 정사각형 찾기 - Swift
 - Programmers: 가장 많이 받은 선물 - Swift
