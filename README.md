@@ -8,7 +8,12 @@
     <b>Mar 2024</b>
   </summary>
 
-### Mar 21, 204
+### Mar 22, 2024
+- BOJ 1414: 불우이웃돕기 - Swift
+- BOJ 1368: 물대기 - Swift
+- BOJ 18223: 민준이와 마산 그리고 건우 - Swift
+
+### Mar 21, 2024
 - Programmers: 데이터 분석 - Python
 - Programmers: 붕대 감기 - Python
 - Programmers: 이웃한 칸 - Python
