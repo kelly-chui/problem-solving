@@ -1,3 +1,4 @@
+import sys
 from collections import deque
 
 def bfs(root):
@@ -20,13 +21,13 @@ graph = {}
 case_count = 1
 while True:
     answer = 0
-    n, m = map(int, input().split())
+    n, m = map(int, sys.stdin.readline().split())
     if (n, m) == (0, 0):
         break
     graph = {}
     isVisited = [False] * (n + 1)
     for _ in range(m):
-        a, b = map(int, input().split())
+        a, b = map(int, sys.stdin.readline().split())
         if a in graph:
             graph[a].append(b)
         else:
@@ -51,5 +52,3 @@ while True:
     else:
         print(f"Case {case_count}: A forest of {answer} trees.")
     case_count += 1
-
-

@@ -8,8 +8,11 @@
     <b>Apr 2024</b>
   </summary>
 
+### Apr 6, 2024
+- BOJ 1486: 등산 - Python
+
 ### Apr 5, 2024
-- BOJ4803: 트리 - Python
+- BOJ 4803: 트리 - Python
 
 </details>
 
