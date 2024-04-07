@@ -8,6 +8,9 @@
     <b>Apr 2024</b>
   </summary>
 
+### Apr 7, 2024
+- BOJ 10159: 저울 - Python
+- BOJ 14658: 하늘에서 별똥별이 빗발친다 - Python
 ### Apr 6, 2024
 - BOJ 1486: 등산 - Python
 

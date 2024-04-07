@@ -1,3 +1,3 @@
-a = input().split()
-
-print(a)
+a = (1, 2)
+b, c = a
+print(b, c)
