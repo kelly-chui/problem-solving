@@ -8,8 +8,11 @@
     <b>Apr 2024</b>
   </summary>
 
+### Apr 11, 2024
+- BOJ 18428: 감시 피하기 - Python
+
 ### Apr 8, 2024
-- BOJ14226: 이모티콘 - Swift
+- BOJ 14226: 이모티콘 - Swift
 
 ### Apr 7, 2024
 - BOJ 10159: 저울 - Python
