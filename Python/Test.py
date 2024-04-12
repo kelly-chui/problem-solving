@@ -1,3 +1,2 @@
-a = (1, 2)
-b, c = a
-print(b, c)
+dict = {(1, 0): 1}
+print(dict)

@@ -1,4 +1,5 @@
 def dfs(start):
+    global o_num
     if o_num == 3:
         if check():
             print("YES")
@@ -27,19 +28,19 @@ def check():
                 return False
             elif graph[new_row][cur_column] == "O":
                 break
-
+        
         for new_column in range(cur_column, -1, -1):
             if graph[cur_row][new_column] == "S":
                 return False
             elif graph[cur_row][new_column] == "O":
                 break
-
+        
         for new_column in range(cur_column, n):
             if graph[cur_row][new_column] == "S":
                 return False
             elif graph[cur_row][new_column] == "O":
                 break
-        return True
+    return True
 
 n = int(input())
 graph = []
@@ -57,4 +58,5 @@ for row in range(n):
         elif graph[row][column] == "T":
             teachers.append((row, column))
 
+dfs(0)
 print("NO")
