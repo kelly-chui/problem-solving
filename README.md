@@ -8,6 +8,12 @@
     <b>Apr 2024</b>
   </summary>
 
+### Apr 14, 2024
+- BOJ 12100: 2048(Easy) - Swift
+
+### Apr 13, 2024
+- BOJ 13460: 구슬 탈출 2 - Swift
+
 ### Apr 12, 2024
 - BOJ 18428: MooTube(Silver) - Python
 - BOJ 10021: Watering the Fields - Python
