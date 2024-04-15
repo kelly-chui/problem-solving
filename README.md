@@ -8,6 +8,9 @@
     <b>Apr 2024</b>
   </summary>
 
+### Apr 15, 2024
+- BOJ 14499: 주사위 굴리기 - Python
+
 ### Apr 14, 2024
 - BOJ 12100: 2048(Easy) - Swift
 
@@ -15,7 +18,7 @@
 - BOJ 13460: 구슬 탈출 2 - Swift
 
 ### Apr 12, 2024
-- BOJ 18428: MooTube(Silver) - Python
+- BOJ 15591: MooTube(Silver) - Python
 - BOJ 10021: Watering the Fields - Python
 - BOJ 5558: チーズ (Cheese) - Python
 
