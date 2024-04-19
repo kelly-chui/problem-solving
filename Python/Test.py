@@ -1,2 +1,1 @@
-dict = {(1, 0): 1}
-print(dict)
+print(-1 % 8)

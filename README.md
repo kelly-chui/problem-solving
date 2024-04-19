@@ -8,6 +8,10 @@
     <b>Apr 2024</b>
   </summary>
 
+### Apr 19, 2024
+- BOJ 14891: 톱니바퀴 - Python
+- BOJ 14890: 경사로 - Python
+
 ### Apr 17, 2024
 - BOJ 14503: 로봇 청소기 - Swift
 
