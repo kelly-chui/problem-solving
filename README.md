@@ -7,6 +7,8 @@
   <summary>
     <b>Apr 2024</b>
   </summary>
+### Apr 20, 2024
+- BOJ 12886: 돌 그룹 - Python
 
 ### Apr 19, 2024
 - BOJ 14891: 톱니바퀴 - Python
