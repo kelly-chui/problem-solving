@@ -1,11 +1,7 @@
-a = set([(1)])
-b = tuple([1])
-c = (1)
+b = tuple([1, 2])
+c = (1, 2)
 
-if b in a:
-    print("a")
+if b == c:
+    print("O")
 else:
-    print("no")
-print(a)
-print(b)
-print(c)
+    print("X")

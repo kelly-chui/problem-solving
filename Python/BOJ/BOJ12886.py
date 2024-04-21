@@ -1,39 +1,33 @@
 from collections import deque
 
+def swap(a, b):
+    return (b, a)
+
 def bfs(start):
-    moves = [(0, 1), (1, 2), (0, 2)]
     is_visited = set([])
     queue = deque()
     queue.append(start)
-    is_visited.add(tuple(start))
+    is_visited.add(start)
 
     while queue:
-        current = queue.popleft()
-        for move in moves:
-            if current[move[0]] == current[move[1]]:
+        big, small = queue.popleft()
+        mid = total - (big + small)
+        if big == mid and big == small and small == mid:
+            print(1)
+            exit()
+        for group1, group2 in [(big, small), (mid, small), (big, mid)]:
+            if group1 == group2:
                 continue
-            temp = current
-            if current[move[0]] < current[move[1]]:
-                small = move[0]
-                big = move[1]
-            else:
-                small = move[1]
-                big = move[0]
-            temp[small] = current[small] + current[small]
-            temp[big] = current[big] - current[small]
-            if tuple(temp) in is_visited:
+            if group1 < group2:
+                group2, group1 = swap(group1, group2)
+            group1, group2 = group1 - group2, group2 * 2
+            group3 = total - (group2 + group1)
+            if (max([group1, group2, group3]), min([group1, group2, group3])) in is_visited:
                 continue
-            if temp[0] == temp[1] and temp[0] == temp[2] and temp[1] == temp[2]:
-                print(1)
-                exit()
-            queue.append(temp)
-            is_visited.add(tuple(temp))
-
+            queue.append((max([group1, group2, group3]), min([group1, group2, group3])))
+            is_visited.add((max([group1, group2, group3]), min([group1, group2, group3])))
+            
 a, b, c = map(int, input().split())
-
-if (a + b + c) % 3 != 0:
-    print(0)
-    exit()
-
-bfs([a, b, c])
+total = a + b + c
+bfs((max([a, b, c]), min([a, b, c])))
 print(0)
