@@ -8,6 +8,9 @@
     <b>Apr 2024</b>
   </summary>
 
+### Apr 24, 2024
+- BOJ 12818: A와 B 2 - Python
+
 ### Apr 23, 2024
 - BOJ 7682: 틱택토 - Swift
 
