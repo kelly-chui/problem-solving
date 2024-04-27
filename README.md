@@ -8,6 +8,11 @@
     <b>Apr 2024</b>
   </summary>
 
+### Apr 27, 2024
+- BOJ 9655: 돌 게임 - Python
+- BOJ 10431: 줄세우기 - Python
+- BOJ 8979: 올림픽 - Python
+
 ### Apr 26, 2024
 - BOJ 15989: 1, 2, 3 더하기 4 - Python
 
