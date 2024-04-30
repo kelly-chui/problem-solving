@@ -8,6 +8,9 @@
     <b>Apr 2024</b>
   </summary>
 
+### Apr 30, 2024
+- BOJ 19941: 햄버거 분배 - Swift
+
 ### Apr 29, 2024
 - BOJ 21921: 블로그 - Swift
 
