@@ -8,6 +8,9 @@
     <b>Apr 2024</b>
   </summary>
 
+### May 3, 2024
+- BOJ 19637: IF문 좀 대신 써줘 - Swift
+
 ### May 2, 2024
 - BOJ 3758: KCPC - Swift
 
