@@ -8,6 +8,11 @@
     <b>Apr 2024</b>
   </summary>
 
+### May 5, 2024
+- BOJ 20125: 쿠키의 신체 측정 - Swift
+- BOJ 1205: 등수 구하기 - Swift
+- BOJ 1244: 스위치 켜고 끄기 - Swift
+
 ### May 3, 2024
 - BOJ 19637: IF문 좀 대신 써줘 - Swift
 
