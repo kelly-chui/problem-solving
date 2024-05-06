@@ -8,6 +8,10 @@
     <b>Apr 2024</b>
   </summary>
 
+### May 6, 2024
+- BOJ 9017: 크로스 컨트리 - Swift
+- BOJ 17266: 어두운 굴다리 - Swift
+
 ### May 5, 2024
 - BOJ 20125: 쿠키의 신체 측정 - Swift
 - BOJ 1205: 등수 구하기 - Swift
