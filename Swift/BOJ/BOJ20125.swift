@@ -46,15 +46,15 @@ while board[headLocation.0][headLocation.1] == "*" {
     if headLocation.0 < 0 { break }
 }
 
-var wristLength = 0
-var wristLocation = (heartLocation.0 + 1, heartLocation.1)
-while board[wristLocation.0][wristLocation.1] == "*" {
-    wristLength += 1
-    wristLocation.0 += 1
+var waistLength = 0
+var waistLocation = (heartLocation.0 + 1, heartLocation.1)
+while board[waistLocation.0][waistLocation.1] == "*" {
+    waistLength += 1
+    waistLocation.0 += 1
 }
 
 var leftLegLength = 0
-var leftLegLocation = (wristLocation.0, wristLocation.1 - 1)
+var leftLegLocation = (waistLocation.0, waistLocation.1 - 1)
 while board[leftLegLocation.0][leftLegLocation.1] == "*" {
     leftLegLength += 1
     leftLegLocation.0 += 1
@@ -62,7 +62,7 @@ while board[leftLegLocation.0][leftLegLocation.1] == "*" {
 }
 
 var rightLegLength = 0
-var rightLegLocation = (wristLocation.0, wristLocation.1 + 1)
+var rightLegLocation = (waistLocation.0, waistLocation.1 + 1)
 while board[rightLegLocation.0][rightLegLocation.1] == "*" {
     rightLegLength += 1
     rightLegLocation.0 += 1
@@ -70,4 +70,4 @@ while board[rightLegLocation.0][rightLegLocation.1] == "*" {
 }
 
 print(heartLocation.0 + 1, heartLocation.1 + 1)
-print(leftArmLength, rightArmLength, wristLength, leftLegLength, rightLegLength)
+print(leftArmLength, rightArmLength, waistLength, leftLegLength, rightLegLength)
