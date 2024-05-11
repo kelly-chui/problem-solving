@@ -8,6 +8,9 @@
     <b>Apr 2024</b>
   </summary>
 
+### May 11, 2024
+- BOJ 17484: 진우의 달 여행 (Small)
+
 ### May 10, 2024
 - BOJ 20310: 타노스 - Swift
 
