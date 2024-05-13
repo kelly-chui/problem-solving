@@ -8,9 +8,11 @@
     <b>Apr 2024</b>
   </summary>
 
+### May 13, 2024
+- BOJ 20006: 랭킹전 대기열 - Python
+
 ### May 12, 2024
 - BOJ 22233: 가희와 키워드 - Python
-
 
 ### May 11, 2024
 - BOJ 17484: 진우의 달 여행 (Small) - Swift
