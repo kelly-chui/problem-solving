@@ -8,6 +8,10 @@
     <b>Apr 2024</b>
   </summary>
 
+### May 17, 2024
+- BOJ 1406: 에디터 - Python
+- BOJ 1138: 한 줄로 서기 - Python
+
 ### May 15, 2024
 - BOJ 2304: 창고 다각형 - Python
 - BOJ 11501: 주식 - Python
