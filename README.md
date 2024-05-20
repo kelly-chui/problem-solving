@@ -5,8 +5,13 @@
 
 <details>
   <summary>
-    <b>Apr 2024</b>
+    <b>May 2024</b>
   </summary>
+
+### May 20, 2024
+- BOJ 20922: 겹치는 건 싫어 - C++
+- BOJ 1446: 지름길 - C++
+- BOJ 17615: 볼 모으기 - C++
 
 ### May 17, 2024
 - BOJ 1406: 에디터 - Python
