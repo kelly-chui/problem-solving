@@ -1,3 +1,1 @@
-for i in 1..<1 {
-    print(i)
-}
+print(-1 % 6)
