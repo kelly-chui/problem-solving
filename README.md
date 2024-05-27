@@ -8,6 +8,9 @@
     <b>May 2024</b>
   </summary>
 
+### May 27, 2024
+- BOJ 4963: 섬의 개수 - Swift
+
 ### May 26, 2024
 - BOJ 7562: 나이트의 이동 - Swift
 
