@@ -8,6 +8,10 @@
     <b>May 2024</b>
   </summary>
 
+### May 28, 2024
+- BOJ 20437: 문자열 게임2 - Swift
+- BOJ 14719: 빗물 - C++
+
 ### May 27, 2024
 - BOJ 4963: 섬의 개수 - Swift
 
