@@ -8,6 +8,9 @@
     <b>May 2024</b>
   </summary>
 
+### May 29, 2024
+- BOJ 2583: 영역 구하기 - Python
+
 ### May 28, 2024
 - BOJ 20437: 문자열 게임2 - Swift
 - BOJ 14719: 빗물 - C++
