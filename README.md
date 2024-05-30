@@ -8,6 +8,9 @@
     <b>May 2024</b>
   </summary>
 
+### May 30, 2024
+- BOJ 2644: 촌수계산 - Python
+
 ### May 29, 2024
 - BOJ 2583: 영역 구하기 - Python
 
