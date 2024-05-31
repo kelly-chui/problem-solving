@@ -8,6 +8,9 @@
     <b>May 2024</b>
   </summary>
 
+### May 31, 2024
+- BOJ 2210: 숫자판 점프 - Swift
+
 ### May 30, 2024
 - BOJ 2644: 촌수계산 - Python
 
