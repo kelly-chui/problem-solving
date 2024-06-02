@@ -5,6 +5,17 @@
 
 <details>
   <summary>
+    <b>June 2024</b>
+  </summary>
+
+### Jun 1, 2024
+- BOJ 1926: 그림 - Swift
+- BOJ 1325: 효율적인 해킹 - Swift
+
+</details>
+
+<details>
+  <summary>
     <b>May 2024</b>
   </summary>
 
