@@ -10,7 +10,7 @@
 
 ### Jun 1, 2024
 - BOJ 1926: 그림 - Swift
-- BOJ 1325: 효율적인 해킹 - Swift
+- BOJ 1325: 효율적인 해킹 - C++
 
 </details>
 
