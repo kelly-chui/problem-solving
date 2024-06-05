@@ -8,6 +8,11 @@
     <b>June 2024</b>
   </summary>
 
+### Jun 5, 2024
+- BOJ 2138: 전구와 스위치 - Swift
+- BOJ 1863: 스카이라인 쉬운거 - Python
+- BOJ 22251: 빌런 호석 - Swift
+
 ### Jun 4, 2024
 - BOJ 2668: 숫자고르기 - C++
 
