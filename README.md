@@ -8,6 +8,10 @@
     <b>June 2024</b>
   </summary>
 
+### Jun 8, 2024
+- BOJ 2589: 보물섬 - Swift
+- BOJ 2003: 수들의 합 2 - C++
+
 ### Jun 5, 2024
 - BOJ 2138: 전구와 스위치 - Swift
 - BOJ 1863: 스카이라인 쉬운거 - Python
