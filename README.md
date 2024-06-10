@@ -8,6 +8,10 @@
     <b>June 2024</b>
   </summary>
 
+### Jun 10, 2024
+- BOJ 7490: 0 만들기 - Swift
+- BOJ 4179: 불! - Python
+
 ### Jun 8, 2024
 - BOJ 2589: 보물섬 - Swift
 - BOJ 2003: 수들의 합 2 - C++
