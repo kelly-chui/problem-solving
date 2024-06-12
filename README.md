@@ -8,6 +8,9 @@
     <b>June 2024</b>
   </summary>
 
+### Jun 12: 204
+- BOJ 13144: List of Unique Numbers - Swift
+
 ### Jun 10, 2024
 - BOJ 7490: 0 만들기 - Swift
 - BOJ 4179: 불! - Python
