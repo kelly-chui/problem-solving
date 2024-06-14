@@ -8,7 +8,14 @@
     <b>June 2024</b>
   </summary>
 
-### Jun 12: 204
+### Jun 14, 2024
+- BOJ 13335: 트럭 - Swift
+- BOJ 1713: 후보 추천하기 - Swift
+
+### Jun 13, 2024
+- Programmers: 후보키 - Swift
+
+### Jun 12, 2024
 - BOJ 13144: List of Unique Numbers - Swift
 
 ### Jun 10, 2024
