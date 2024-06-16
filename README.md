@@ -8,6 +8,9 @@
     <b>June 2024</b>
   </summary>
 
+### Jun 16, 2024
+- Programmers: 조이스틱 - Swift
+
 ### Jun 14, 2024
 - BOJ 13335: 트럭 - Swift
 - BOJ 1713: 후보 추천하기 - Swift
