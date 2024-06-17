@@ -8,6 +8,9 @@
     <b>June 2024</b>
   </summary>
 
+### Jun 17, 2024
+- BOJ 2669: 직사각형 네개의 합집합의 면적 구하기 - Swift
+
 ### Jun 16, 2024
 - Programmers: 조이스틱 - Swift
 
