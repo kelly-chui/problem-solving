@@ -8,6 +8,10 @@
     <b>June 2024</b>
   </summary>
 
+### Jun 18, 2024
+- BOJ 1027: 고층 건물 - Swift
+- BOJ 2179: 비슷한 단어 - Swift
+
 ### Jun 17, 2024
 - BOJ 2669: 직사각형 네개의 합집합의 면적 구하기 - Swift
 
