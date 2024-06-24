@@ -8,6 +8,10 @@
     <b>June 2024</b>
   </summary>
 
+### Jun 24, 2024
+- BOJ 14950: 정복자 - Swift
+- BOJ 15565: 귀여운 라이언 - C++
+
 ### Jun 22, 2024
 - BOJ 5014: 스타트링크 - Swift
 
