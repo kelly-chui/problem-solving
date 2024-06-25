@@ -8,6 +8,9 @@
     <b>June 2024</b>
   </summary>
 
+### Jun 25, 2024
+- BOJ 6986: 절사평균 - python
+
 ### Jun 24, 2024
 - BOJ 14950: 정복자 - Swift
 - BOJ 15565: 귀여운 라이언 - C++
