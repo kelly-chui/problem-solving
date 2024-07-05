@@ -5,6 +5,16 @@
 
 <details>
   <summary>
+    <b>July 2024</b>
+  </summary>
+
+### Jul 5, 2024
+- BOJ 2012: 등수 매기기 - python
+
+</details>
+
+<details>
+  <summary>
     <b>June 2024</b>
   </summary>
 
