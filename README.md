@@ -8,6 +8,10 @@
     <b>July 2024</b>
   </summary>
 
+### Jul 6, 2024
+- BOJ 22866: 탑 보기 - Swift
+- BOJ 2639: 십자카드 문제 - Swift
+
 ### Jul 5, 2024
 - BOJ 2012: 등수 매기기 - python
 
