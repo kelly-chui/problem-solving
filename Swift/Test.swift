@@ -1,2 +1,3 @@
-var a = [Int]()
-print(a.isEmpty)
+var a = Double.infinity
+a = min(a, 0.0)
+print(a)

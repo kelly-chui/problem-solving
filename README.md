@@ -8,6 +8,10 @@
     <b>July 2024</b>
   </summary>
 
+### Jul 7, 2024
+- BOJ 1459: 걷기 - Swift
+- BOJ 2195: 문자열 복사 - Swift
+
 ### Jul 6, 2024
 - BOJ 22866: 탑 보기 - Swift
 - BOJ 2639: 십자카드 문제 - Swift
