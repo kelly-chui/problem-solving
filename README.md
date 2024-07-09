@@ -8,6 +8,9 @@
     <b>July 2024</b>
   </summary>
 
+### Jul 9, 2024
+- BOJ 1802: 종이접기 - Swift
+
 ### Jul 7, 2024
 - BOJ 1459: 걷기 - Swift
 - BOJ 2195: 문자열 복사 - Swift
