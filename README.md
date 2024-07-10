@@ -8,6 +8,9 @@
     <b>July 2024</b>
   </summary>
 
+### Jul 10, 2024
+- BOJ 2891: 카약과 강풍 - Python
+
 ### Jul 9, 2024
 - BOJ 1802: 종이접기 - Swift
 
