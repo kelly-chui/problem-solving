@@ -8,6 +8,9 @@
     <b>July 2024</b>
   </summary>
 
+### Jul 12, 2024
+- BOJ 1543: 문서 검색 - Python
+
 ### Jul 11, 2024
 - BOJ 20044: Project Teams - Swift
 
