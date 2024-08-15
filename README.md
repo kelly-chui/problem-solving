@@ -5,6 +5,14 @@
 
 <details>
   <summary>
+    <b>August 2024</b>
+  </summary>
+
+### August 15, 2024
+- BOJ 2310: 어드벤처 게임 - Swift
+
+<details>
+  <summary>
     <b>July 2024</b>
   </summary>
 
