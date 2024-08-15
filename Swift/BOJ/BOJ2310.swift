@@ -4,17 +4,13 @@ typealias Room = (npc: String, price: Int, doors: [Int])
 
 func bfs(n: Int, rooms: [Room]) -> Bool {
     var queue = [(Int, Int)]()
-    var isVisited = [Bool](repeating: false, count: n + 1)
+    var isVisited = [[Bool]](repeating: [Bool](repeating: false, count: 501), count: n + 1)
     queue.append((1, 0))
-    isVisited[1] = true
+    isVisited[1][0] = true
     
     while !queue.isEmpty {
         let (room, money) = queue.removeFirst()
-        print("ZZ", room, money)
         for newRoom in rooms[room].doors {
-            if isVisited[newRoom] {
-                continue
-            }
             let newType = rooms[newRoom].npc
             let newPrice = rooms[newRoom].price
             var newMoney = money
@@ -32,8 +28,11 @@ func bfs(n: Int, rooms: [Room]) -> Bool {
             if newRoom == n {
                 return true
             }
+            if isVisited[newRoom][newMoney] {
+                continue
+            }
             queue.append((newRoom, newMoney))
-            isVisited[newRoom] = true
+            isVisited[newRoom][newMoney] = true
         }
     }
     return false
