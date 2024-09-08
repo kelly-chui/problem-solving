@@ -11,6 +11,8 @@
 ### August 15, 2024
 - BOJ 2310: 어드벤처 게임 - Swift
 
+</details>
+
 <details>
   <summary>
     <b>July 2024</b>
@@ -319,6 +321,11 @@
 - BOJ 14940: 쉬운 최단거리 - Swift
 
 </details>
+
+<details>
+  <summary>
+    <b>2023</b>
+  </summary>
 
 <details>
   <summary>
@@ -1043,6 +1050,8 @@
 - BOJ 2805 - Python
 - BOJ 1920 - Python
 - BOJ 1654 - Python
+</details>
+
 </details>
 
 <details>
