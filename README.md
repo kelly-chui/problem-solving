@@ -8,6 +8,17 @@
     <b>August 2024</b>
   </summary>
 
+### Oct 21, 2024
+- BOJ 1068: 트리 - Swift
+- BOJ 13023: ABCDE - Swift
+
+</details>
+
+<details>
+  <summary>
+    <b>August 2024</b>
+  </summary>
+
 ### August 15, 2024
 - BOJ 2310: 어드벤처 게임 - Swift
 

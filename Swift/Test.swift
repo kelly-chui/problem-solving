@@ -1,3 +1,7 @@
-var a = Double.infinity
-a = min(a, 0.0)
-print(a)
+var n = Int(readLine()!)!
+var answer = 1
+while n > 1 {
+    answer *= n
+    n -= 1 
+}
+print(answer)
