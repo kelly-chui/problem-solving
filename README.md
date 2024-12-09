@@ -5,7 +5,15 @@
 
 <details>
   <summary>
-    <b>August 2024</b>
+    <b>December 2024</b>
+  </summary>
+
+### Dec 9, 2024
+- Programmers: 동영상 재생기 - Swift
+
+<details>
+  <summary>
+    <b>October 2024</b>
   </summary>
 
 ### Oct 21, 2024
@@ -591,7 +599,7 @@
 - BOJ 18352: 특정 거리의 도시 찾기 - Swift
 
 ### May 9, 2023
-- Programemrs: 양궁 대회 - Swift
+- Programmers: 양궁 대회 - Swift
 - Programmers: 과제 진행하기 - Swift
 
 ### May 8, 2023
