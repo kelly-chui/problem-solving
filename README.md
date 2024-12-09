@@ -11,6 +11,8 @@
 ### Dec 9, 2024
 - Programmers: 동영상 재생기 - Swift
 
+</details>
+
 <details>
   <summary>
     <b>October 2024</b>
