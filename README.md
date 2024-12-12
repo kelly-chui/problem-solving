@@ -8,6 +8,9 @@
     <b>December 2024</b>
   </summary>
 
+### Dec 12, 2024
+- Programmers: 지폐 접기 - Python
+
 ### Dec 9, 2024
 - Programmers: 동영상 재생기 - Swift
 
