@@ -8,6 +8,9 @@
     <b>December 2024</b>
   </summary>
 
+### Dec 24, 2024
+- Programmers: 공원 - Python
+
 ### Dec 12, 2024
 - Programmers: 지폐 접기 - Python
 
