@@ -8,6 +8,10 @@
     <b>December 2024</b>
   </summary>
 
+### Dec 31, 2024
+- BOJ 1253: 좋다 - Swift 재채점
+- BOJ 3020: 개똥벌레 - C++
+
 ### Dec 24, 2024
 - Programmers: 공원 - Python
 

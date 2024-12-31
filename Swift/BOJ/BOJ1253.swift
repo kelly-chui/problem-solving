@@ -1,34 +1,27 @@
 import Foundation
 
-func binarySearch(_ x: Int, _ idx: [Int]) -> Bool {
-    var low = 0
-    var high = a.count
-    while low < high {
-        let mid = (high + low) / 2
-        if a[mid] == x && !idx.contains(mid) {
-            //print("\(a[idx[0]]) is Good, \(a[idx[1]]), \(a[mid])")
-            return true
-        }
-        if a[mid] > x {
-            high = mid
-        } else {
-            low = mid + 1
-        }
-    }
-    return false
-}
-
 let n = Int(readLine()!)!
-let a = readLine()!.split(separator: " ").map { Int(String($0))! }.sorted { $0 < $1 }
+let a = readLine()!.split(separator: " ").compactMap { Int(String($0)) }.sorted { $0 < $1 }
 var answer = 0
-for i in 0..<a.count {
-    for j in 0..<a.count {
-        if i == j {
+for i in 0..<n {
+    var start = 0
+    var end = n - 1
+    while start < end {
+        if start == i {
+            start += 1
+            continue
+        } 
+        if end == i {
+            end -= 1
             continue
         }
-        if binarySearch(a[i] - a[j], [i, j]) {
+        if a[start] + a[end] == a[i] {
             answer += 1
             break
+        } else if a[start] + a[end] > a[i] {
+            end -= 1
+        } else if a[start] + a[end] < a[i] {
+            start += 1
         }
     }
 }
