@@ -5,7 +5,23 @@
 
 <details>
   <summary>
-    <b>December 2024</b>
+    <b>Jan 2025</b>
+  </summary>
+
+### Jan 1, 2025
+- BOJ 30802: 웰컴 키트 - Swift
+- BOJ 28702: FizzBuzz - Swift
+
+</details>
+
+<details>
+  <summary>
+    <b>2024</b>
+  </summary>
+
+<details>
+  <summary>
+    <b>Dec 2024</b>
   </summary>
 
 ### Dec 31, 2024
@@ -25,7 +41,7 @@
 
 <details>
   <summary>
-    <b>October 2024</b>
+    <b>Oct 2024</b>
   </summary>
 
 ### Oct 21, 2024
@@ -36,7 +52,7 @@
 
 <details>
   <summary>
-    <b>August 2024</b>
+    <b>Aug 2024</b>
   </summary>
 
 ### August 15, 2024
@@ -46,7 +62,7 @@
 
 <details>
   <summary>
-    <b>July 2024</b>
+    <b>Jul 2024</b>
   </summary>
 
 ### Jul 12, 2024
@@ -76,7 +92,7 @@
 
 <details>
   <summary>
-    <b>June 2024</b>
+    <b>Jun 2024</b>
   </summary>
 
 ### Jun 25, 2024
@@ -351,6 +367,7 @@
 ### Feb 11, 2024
 - BOJ 14940: 쉬운 최단거리 - Swift
 
+</details>
 </details>
 
 <details>
