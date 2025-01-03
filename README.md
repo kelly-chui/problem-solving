@@ -8,6 +8,12 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 3, 2025
+- BOJ 30804: 과일 탕후루 - Swift
+
+### Jan 2, 2025
+- BOJ 9252: LCS 2 - Swift
+
 ### Jan 1, 2025
 - BOJ 30802: 웰컴 키트 - Swift
 - BOJ 28702: FizzBuzz - Swift
