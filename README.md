@@ -8,13 +8,16 @@
     <b>Jan 2025</b>
   </summary>
 
-### Jan 3, 2025
+### Jan 5
+- BOJ 30805: 사전 순 최대 공통 부분 수열 - Swift
+
+### Jan 3
 - BOJ 30804: 과일 탕후루 - Swift
 
-### Jan 2, 2025
+### Jan 2
 - BOJ 9252: LCS 2 - Swift
 
-### Jan 1, 2025
+### Jan 1
 - BOJ 30802: 웰컴 키트 - Swift
 - BOJ 28702: FizzBuzz - Swift
 
