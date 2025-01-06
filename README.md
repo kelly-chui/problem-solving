@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 6
+- Programmers: 순위 검색 - Swift
+
 ### Jan 5
 - BOJ 30805: 사전 순 최대 공통 부분 수열 - Swift
 
