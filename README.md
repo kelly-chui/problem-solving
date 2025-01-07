@@ -8,6 +8,10 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 7
+- Programmers: 퍼즐 게임 챌린지 - Swift
+- BOJ 2623: 음악프로그램 - Swift
+
 ### Jan 6
 - Programmers: 순위 검색 - Swift
 
