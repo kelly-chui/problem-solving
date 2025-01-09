@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 9
+- BOJ 2166: 다각형의 면적 - Swift
+
 ### Jan 8
 - BOJ 6198: 옥상 정원 꾸미기 - Swift
 
