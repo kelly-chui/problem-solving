@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 8
+- BOJ 6198: 옥상 정원 꾸미기 - Swift
+
 ### Jan 7
 - Programmers: 퍼즐 게임 챌린지 - Swift
 - BOJ 2623: 음악프로그램 - Swift
