@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 10
+- LeetCode 1768: Merge Strings Alternately - Swift
+
 ### Jan 9
 - BOJ 2166: 다각형의 면적 - Swift
 
