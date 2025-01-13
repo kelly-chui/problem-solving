@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 13
+- BOJ 2294: 동전 2 - Swift
+
 ### Jan 10
 - LeetCode 1768: Merge Strings Alternately - Swift
 
