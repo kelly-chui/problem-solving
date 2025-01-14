@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 14
+- BOJ 2225: 합분해 - Swift
+
 ### Jan 13
 - BOJ 2294: 동전 2 - Swift
 
