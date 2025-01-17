@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 17
+- LeetCode 1071: Greatest Common Divisor of Strings - Swift
+
 ### Jan 14
 - BOJ 2225: 합분해 - Swift
 
