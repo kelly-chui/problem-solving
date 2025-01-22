@@ -8,6 +8,10 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 22
+- BOJ 2011: 암호코드 - Swift
+- BOJ 5557: 1학년 - Swift
+
 ### Jan 17
 - LeetCode 1071: Greatest Common Divisor of Strings - Swift
 
