@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 27
+- BOJ 1915: 가장 큰 정사각형 - Swift
+
 ### Jan 22
 - BOJ 2011: 암호코드 - Swift
 - BOJ 5557: 1학년 - Swift
