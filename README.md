@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 28
+- BOJ 11049: 행렬 곱셈 순서 - Swift
+
 ### Jan 27
 - BOJ 1915: 가장 큰 정사각형 - Swift
 
