@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 29
+- BOJ 7453: 합이 0인 네 정수 - Swift
+
 ### Jan 28
 - BOJ 11049: 행렬 곱셈 순서 - Swift
 
