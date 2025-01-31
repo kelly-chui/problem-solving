@@ -8,6 +8,9 @@
     <b>Jan 2025</b>
   </summary>
 
+### Jan 31
+- BOJ 17387: 선분 교차 2 - Swift
+
 ### Jan 29
 - BOJ 7453: 합이 0인 네 정수 - Swift
 
