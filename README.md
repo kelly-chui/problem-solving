@@ -5,6 +5,16 @@
 
 <details>
   <summary>
+    <b>Feb 2025</b>
+  </summary>
+
+### Feb 12
+- BOJ 28278: 스택 2 - C++
+
+</details>
+
+<details>
+  <summary>
     <b>Jan 2025</b>
   </summary>
 

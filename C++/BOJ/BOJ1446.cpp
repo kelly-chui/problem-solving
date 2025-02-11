@@ -8,7 +8,7 @@ using namespace std;
 int main() {
     int n, d;
     cin >> n >> d;
-    map<int, vector<pair<int, int>>> graph;
+    map<int, vector<pair<int, int> > > graph;
     vector<int> dp(10001, 987654321);
 
     for (int i = 0; i < n; i++) {
