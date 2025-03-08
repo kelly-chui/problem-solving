@@ -5,8 +5,12 @@
 
 <details>
   <summary>
-    <b>Feb 2025</b>
+    <b>Mar 2025</b>
   </summary>
+
+### Mar 7
+- BOJ 1931: 회의실 배정 - Swift
+
 
 ### Mar 6
 - BOJ 11047: 동전 0 - Swift
