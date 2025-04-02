@@ -8,6 +8,16 @@
     <b>Mar 2025</b>
   </summary>
 
+### Apr 2
+- BOJ 13414: 수강 신청 - C++
+
+</details>
+
+<details>
+  <summary>
+    <b>Mar 2025</b>
+  </summary>
+
 ### Mar 28
 - BOJ 1700: 멀티탭 스케쥴링 - Swift
 
