@@ -8,6 +8,9 @@
     <b>Mar 2025</b>
   </summary>
 
+### Apr 8
+- BOJ 1759: 암호 만들기 - Swift
+
 ### Apr 7
 - BOJ 1182: 부분수열의 합 - Swift
 
