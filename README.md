@@ -8,6 +8,9 @@
     <b>Mar 2025</b>
   </summary>
 
+### Apr 28
+- BOJ 2240: 자두나무 - Swift
+
 ### Apr 9
 - BOJ 16987: 계란으로 계란치기 - Swift
 
