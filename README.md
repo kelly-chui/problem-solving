@@ -8,6 +8,10 @@
     <b>Mar 2025</b>
   </summary>
 
+### Apr 30
+- BOJ 28252: 1로 만들기 2 - Swift
+- BOJ 2193: 이친수 - Swift
+
 ### Apr 29
 - BOJ 15988: 1, 2, 3 더하기 3 - C++
 
