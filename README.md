@@ -8,6 +8,17 @@
     <b>Mar 2025</b>
   </summary>
 
+### May 2
+- BOJ 11055: 가장 큰 증가하는 부분 수열 - C++
+- BOJ 2302: 극장 좌석 - Swift
+
+</details>
+
+<details>
+  <summary>
+    <b>Mar 2025</b>
+  </summary>
+
 ### Apr 30
 - BOJ 28252: 1로 만들기 2 - Swift
 - BOJ 2193: 이친수 - Swift
