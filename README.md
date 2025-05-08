@@ -5,8 +5,11 @@
 
 <details>
   <summary>
-    <b>Mar 2025</b>
+    <b>May 2025</b>
   </summary>
+
+### May 8
+- BOJ 4883: 삼각 그래프 - Swift
 
 ### May 7
 - BOJ 1788: 피보나치 수의 확장 - C++
@@ -26,7 +29,7 @@
 
 <details>
   <summary>
-    <b>Mar 2025</b>
+    <b>Apr 2025</b>
   </summary>
 
 ### Apr 30
