@@ -8,6 +8,10 @@
     <b>May 2025</b>
   </summary>
 
+### May 9
+- BOJ 2295: 세 수의 합 - Swift
+- Programmers: 완전범죄 - Swift
+
 ### May 8
 - BOJ 4883: 삼각 그래프 - Swift
 
