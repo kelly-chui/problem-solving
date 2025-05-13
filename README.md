@@ -8,6 +8,10 @@
     <b>May 2025</b>
   </summary>
 
+### May 14
+- Programmers: 비밀 코드 해독 - Swift
+- LeetCode 1: Two Sum - C++
+
 ### May 13
 - Programmers: 지게차와 크레인 - Swift
 

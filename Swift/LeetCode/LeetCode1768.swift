@@ -1,7 +1,7 @@
 class Solution {
     func mergeAlternately(_ word1: String, _ word2: String) -> String {
-        var word1Array = Array(word1)
-        var word2Array = Array(word2)
+        let word1Array = Array(word1)
+        let word2Array = Array(word2)
         var arraySuffix = [Character]()
         let diff = word1Array.count - word2Array.count
         var answer = ""

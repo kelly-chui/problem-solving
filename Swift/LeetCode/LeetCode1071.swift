@@ -11,7 +11,7 @@ class Solution {
             return a
         }
         let stringGCD = gcd(str1.count, str2.count)
-        var answer = String(str1.prefix(stringGCD))
+        let answer = String(str1.prefix(stringGCD))
         guard str1.split(separator: answer) == [] && str2.split(separator: answer) == [] else {
             return ""
         }
