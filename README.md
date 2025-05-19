@@ -8,6 +8,11 @@
     <b>May 2025</b>
   </summary>
 
+### May 18
+- LeetCode 1431: Kids With the Greatest Number of Candies - Swift
+- LeetCode 1758: Minimum Changes To Make Alternating Binary String - Swift
+- Programmers: 충돌위험 찾기 - Swift
+
 ### May 16
 - LeetCode 2: Add Two Numbers - Swift
 - Programmers: 택배 상자 꺼내기 - Swift
