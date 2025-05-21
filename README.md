@@ -8,6 +8,9 @@
     <b>May 2025</b>
   </summary>
 
+### May 21
+- LeetCode 643: Maximum Average Subarray I - Swift
+
 ### May 20
 - Programmers: 택배 배달과 수거하기 - Swift
 - LeetCode 283: Move Zeroes - Swift
