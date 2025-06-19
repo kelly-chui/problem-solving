@@ -10,7 +10,7 @@
 
 ### Jun 19
 - BOJ 4288: Pick-up sticks - Swift
-- BOJ 6126: Cow Cash - SQL
+- BOJ 6126: Cow Cash - C++
 
 ### Jun 14
 - Programmers: 강원도에 위치한 생산공장 목록 출력하기 - SQL
