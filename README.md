@@ -8,6 +8,17 @@
     <b>Jun 2025</b>
   </summary>
 
+### Jun 19
+- BOJ 4288: Pick-up sticks - Swift
+- BOJ 6126: Cow Cash - SQL
+
+### Jun 14
+- Programmers: 강원도에 위치한 생산공장 목록 출력하기 - SQL
+- Programmers: 동물의 아이디와 이름 - SQL
+- Programmers: 상위 n개 레코드 - SQL
+- Programmers: 어린 동물 찾기 - SQL
+- LeetCode 570: Managers with at Least 5 Direct Reports - SQL
+
 ### Jun 13
 - BOJ 1562: 계단 수 - Swift
 - Programmers: 빛의 경로 사이클 - Swift
