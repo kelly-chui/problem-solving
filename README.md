@@ -8,6 +8,10 @@
     <b>Jun 2025</b>
   </summary>
 
+### Jun 26
+- BOJ 10103: 주사위 게임 - C++
+- BOJ 2643: 색종이 올려 놓기 - C++
+
 ### Jun 21
 - Programmers: 교점에 별 만들기 - Swift
 - Programmers: 유사 칸토어 비트열 - Swift
