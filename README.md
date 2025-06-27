@@ -8,6 +8,10 @@
     <b>Jun 2025</b>
   </summary>
 
+### Jun 27
+- Programmers: 도넛과 막대 그래프 - C++
+- Programmers: 당구 연습 - C++
+
 ### Jun 26
 - BOJ 10103: 주사위 게임 - C++
 - BOJ 2643: 색종이 올려 놓기 - C++
