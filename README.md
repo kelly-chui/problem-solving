@@ -5,6 +5,16 @@
 
 <details>
   <summary>
+    <b>Jul 1</b>
+  </summary>
+
+### Jul 1
+- Programmers: 스티커 모으기(2) - Swift
+
+</details>
+
+<details>
+  <summary>
     <b>Jun 2025</b>
   </summary>
 
