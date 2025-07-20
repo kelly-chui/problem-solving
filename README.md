@@ -8,6 +8,12 @@
     <b>Jul 1</b>
   </summary>
 
+### Jul 20
+- Programmers: 정수 삼각형 - Python
+- Programmers: 야근 지수 - Python
+- Programmers: 등굣길 - Python
+- Programmers: 최고의 집합 - Python
+
 ### Jul 1
 - Programmers: 스티커 모으기(2) - Swift
 
