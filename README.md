@@ -8,6 +8,11 @@
     <b>Jul 1</b>
   </summary>
 
+### Jul 21
+- Programmers: 단속카메라 - Python
+- Programmers: 불량 사용자 - Python
+- Programmers: 보석 쇼핑 - Python
+
 ### Jul 20
 - Programmers: 정수 삼각형 - Python
 - Programmers: 야근 지수 - Python
