@@ -8,6 +8,15 @@
     <b>Jul 1</b>
   </summary>
 
+### Jul 24
+- Programmers: 연속 펄스 부분 수열의 합 - Swift
+- Programmers: 부대복귀 - Swift
+- Programmers: 입국심사 - Swift
+
+### Jul 23
+- Programmers: 섬 연결하기 - Python
+- Programmers: 여행경로 - Python
+
 ### Jul 22
 - Programmers: 가장 먼 노드 - Swift
 - Programmers: 징검다리 건너기 - C++, Swift
