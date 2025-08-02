@@ -5,8 +5,22 @@
 
 <details>
   <summary>
-    <b>Jul 1</b>
+    <b>Aug 2025</b>
   </summary>
+
+### Aug 2
+- Programmers: 다단계 칫솔 판매 - Python
+- Programmers: 디스크 컨트롤러 - Python
+
+</details>
+
+<details>
+  <summary>
+    <b>Jul 2025</b>
+  </summary>
+
+### Jul 28
+- Programmers: 경주로 건설 - Swift
 
 ### Jul 24
 - Programmers: 연속 펄스 부분 수열의 합 - Swift
