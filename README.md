@@ -8,6 +8,11 @@
     <b>Aug 2025</b>
   </summary>
 
+### Aug 3
+- Programmers: 거스름돈 - Python
+- Programmers: 가장 긴 팰린드롬 - Swift
+- Programmers: 셔틀버스 - Swift
+
 ### Aug 2
 - Programmers: 다단계 칫솔 판매 - Python
 - Programmers: 디스크 컨트롤러 - Python
