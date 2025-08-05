@@ -8,6 +8,9 @@
     <b>Aug 2025</b>
   </summary>
 
+### Aug 5
+- Programmers: 순위 - Python
+
 ### Aug 4
 - Programmers: 풍선 터트리기 - Swift
 
