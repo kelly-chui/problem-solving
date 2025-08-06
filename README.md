@@ -8,6 +8,9 @@
     <b>Aug 2025</b>
   </summary>
 
+### Aug 6
+- Programmers: 인사고과 - Swift
+
 ### Aug 5
 - Programmers: 순위 - Python
 
