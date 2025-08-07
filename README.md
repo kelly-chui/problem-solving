@@ -8,6 +8,10 @@
     <b>Aug 2025</b>
   </summary>
 
+### Aug 7
+- Programmers: 자물쇠와 열쇠 - Python
+- Programmers: 파괴되지 않은 건물 - Python
+
 ### Aug 6
 - Programmers: 인사고과 - Swift
 
