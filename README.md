@@ -8,8 +8,11 @@
     <b>Aug 2025</b>
   </summary>
 
+### Aug 21
+- Programmers: 길 찾기 게임 - Swift
+
 ### Aug 19
-- Progrmmers: 양과 늑대 - Python
+- Programmers: 양과 늑대 - Python
 
 ### Aug 13
 - Programmers: 합승 택시 요금 - Swift
