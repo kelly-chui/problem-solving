@@ -8,6 +8,12 @@
     <b>Aug 2025</b>
   </summary>
 
+### Aug 24
+- Programmers: 기둥과 보 설치 - Python
+
+### Aug 22
+- Programmers: 미로 탈출 명령어 - Swift
+
 ### Aug 21
 - Programmers: 길 찾기 게임 - Swift
 
