@@ -8,6 +8,12 @@
     <b>Aug 2025</b>
   </summary>
 
+### Aug 26
+- Programmers: 110 옮기기 - Python
+
+### Aug 25
+- Programmers: 광고 삽입 - Python
+
 ### Aug 24
 - Programmers: 기둥과 보 설치 - Python
 
