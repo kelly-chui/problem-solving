@@ -8,6 +8,11 @@
     <b>Aug 2025</b>
   </summary>
 
+### Aug 29
+- Programmers: 표현 가능한 이진 트리 - Python
+- BOJ 5719: 거의 최단 경로 - Python, Swift
+- BOJ 13905: 세부 - Python
+
 ### Aug 26
 - Programmers: 110 옮기기 - Python
 
