@@ -8,6 +8,10 @@
     <b>Aug 2025</b>
   </summary>
 
+### Aug 30
+- BOJ 1365: 꼬인 전깃줄 - Swift
+- BOJ 2352: 반도체 설계 - Python, Swift
+
 ### Aug 29
 - Programmers: 표현 가능한 이진 트리 - Python
 - BOJ 5719: 거의 최단 경로 - Python, Swift
