@@ -8,6 +8,12 @@
     <b>Sep 2025</b>
   </summary>
 
+### Sep 16
+- BOJ 12865: 평범한 배낭 - Python
+- BOJ 14728: 벼락치기 - Python
+- BOJ 3067: Coins - Python
+- BOJ 2629: 양팔 저울 - Python
+
 ### Sep 2
 - BOJ 2098: 외판원 순회 - C++
 - BOJ 1004: 어린 왕자 - Python
