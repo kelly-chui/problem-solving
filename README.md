@@ -8,6 +8,9 @@
     <b>Sep 2025</b>
   </summary>
 
+### Sep 17
+- BOJ 20303: 할로윈의 양아치 - C++, Python
+
 ### Sep 16
 - BOJ 12865: 평범한 배낭 - Python
 - BOJ 14728: 벼락치기 - Python
