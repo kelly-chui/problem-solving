@@ -8,6 +8,10 @@
     <b>Sep 2025</b>
   </summary>
 
+### Sep 24
+- BOJ 1535: 안녕 - Swift
+- BOJ 4781: 사탕 가게 - Swift
+
 ### Sep 22
 - BOJ 2662: 기업투자 - Swift
 
