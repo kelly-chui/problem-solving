@@ -8,6 +8,10 @@
     <b>Dec 2025</b>
   </summary>
 
+### Dec 18
+- BOJ 1509: 팰린드롬 분할 - Swift
+- BOJ 1937: 욕심쟁이 판다 - Swift
+
 ### Dec 17
 - BOJ 3079: 입국심사 - Swift
 - BOJ 3078: 좋은 친구 - Swift
