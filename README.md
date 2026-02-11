@@ -5,6 +5,23 @@
 
 <details>
   <summary>
+    <b>Feb 2026</b>
+  </summary>
+
+### Feb 11
+- BOJ2342: Dance Dance Revolution - C++
+- BOJ15681: 트리와 쿼리 - C++
+- BOJ16724: 피리부는 사나이 - C++
+
+</details>
+
+<details>
+  <summary>
+    <b>2025</b>
+  </summary>
+
+<details>
+  <summary>
     <b>Dec 2025</b>
   </summary>
 
@@ -17,7 +34,7 @@
 - BOJ 3078: 좋은 친구 - Swift
 - BOJ 15684: 사다리 조작 - Swift
 
-</deatils>
+</details>
 
 <details>
   <summary>
@@ -417,6 +434,7 @@
 - BOJ 28702: FizzBuzz - Swift
 
 </details>
+</details>
 
 <details>
   <summary>
@@ -627,8 +645,7 @@
 - BOJ 19637: IF문 좀 대신 써줘 - Swift
 
 ### May 2, 2024
-- BOJ 3758: KCPC - Swift
-
+- BOJ 3758: KCPC - Sw
 </details>
 
 <details>
@@ -1503,7 +1520,6 @@
 - BOJ 1920 - Python
 - BOJ 1654 - Python
 </details>
-
 </details>
 
 <details>
