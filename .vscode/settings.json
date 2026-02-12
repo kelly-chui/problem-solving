@@ -1,0 +1,9 @@
+{
+    // code
+    "editor.inlayHints.enabled": "off",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    // io
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+}
