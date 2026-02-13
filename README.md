@@ -8,10 +8,14 @@
     <b>Feb 2026</b>
   </summary>
 
+### Feb 13
+- BOJ 1766: 문제집 - C++
+- BOJ 1516: 게임 개발 - Swift
+
 ### Feb 11
-- BOJ2342: Dance Dance Revolution - C++
-- BOJ15681: 트리와 쿼리 - C++
-- BOJ16724: 피리부는 사나이 - C++
+- BOJ 2342: Dance Dance Revolution - C++
+- BOJ 15681: 트리와 쿼리 - C++
+- BOJ 16724: 피리부는 사나이 - C++
 
 </details>
 
