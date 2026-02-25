@@ -1,57 +1,70 @@
 {
     "version": "2.0.0",
     "tasks": [
-        // Python
-        {
-            "label": "PS: Python run current file (stdin)",
-            "type": "shell",
-            "command": "python3",
-            "args": [
-                "${file}"
-            ],
-            "problemMatcher": [],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            },
-            "presentation": {
-                "reveal": "always",
-                "panel": "dedicated",
-                "clear": true
-            }
-        },
         // Swift
         {
-            "label": "PS: Swift run current file (stdin)",
+            "label": "PS: Swift build & run current file (swiftc -O)",
             "type": "shell",
-            "command": "swift",
+            "command": "bash",
             "args": [
-                "${file}"
+                "-lc",
+                "swiftc -O \"${file}\" -o /tmp/ps_swift.out && /tmp/ps_swift.out"
             ],
             "problemMatcher": [],
-            "presentation": {
-                "reveal": "always",
-                "panel": "dedicated",
-                "clear": true
-            }
+            "group": { "kind": "build", "isDefault": true },
+            "presentation": { "reveal": "always", "panel": "dedicated", "clear": true }
         },
+
+        {
+            "label": "PS: Swift run current file (swift)",
+            "type": "shell",
+            "command": "swift",
+            "args": ["${file}"],
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "panel": "dedicated", "clear": true }
+        },
+
+        // Python
+        {
+            "label": "PS: Python run current file",
+            "type": "shell",
+            "command": "python3",
+            "args": ["${file}"],
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "panel": "dedicated", "clear": true }
+        },
+
         // C++
         {
-            "label": "PS: C++ build & run current file (stdin)",
+            "label": "PS: C++ build & run current file (g++20 -O2)",
             "type": "shell",
             "command": "bash",
             "args": [
                 "-lc",
                 "g++ -std=c++20 -O2 -pipe -Wall \"${file}\" -o /tmp/ps.out && /tmp/ps.out"
             ],
-            "problemMatcher": [
-                "$gcc"
+            "problemMatcher": ["$gcc"],
+            "presentation": { "reveal": "always", "panel": "dedicated", "clear": true }
+        },
+
+        // SQL (MySQL client)
+        {
+            "label": "PS: Open MySQL CLI",
+            "type": "shell",
+            "command": "mysql",
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "panel": "dedicated" }
+        },
+        {
+            "label": "PS: Run current .sql file (mysql < file.sql)",
+            "type": "shell",
+            "command": "bash",
+            "args": [
+                "-lc",
+                "mysql < \"${file}\""
             ],
-            "presentation": {
-                "reveal": "always",
-                "panel": "dedicated",
-                "clear": true
-            }
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "panel": "dedicated", "clear": true }
         }
     ]
 }
