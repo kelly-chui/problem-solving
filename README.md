@@ -8,6 +8,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### Apr 24
+- LeetCode 2883: Furthest Point From Origin - Python
+
 ### Apr 23
 - LeetCode 2: Longest Substring Without Repeating Characters - Python
 
