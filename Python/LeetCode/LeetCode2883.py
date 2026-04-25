@@ -3,4 +3,3 @@ class Solution:
         answer = moves.count('R') - moves.count('L')
         numOfUnderbar = moves.count('_')
         return abs(answer) + numOfUnderbar
-

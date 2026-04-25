@@ -8,6 +8,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### Apr 25
+- LeetCode 3432: Count Partitions with Even Sum Difference - Pytho
+
 ### Apr 24
 - LeetCode 2883: Furthest Point From Origin - Python
 
