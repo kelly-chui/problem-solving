@@ -8,8 +8,11 @@
     <b>Apr 2026</b>
   </summary>
 
+### Apr 27
+- LeetCode 1391: Check if There is a Valid Path in a Grid - Python, Swift
+
 ### Apr 25
-- LeetCode 3432: Count Partitions with Even Sum Difference - Pytho
+- LeetCode 3432: Count Partitions with Even Sum Difference - Python
 
 ### Apr 24
 - LeetCode 2883: Furthest Point From Origin - Python
