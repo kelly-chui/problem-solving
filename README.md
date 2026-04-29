@@ -8,6 +8,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### Apr 29
+- LeetCode 3225: Maximum Score From Grid Operations - Python
+
 ### Apr 28
 - LeetCode 2033: Minimum Operations to Make a Uni-Value Grid - Python, Swift
 
