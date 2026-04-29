@@ -8,6 +8,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### Apr 28
+- LeetCode 2033: Minimum Operations to Make a Uni-Value Grid - Python, Swift
+
 ### Apr 27
 - LeetCode 1391: Check if There is a Valid Path in a Grid - Python, Swift
 
