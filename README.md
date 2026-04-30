@@ -1,12 +1,14 @@
 # PSPractice
 
 [Blog(Kelly's personal archive)](https://junmusu.tistory.com)  
-[![https://solved.ac/profile/jjwls97](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwls97)](https://solved.ac/jjwls97)
 
 <details>
   <summary>
     <b>Apr 2026</b>
   </summary>
+
+### Apr 30
+- LeetCode 3742: Maximum Path Score in a Grid
 
 ### Apr 29
 - LeetCode 3225: Maximum Score From Grid Operations - Python
