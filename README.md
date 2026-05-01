@@ -7,6 +7,16 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 1
+- LeetCode 396: Rotate Function - Swift, Python
+
+</details>
+
+<details>
+  <summary>
+    <b>Apr 2026</b>
+  </summary>
+
 ### Apr 30
 - LeetCode 3742: Maximum Path Score in a Grid
 
