@@ -7,6 +7,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 4
+- LeetCode 48: Rotate Image - Python
+
 ### May 1
 - LeetCode 396: Rotate Function - Swift, Python
 
