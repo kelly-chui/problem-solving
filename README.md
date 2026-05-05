@@ -7,6 +7,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 5
+- LeetCode 61: Rotate List - Python
+
 ### May 4
 - LeetCode 48: Rotate Image - Python
 
