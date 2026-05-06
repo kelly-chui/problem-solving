@@ -7,6 +7,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 6
+- LeetCode 1862: Rotating the Box - Python
+
 ### May 5
 - LeetCode 61: Rotate List - Python
 
