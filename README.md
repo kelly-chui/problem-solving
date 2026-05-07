@@ -7,6 +7,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 7
+- LeetCode 3660: Jump Game IX - Python, Swift
+
 ### May 6
 - LeetCode 1862: Rotating the Box - Python
 
