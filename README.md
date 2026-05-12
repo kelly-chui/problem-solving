@@ -7,6 +7,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 12
+- LeetCode 1665: Minimum Initial Energy to Finish Tasks - Python, Swift
+
 ### May 11
 - LeetCode 2554: Separate the Digits in an Array - Python, Swift
 
