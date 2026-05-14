@@ -7,6 +7,10 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 14
+- LeetCode 788: Rotated Digits - Python
+- LeetCode 2784: Check if Array is Good - Python, Swift
+
 ### May 13
 - LeetCode 1674: Minimum Moves to Make Array Complementray - Swift ▲
 
