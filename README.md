@@ -7,6 +7,10 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 17
+- LeetCode 1306: Jump Game III - Python
+- LeetCode 1343: Jump Game IV - Python
+
 ### May 16
 - LeetCode 154: Find Minimum in Rotated Sorted Array II - Python
 - LeetCode 1885: Maximum Distance Between a Pair of Values - Python
