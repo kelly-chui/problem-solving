@@ -7,7 +7,11 @@
     <b>Apr 2026</b>
   </summary>
 
-### May 17
+### May 19
+- LeetCode 2540: Minimum Common Value - Python
+- LeetCode 2770: Maximum Number of Jumps to Reach the Last Index - Python, Swift
+
+### May 18
 - LeetCode 1306: Jump Game III - Python
 - LeetCode 1343: Jump Game IV - Python
 
