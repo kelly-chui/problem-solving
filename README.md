@@ -7,6 +7,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 20
+- LeetCode 2657: Find the Prefix Common Array of Two Arrays - Swift
+
 ### May 19
 - LeetCode 2540: Minimum Common Value - Python
 - LeetCode 2770: Maximum Number of Jumps to Reach the Last Index - Python, Swift
