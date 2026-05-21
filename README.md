@@ -7,6 +7,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 21
+- LeetCode 3043: Find the Length of the Longest Common Prefix
+
 ### May 20
 - LeetCode 2657: Find the Prefix Common Array of Two Arrays - Swift
 
