@@ -7,6 +7,9 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 25
+- LeetCode 1752: Check if Array Is Sorted and Rotated
+
 ### May 22
 - LeetCode 33: Search in Rotated Sorted Array - Swift
 
