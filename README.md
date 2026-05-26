@@ -7,8 +7,12 @@
     <b>Apr 2026</b>
   </summary>
 
+### May 26
+- LeetCode 1871: Jump Game VII - Python
+- LeetCode 3120: Count the Number of Special Characters I - Python
+
 ### May 25
-- LeetCode 1752: Check if Array Is Sorted and Rotated
+- LeetCode 1752: Check if Array Is Sorted and Rotated - Swift
 
 ### May 22
 - LeetCode 33: Search in Rotated Sorted Array - Swift
