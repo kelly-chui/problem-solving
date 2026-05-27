@@ -4,8 +4,11 @@
 
 <details>
   <summary>
-    <b>Apr 2026</b>
+    <b>May 2026</b>
   </summary>
+
+### May 27
+- LeetCode 3121: Count the Number of Special Characters II - Python
 
 ### May 26
 - LeetCode 1871: Jump Game VII - Python
