@@ -7,6 +7,9 @@
     <b>May 2026</b>
   </summary>
 
+### May 28
+- LeetCode 21: Merge Two Sorted Lists
+
 ### May 27
 - LeetCode 3121: Count the Number of Special Characters II - Python
 
