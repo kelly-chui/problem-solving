@@ -21,4 +21,4 @@ class Solution:
             tail.next = list1
         if list2:
             tail.next = list2
-        return temp.next
+        return temp.next1

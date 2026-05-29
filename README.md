@@ -7,6 +7,10 @@
     <b>May 2026</b>
   </summary>
 
+### May 29
+- LeetCode 3300: Minimum Element After Replacement With Digit Sum
+- LeetCode 1914: Cyclically Rotating a Grid
+
 ### May 28
 - LeetCode 21: Merge Two Sorted Lists
 
