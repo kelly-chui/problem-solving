@@ -7,6 +7,10 @@
     <b>Jun 2026</b>
   </summary>
 
+### Jun 8
+- LeetCode 2161: Partition Array According to Given Pivot - C++
+- LeetCode 2196: Create Binary Tree From Descriptions - C++
+
 ### Jun 5
 - LeetCode 2126: Destroying Asteroids - Python
 - LeetCode 3635: Earliest Finish Time for Land and Water Rides II - Python
