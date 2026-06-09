@@ -7,6 +7,10 @@
     <b>Jun 2026</b>
   </summary>
 
+### Jun 9
+- LeetCode 3689: Maximum Total Subarray Value I - C++
+- LeetCode 2574: Left and Right Sum Differences - C, C++, Swift
+
 ### Jun 8
 - LeetCode 2161: Partition Array According to Given Pivot - C++
 - LeetCode 2196: Create Binary Tree From Descriptions - C++
