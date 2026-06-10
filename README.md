@@ -7,6 +7,9 @@
     <b>Jun 2026</b>
   </summary>
 
+### Jun 10
+- LeetCode 3751: Total Wavinewss of Numbers in Range I - C, Swift
+
 ### Jun 9
 - LeetCode 3689: Maximum Total Subarray Value I - C++
 - LeetCode 2574: Left and Right Sum Differences - C, C++, Swift
