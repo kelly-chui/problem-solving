@@ -7,6 +7,9 @@
     <b>Jun 2026</b>
   </summary>
 
+### Jun 11
+- LeetCode 3558: Number of Ways to Assign Edge Weights I - Python
+
 ### Jun 10
 - LeetCode 3751: Total Wavinewss of Numbers in Range I - C, Swift
 
