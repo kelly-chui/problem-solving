@@ -7,6 +7,10 @@
     <b>Jun 2026</b>
   </summary>
 
+### Jun 18
+- LeetCode 3838: Weighted Word Mapping - C++
+- LeetCode 1344: Angle Between Hands of a Clock - Python
+
 ### Jun 17
 - LeetCode 2130: Maximum Twin Sum of a Linked List - C++
 - LeetCode 3614: Process String with Special Operations II - Swift
