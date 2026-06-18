@@ -10,6 +10,7 @@
     },
     "files.eol": "\n",
     "python.terminal.activateEnvironment": false,
+    "files.insertFinalNewline": true,
     // io
     "terminal.integrated.enableMultiLinePasteWarning": "never",
 }
