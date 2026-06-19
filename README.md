@@ -7,6 +7,11 @@
 <details>
   <summary><b>Jun</b></summary>
 
+- Jun 19
+  - LeetCode 3633: Earliest Finish Time for Land and Water Rides I - Swift
+  - LeetCode 2144: Minimum Cost of Buying Candies With Discount - Swift
+  - LeetCode 1732: Find the Highest Altitude - Swift
+
 - Jun 18
   - LeetCode 3838: Weighted Word Mapping - C++
   - LeetCode 1344: Angle Between Hands of a Clock - Python
