@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jun</b></summary>
 
+- Jun 20
+  - LeetCode 1840: Maximum Building Height - C++
+
 - Jun 19
   - LeetCode 3633: Earliest Finish Time for Land and Water Rides I - Swift
   - LeetCode 2144: Minimum Cost of Buying Candies With Discount - Swift
