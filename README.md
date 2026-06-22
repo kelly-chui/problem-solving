@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jun</b></summary>
 
+- Jun 22
+  - LeetCode 1189: Maximum Number of Ballons - C++
+  - Maximum Ice Cream Bars - Swift, Python
+
 - Jun 20
   - LeetCode 1840: Maximum Building Height - C++
 
