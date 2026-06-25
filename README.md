@@ -7,9 +7,11 @@
 <details>
   <summary><b>Jun</b></summary>
 
+- Jun 25
+  - LeetCode 3737: Count Subarrays With Majority Element I - Python
+
 - Jun 24
   - LeetCode 3699: Number of ZigZag Arrays I - Python
-  - LeetCode 
 
 - Jun 22
   - LeetCode 1189: Maximum Number of Ballons - C++
