@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jun</b></summary>
 
+- Jun 26
+  - LeetCode 4: Median of Two Sorted Arrays - Python
+  - LeetCode 3739: Count Subarrays With Majority Element II - Swift
+
 - Jun 25
   - LeetCode 3737: Count Subarrays With Majority Element I - Python
 
