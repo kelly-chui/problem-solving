@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jun</b></summary>
 
+- Jun 29
+  - LeetCode 1846: Maximum Element After Decreasing and Rearranging - C++
+  - LeetCode 1967: Number of Strings That Appear as Substrings in Word - C++
+
 - Jun 26
   - LeetCode 4: Median of Two Sorted Arrays - Python
   - LeetCode 3739: Count Subarrays With Majority Element II - Swift
