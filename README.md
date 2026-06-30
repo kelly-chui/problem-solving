@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jun</b></summary>
 
+- Jun 30
+  - LeetCode 1358: Number of Substrings Containing All Three Chraracters - Python
+
 - Jun 29
   - LeetCode 1846: Maximum Element After Decreasing and Rearranging - C++
   - LeetCode 1967: Number of Strings That Appear as Substrings in Word - C++
