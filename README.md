@@ -7,6 +7,14 @@
 <details>
   <summary><b>Jun</b></summary>
 
+- Jul 1
+  - LeetCode 2812: Find the Safest Path in a Grid - Swift
+
+</details>
+
+<details>
+  <summary><b>Jun</b></summary>
+
 - Jun 30
   - LeetCode 1358: Number of Substrings Containing All Three Chraracters - Python
 
