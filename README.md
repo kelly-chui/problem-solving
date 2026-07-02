@@ -5,7 +5,10 @@
 ## 2026
 
 <details>
-  <summary><b>Jun</b></summary>
+  <summary><b>Jul</b></summary>
+
+- Jul 2
+  - LeetCode 3286: Find a Safe Walk Through a Grid - Python, Swift
 
 - Jul 1
   - LeetCode 2812: Find the Safest Path in a Grid - Swift
