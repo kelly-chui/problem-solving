@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 3
+  - LeetCode 3620: Network Recovery Pathways - Swift
+
 - Jul 2
   - LeetCode 3286: Find a Safe Walk Through a Grid - Python, Swift
 
