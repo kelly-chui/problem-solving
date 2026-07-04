@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 4
+  - LeetCode 2492: Minimum Score of a Path Between Two Cities - Swift
+
 - Jul 3
   - LeetCode 3620: Network Recovery Pathways - Swift
 
