@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 5
+  - LeetCode 1301: Number of Paths with Max Score - Python
+
 - Jul 4
   - LeetCode 2492: Minimum Score of a Path Between Two Cities - Swift
 
