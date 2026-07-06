@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 6
+  - LeetCode 1288: Remove Covered Intervals - Swift
+  - LeetCode 20: Valid Parentheses - Swift
+
 - Jul 5
   - LeetCode 1301: Number of Paths with Max Score - Python
 
