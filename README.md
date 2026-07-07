@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 7
+  - LeetCode 3754: Concatenate Non-Zero Digits and Multiply by Sum I - Python
+
 - Jul 6
   - LeetCode 1288: Remove Covered Intervals - Swift
   - LeetCode 20: Valid Parentheses - Swift
