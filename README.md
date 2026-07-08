@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 8
+  - LeetCode 3756: Concatenate Non-Zero Digits and Multiply by Sum II - Python
+
 - Jul 7
   - LeetCode 3754: Concatenate Non-Zero Digits and Multiply by Sum I - Python
 
