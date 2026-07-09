@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 9
+  - LeetCode 3020: Find the Maximum Number of Elements in Subset - Python
+  - LeetCode 3532: Path Existence Queries in a Graph I - Swift
+
 - Jul 8
   - LeetCode 3756: Concatenate Non-Zero Digits and Multiply by Sum II - Python
 
