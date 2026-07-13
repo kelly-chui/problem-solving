@@ -7,6 +7,13 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 13
+  - LeetCode 1291: Sequential Digits - Python
+  - LeetCode 1331: Rank Transform of an Array - Python
+
+- Jul 10
+  - LeetCode 3543: Path Existence Queries in a Graph II - Swift
+
 - Jul 9
   - LeetCode 3020: Find the Maximum Number of Elements in Subset - Python
   - LeetCode 3532: Path Existence Queries in a Graph I - Swift
