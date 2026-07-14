@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 14
+  - LeetCode 3336: Find the Number of Subsequences With Equal GCD - Python
+
 - Jul 13
   - LeetCode 1291: Sequential Digits - Python
   - LeetCode 1331: Rank Transform of an Array - Python
