@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 15
+  - LeetCode 3658: GCD of Odd and Even Sums - C++
+
 - Jul 14
   - LeetCode 3336: Find the Number of Subsequences With Equal GCD - Python
 
