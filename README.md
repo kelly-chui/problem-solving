@@ -10,6 +10,9 @@
 - Jul 17
   - LeetCode 3312: Sorted GCD Pair Queries - Swift
 
+- Jul 16
+  - LeetCode 3867: Sum of GCD of Sorted Pairs - Swift
+
 - Jul 15
   - LeetCode 3658: GCD of Odd and Even Sums - C++
 
