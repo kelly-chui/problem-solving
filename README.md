@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 17
+  - LeetCode 3312: Sorted GCD Pair Queries - Swift
+
 - Jul 15
   - LeetCode 3658: GCD of Odd and Even Sums - C++
 
