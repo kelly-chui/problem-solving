@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 20
+  - LeetCode 1081: Smallest Subseqeuence of Distinct Characters - Python
+  - LeetCode 1260: Shift 2D Grid - Python
+
 - Jul 17
   - LeetCode 3312: Sorted GCD Pair Queries - Swift
 
