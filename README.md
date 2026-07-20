@@ -879,7 +879,7 @@
   - BOJ 14503: 로봇 청소기 - Swift
 
 - Apr 16
-  - BOJ 14501: - Swift
+  - BOJ 14501: 퇴사 - Swift
 
 - Apr 15
   - BOJ 14499: 주사위 굴리기 - Python
@@ -1403,127 +1403,127 @@
   - Programmers: 바탕화면 정리 - Swift
 
 - Mar 28
-  - BOJ 1167 - Swift
-  - BOJ 1918 - Swift
-  - BOJ 11444 - Swift
-  - BOJ 1865 - Swift
+  - BOJ 1167: 트리의 지름 - Swift
+  - BOJ 1918: 후위 표기식 - Swift
+  - BOJ 11444: 피보나치 수 6 - Swift
+  - BOJ 1865: 웜홀 - Swift
 
 - Mar 27
-  - BOJ 2206 - Swift
+  - BOJ 2206: 벽 부수고 이동하기 - Swift
 
 - Mar 25
-  - BOJ 1967 - Swift
-  - BOJ 11404 - Swift
+  - BOJ 1967: 트리의 지름 - Swift
+  - BOJ 11404: 플로이드 - Swift
 
 - Mar 24
-  - BOJ 9251 - Swift
+  - BOJ 9251: LCS - Swift
 
 - Mar 23
-  - BOJ 1149 - Swift
-  - BOJ 1629 - Swift
-  - BOJ 9465 - Swift
-  - BOJ 15657 - Swift
-  - BOJ 15663 - Swift
-  - BOJ 16953 - Swift
+  - BOJ 1149: RGB거리 - Swift
+  - BOJ 1629: 곱셈 - Swift
+  - BOJ 9465: 스티커 - Swift
+  - BOJ 15657: N과 M (8) - Swift
+  - BOJ 15663: N과 M (9) - Swift
+  - BOJ 16953: A → B - Swift
 
 - Mar 22
-  - BOJ 14500 - Swift
-  - BOJ 15654 - Swift
+  - BOJ 14500: 테트로미노 - Swift
+  - BOJ 15654: N과 M (5) - Swift
 
 - Mar 21
-  - BOJ 6064 - Python
-  - BOJ 5525 - Python
-  - BOJ 7662 - Swift
+  - BOJ 6064: 카잉 달력 - Python
+  - BOJ 5525: IOIOI - Python
+  - BOJ 7662: 이중 우선순위 큐 - Swift
 
 - Mar 20
-  - BOJ 11403 - Python
-  - BOJ 1389 - Python
-  - BOJ 13418 - Swift
+  - BOJ 11403: 경로 찾기 - Python
+  - BOJ 1389: 케빈 베이컨의 6단계 법칙 - Python
+  - BOJ 13418: 학교 탐방하기 - Swift
 
 - Mar 19
-  - BOJ 1003 - Swift
-  - BOJ 9461 - Swift
-  - BOJ 11724 - Swift
-  - BOJ 1780 - Swift
-  - BOJ 1541 - Swift
+  - BOJ 1003: 피보나치 함수 - Swift
+  - BOJ 9461: 파도반 수열 - Swift
+  - BOJ 11724: 연결 요소의 개수 - Swift
+  - BOJ 1780: 종이의 개수 - Swift
+  - BOJ 1541: 잃어버린 괄호 - Swift
 
 - Mar 18
-  - BOJ 11726 - Swift
-  - BOJ 9095 - Swift
-  - BOJ 1463 - Swift
+  - BOJ 11726: 2xn 타일링 - Swift
+  - BOJ 9095: 1, 2, 3 더하기 - Swift
+  - BOJ 1463: 1로 만들기 - Swift
 
 - Mar 17
-  - BOJ 11727 - Swift
-  - BOJ 1620 - Swift
-  - BOJ 17626 - Swift
-  - BOJ 2579 - Swift
+  - BOJ 11727: 2xn 타일링 2 - Swift
+  - BOJ 1620: 나는야 포켓몬 마스터 이다솜 - Swift
+  - BOJ 17626: Four Squares - Swift
+  - BOJ 2579: 계단 오르기 - Swift
 
 - Mar 16
-  - BOJ 17219 - Swift
+  - BOJ 17219: 비밀번호 찾기 - Swift
 
 - Mar 15
-  - BOJ 9375 - Swift
+  - BOJ 9375: 패션왕 신해빈 - Swift
 
 - Mar 14
-  - BOJ 1074 - Swift
+  - BOJ 1074: Z - Swift
 
 - Mar 13
-  - BOJ 10866 - Python
-  - BOJ 11650 - Python
-  - BOJ 11651 - Python
+  - BOJ 10866: 덱 - Python
+  - BOJ 11650: 좌표 정렬하기 - Python
+  - BOJ 11651: 좌표 정렬하기 2 - Python
 
 - Mar 12
-  - BOJ 1966 - Swift
-  - BOJ 18111 - Swift
-  - BOJ 2164 - Swift
-  - BOJ 2839 - Swift
-  - BOJ 9012 - Swift
-  - BOJ 10773 - Swift
-  - BOJ 10845 - Swift
-  - BOJ 1181 - Swift
-  - BOJ 2751 - Swift
-  - BOJ 10814 - Swift
+  - BOJ 1966: 프린터 큐 - Swift
+  - BOJ 18111: 마인크래프트 - Swift
+  - BOJ 2164: 카드2 - Swift
+  - BOJ 2839: 설탕 배달 - Swift
+  - BOJ 9012: 괄호 - Swift
+  - BOJ 10773: 제로 - Swift
+  - BOJ 10845: 큐 - Swift
+  - BOJ 1181: 단어 정렬 - Swift
+  - BOJ 2751: 수 정렬하기 2 - Swift
+  - BOJ 10814: 나이순 정렬 - Swift
 
 - Mar 11
-  - BOJ 3190 - Swift
-  - BOJ 16236 - Swift
+  - BOJ 3190: 뱀 - Swift
+  - BOJ 16236: 아기 상어 - Swift
 
 - Mar 10
-  - BOJ 9370 - Swift
-  - BOJ 15686 - Swift
+  - BOJ 9370: 미확인 도착지 - Swift
+  - BOJ 15686: 치킨 배달 - Swift
 
 - Mar 8
-  - BOJ 2211 - Swift
+  - BOJ 2211: 네트워크 복구 - Swift
 
 - Mar 7
-  - BOJ 14938 - Python
+  - BOJ 14938: 서강그라운드 - Python
 
 - Mar 6
-  - BOJ 14621 - Swift
-  - BOJ 2665 - Swift
-  - BOJ 10423 - Swift
+  - BOJ 14621: 나만 안되는 연애 - Swift
+  - BOJ 2665: 미로만들기 - Swift
+  - BOJ 10423: 전기가 부족해 - Swift
 
 - Mar 5
-  - BOJ 11779 - Python
-  - BOJ 11779 - Swift ▲
+  - BOJ 11779: 최소비용 구하기 2 - Python
+  - BOJ 11779: 최소비용 구하기 2 - Swift ▲
 
 - Mar 4
-  - BOJ 1261 - Python
-  - BOJ 1238 - Swift
-  - BOJ 2133 - Swift
+  - BOJ 1261: 알고스팟 - Python
+  - BOJ 1238: 파티 - Swift
+  - BOJ 2133: 타일 채우기 - Swift
 
 - Mar 3
-  - BOJ 13549 - Swift
-  - BOJ 1916 - Swift
-  - BOJ 1427 - Swift
+  - BOJ 13549: 숨바꼭질 3 - Swift
+  - BOJ 1916: 최소비용 구하기 - Swift
+  - BOJ 1427: 소트인사이드 - Swift
 
 - Mar 2
-  - BOJ 1504 - Swift
+  - BOJ 1504: 특정한 최단 경로 - Swift
 
 - Mar 1
-  - BOJ 11279 - Swift
-  - BOJ 1927 - Swift
-  - BOJ 1753 - Swift
+  - BOJ 11279: 최대 힙 - Swift
+  - BOJ 1927: 최소 힙 - Swift
+  - BOJ 1753: 최단경로 - Swift
 
 </details>
 
@@ -1531,90 +1531,90 @@
   <summary><b>Feb</b></summary>
 
 - Feb 28
-  - BOJ 12738 - C++
-  - BOJ 14002 - C++ LIS O(n²)
-  - BOJ 14003 - C++ LIS O(nlogn)
+  - BOJ 12738: 가장 긴 증가하는 부분 수열 3 - C++
+  - BOJ 14002: 가장 긴 증가하는 부분 수열 4 - C++ LIS O(n²)
+  - BOJ 14003: 가장 긴 증가하는 부분 수열 5 - C++ LIS O(nlogn)
 
 - Feb 27
-  - BOJ 11053 - Swift LIS O(n²)
-  - BOJ 12015 - C++ LIS O(nlogn)
+  - BOJ 11053: 가장 긴 증가하는 부분 수열 - Swift LIS O(n²)
+  - BOJ 12015: 가장 긴 증가하는 부분 수열 2 - C++ LIS O(nlogn)
 
 - Feb 26
-  - BOJ 1932 - Swift
-  - BOJ 12865 - Swift
-  - BOJ 1644 - Swift
-  - BOJ 2470 - Swift
+  - BOJ 1932: 정수 삼각형 - Swift
+  - BOJ 12865: 평범한 배낭 - Swift
+  - BOJ 1644: 소수의 연속합 - Swift
+  - BOJ 2470: 두 용액 - Swift
 
 - Feb 25
-  - BOJ 2630 - Swift
-  - BOJ 1992 - Swift
-  - BOJ 10830 - Swift
+  - BOJ 2630: 색종이 만들기 - Swift
+  - BOJ 1992: 쿼드트리 - Swift
+  - BOJ 10830: 행렬 제곱 - Swift
 
 - Feb 24
-  - BOJ 6497 - Python
-  - BOJ 16398 - Swift
+  - BOJ 6497: 전력난 - Python
+  - BOJ 16398: 행성 연결 - Swift
 
 - Feb 23
-  - BOJ 1197 - Swift
-  - BOJ 4386 - Swift
-  - BOJ 1774 - Swift
+  - BOJ 1197: 최소 스패닝 트리 - Swift
+  - BOJ 4386: 별자리 만들기 - Swift
+  - BOJ 1774: 우주신과의 교감 - Swift
 
 - Feb 22
-  - BOJ 4195 - Swift
-  - BOJ 20040 - Swift
-  - BOJ 1043 - Swift
+  - BOJ 4195: 친구 네트워크 - Swift
+  - BOJ 20040: 사이클 게임 - Swift
+  - BOJ 1043: 거짓말 - Swift
 
 - Feb 21
-  - BOJ 1976 - Python
-  - BOJ 1717 - Python
+  - BOJ 1976: 여행 가자 - Python
+  - BOJ 1717: 집합의 표현 - Python
 
 - Feb 20
-  - BOJ 2606 - Python
+  - BOJ 2606: 바이러스 - Python
 
 - Feb 17
-  - BOJ 1764 - Python
-  - BOJ 9019 - C++
+  - BOJ 1764: 듣보잡 - Python
+  - BOJ 9019: DSLR - C++
 
 - Feb 15
-  - BOJ 5430 - Python
+  - BOJ 5430: AC - Python
 
 - Feb 13
-  - BOJ 11047 - Python
+  - BOJ 11047: 동전 0 - Python
 
 - Feb 12
-  - BOJ 1107 - Swift
+  - BOJ 1107: 리모컨 - Swift
 
 - Feb 11
-  - BOJ 10026 - Swift
+  - BOJ 10026: 적록색약 - Swift
 
 - Feb 10
-  - BOJ 2263 - Python
+  - BOJ 2263: 트리의 순회 - Python
 
 - Feb 9
-  - BOJ 5639 - Python
+  - BOJ 5639: 이진 검색 트리 - Python
 
 - Feb 8
-  - BOJ 1707 - Python
+  - BOJ 1707: 이분 그래프 - Python
 
 - Feb 7
-  - BOJ 16928 - Python
+  - BOJ 16928: 뱀과 사다리 게임 - Python
 
 - Feb 5
-  - BOJ 7569 - Python
+  - BOJ 7569: 토마토 - Python
 
 - Feb 4
-  - BOJ 1012 - Python
+  - BOJ 1012: 유기농 배추 - Python
 
 - Feb 3
-  - BOJ 14889 - Python
-  - BOJ 1991 - Python
+  - BOJ 14889: 스타트와 링크 - Python
+  - BOJ 1991: 트리 순회 - Python
 
 - Feb 2
-  - BOJ 11725 - Python
-  - BOJ 14888 - Python
+  - BOJ 11725: 트리의 부모 찾기 - Python
+  - BOJ 14888: 연산자 끼워넣기 - Python
 
 - Feb 1
-  - BOJ 9663 - Python
+  - BOJ 9663: N-Queen - Python
 
 </details>
 
@@ -1622,67 +1622,67 @@
   <summary><b>Jan</b></summary>
 
 - Jan 31
-  - BOJ 15651 - Python
-  - BOJ 15652 - Python
+  - BOJ 15651: N과 M (3) - Python
+  - BOJ 15652: N과 M (4) - Python
 
 - Jan 30
-  - BOJ 15649 - Python
-  - BOJ 15650 - Python
+  - BOJ 15649: N과 M (1) - Python
+  - BOJ 15650: N과 M (2) - Python
 
 - Jan 25
-  - BOJ 2563 - Python
+  - BOJ 2563: 색종이 - Python
 
 - Jan 24
-  - BOJ 2559 - Python
+  - BOJ 2559: 수열 - Python
 
 - Jan 23
-  - BOJ 1436 - Python
-  - BOJ 2615 - Python
+  - BOJ 1436: 영화감독 숌 - Python
+  - BOJ 2615: 오목 - Python
 
 - Jan 22
-  - BOJ 11659 - Python
+  - BOJ 11659: 구간 합 구하기 4 - Python
 
 - Jan 21
-  - BOJ 4949 - Python
-  - BOJ 1806 - Python
+  - BOJ 4949: 균형잡힌 세상 - Python
+  - BOJ 1806: 부분합 - Python
 
 - Jan 20
-  - BOJ 1874 - Python
-  - BOJ 10828 - Python
+  - BOJ 1874: 스택 수열 - Python
+  - BOJ 10828: 스택 - Python
 
 - Jan 19
-  - BOJ 2110 - Python
-  - BOJ 1300 - Python ▲
-  - BOJ 11660 - Python
-  - BOJ 25682 - Python
+  - BOJ 2110: 공유기 설치 - Python
+  - BOJ 1300: K번째 수 - Python ▲
+  - BOJ 11660: 구간 합 구하기 5 - Python
+  - BOJ 25682: 체스판 다시 칠하기 2 - Python
 
 - Jan 18
-  - BOJ 16401 - Python ▲
+  - BOJ 16401: 과자 나눠주기 - Python ▲
 
 - Jan 17
-  - BOJ 7795 - Python
+  - BOJ 7795: 먹을 것인가 먹힐 것인가 - Python
 
 - Jan 16
-  - BOJ 13706 - Python
+  - BOJ 13706: 제곱근 - Python
 
 - Jan 15
-  - BOJ 2417 - Python
+  - BOJ 2417: 정수 제곱근 - Python
 
 - Jan 14
-  - BOJ 2776 - Python
+  - BOJ 2776: 암기왕 - Python
 
 - Jan 13
-  - BOJ 1072 - Python
-  - BOJ 2343 - Python
+  - BOJ 1072: 게임 - Python
+  - BOJ 2343: 기타 레슨 - Python
 
 - Jan 12
-  - BOJ 10815 - Python
-  - BOJ 2512 - Python
+  - BOJ 10815: 숫자 카드 - Python
+  - BOJ 2512: 예산 - Python
 
 - Jan 11
-  - BOJ 2805 - Python
-  - BOJ 1920 - Python
-  - BOJ 1654 - Python
+  - BOJ 2805: 나무 자르기 - Python
+  - BOJ 1920: 수 찾기 - Python
+  - BOJ 1654: 랜선 자르기 - Python
 
 </details>
 
@@ -1692,10 +1692,10 @@
   <summary><b>Dec</b></summary>
 
 - Dec 21
-  - BOJ 2468 - Python
+  - BOJ 2468: 안전 영역 - Python
 
 - Dec 04
-  - BOJ 2581 - Python
+  - BOJ 2581: 소수 - Python
 
 </details>
 
@@ -1703,27 +1703,27 @@
   <summary><b>Nov</b></summary>
 
 - Nov 17
-  - BOJ 3055 - Python
-  - BOJ 1726 - Python
+  - BOJ 3055: 탈출 - Python
+  - BOJ 1726: 로봇 - Python
 
 - Nov 10
-  - BOJ 1193 - Python
-  - BOJ 1712 - Python
+  - BOJ 1193: 분수찾기 - Python
+  - BOJ 1712: 손익분기점 - Python
 
 - Nov 9
-  - BOJ 7576 - Python
+  - BOJ 7576: 토마토 - Python
 
 - Nov 7
-  - BOJ 1697 - Python
+  - BOJ 1697: 숨바꼭질 - Python
 
 - Nov 6
-  - BOJ 10451 - Python
-  - BOJ 2331 - Python
-  - BOJ 2667 - Python
+  - BOJ 10451: 순열 사이클 - Python
+  - BOJ 2331: 반복수열 - Python
+  - BOJ 2667: 단지번호붙이기 - Python
 
 - Nov 5
-  - BOJ 1260 - Python
-  - BOJ 2178 - Python
+  - BOJ 1260: DFS와 BFS - Python
+  - BOJ 2178: 미로 탐색 - Python
 
 - Nov 4
   - Programmers 행렬의 곱셈 - Swift
@@ -1749,7 +1749,7 @@
   - Programmers 짝지어 제거하기 - Swift
 
 - Sep 29
-  - BOJ 4530 - C++
+  - BOJ 4530: 재미있는 숫자 - C++
 
 - Sep 28
   - Programmers 카펫 - Swift
@@ -1783,7 +1783,7 @@
   - Programmers 실패율 - Swift
 
 - Sep 20
-  - BOJ 10816 - C++
+  - BOJ 10816: 숫자 카드 2 - C++
 
 - Sep 19
   - Programmers 예산 - Swift
@@ -1861,16 +1861,16 @@
   - Programmers 부족한 금액 계산하기 - Swift
 
 - Jul 24
-  - BOJ 10986 - Python
-  - BOJ 1931 - Python
-  - BOJ 2108 - C++
+  - BOJ 10986: 나머지 합 - Python
+  - BOJ 1931: 회의실 배정 - Python
+  - BOJ 2108: 통계학 - C++
 
 - Jul 23
-  - BOJ 1018 - C++
-  - BOJ 17478 - C++
+  - BOJ 1018: 체스판 다시 칠하기 - C++
+  - BOJ 17478: 재귀함수가 뭔가요? - C++
 
 - Jul 22
-  - BOJ 23567 - C++
-  - BOJ 2447 - Python
+  - BOJ 23567: Double Rainbow - C++
+  - BOJ 2447: 별 찍기 - 10 - Python
 
 </details>
