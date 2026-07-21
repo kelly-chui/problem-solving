@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 21
+  - LeetCode 3499: Maximize Active Section with Trade I - Swift
+  - Codeforces 1A: Theatre Square - C++
+
 - Jul 20
   - LeetCode 1081: Smallest Subseqeuence of Distinct Characters - Python
   - LeetCode 1260: Shift 2D Grid - Python
