@@ -7,6 +7,9 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 22
+  - LeetCode 3501: Maximize Active Section with Trade II - Python
+
 - Jul 21
   - LeetCode 3499: Maximize Active Section with Trade I - Swift
   - Codeforces 1A: Theatre Square - C++
