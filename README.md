@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 23
+  - Leetcode 3513: Number of Unique XOR Triplets I - Swift
+  - Codeforces 118A: String Task - C++
+
 - Jul 22
   - LeetCode 3501: Maximize Active Section with Trade II - Python
 
