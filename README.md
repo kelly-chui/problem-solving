@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 24
+  - LeetCode 3514: Number of Unique XOR triplets II - Swift
+  - Codeforces 492B: Vanya and Lanterns - C++
+
 - Jul 23
   - Leetcode 3513: Number of Unique XOR Triplets I - Swift
   - Codeforces 118A: String Task - C++
