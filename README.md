@@ -7,6 +7,12 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 26
+  - LeetCode 628: Maximum Product of Three Numbers
+
+- Jul 25
+  - LeetCode 3536: Maximum Product of Two Digits
+
 - Jul 24
   - LeetCode 3514: Number of Unique XOR triplets II - Swift
   - Codeforces 492B: Vanya and Lanterns - C++
