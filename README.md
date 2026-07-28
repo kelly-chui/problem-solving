@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 28
+  - LeetCode 3517: Smallest Palindromic Rearrangement I - Swift
+  - Codeforces 230B: T-Primes - C++
+
 - Jul 27
   - LeetCode 1464: Maximum Proejct of Two Elements in an Array - Python
   - Codeforces 4C: Registration System - C++
