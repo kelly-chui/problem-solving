@@ -7,11 +7,16 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 27
+  - LeetCode 1464: Maximum Proejct of Two Elements in an Array - Python
+  - Codeforces 4C: Registration System - C++
+  - Codeforces 25A: IQ Test - C++
+
 - Jul 26
-  - LeetCode 628: Maximum Product of Three Numbers
+  - LeetCode 628: Maximum Product of Three Numbers - Python
 
 - Jul 25
-  - LeetCode 3536: Maximum Product of Two Digits
+  - LeetCode 3536: Maximum Product of Two Digits - Python
 
 - Jul 24
   - LeetCode 3514: Number of Unique XOR triplets II - Swift
