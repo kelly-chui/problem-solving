@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 29
+  - LeetCode 3518: Smallest Palindromic Rearrangement II - Python
+  - Codeforces 189A: Cut Ribbon - C++
+
 - Jul 28
   - LeetCode 3517: Smallest Palindromic Rearrangement I - Swift
   - Codeforces 230B: T-Primes - C++
