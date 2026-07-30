@@ -7,6 +7,10 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 30
+  - LeetCode 3014: Minimum Numbers of Pushes to Type Word I - Swift
+  - Codeforces 279B: Books - C++
+
 - Jul 29
   - LeetCode 3518: Smallest Palindromic Rearrangement II - Python
   - Codeforces 189A: Cut Ribbon - C++
