@@ -7,6 +7,11 @@
 <details>
   <summary><b>Jul</b></summary>
 
+- Jul 31
+  - LeetCode 3016: Minimum Numbers of Pushes to Type Word II - Swift
+  - LeetCode 1979: Find Greatest Common Divisor of Array - Swift
+  - Codeforces 455A: Boredom - C++
+
 - Jul 30
   - LeetCode 3014: Minimum Numbers of Pushes to Type Word I - Swift
   - Codeforces 279B: Books - C++
