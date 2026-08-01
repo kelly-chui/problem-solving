@@ -5,6 +5,14 @@
 ## 2026
 
 <details>
+  <summary><b>Aug</b></summary>
+
+- Aug 1
+  - LeetCode 486: predict the Winner - Swift
+
+</details>
+
+<details>
   <summary><b>Jul</b></summary>
 
 - Jul 31
