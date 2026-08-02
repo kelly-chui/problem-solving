@@ -7,6 +7,9 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 2
+  - LeetCode 877: Stone Game - Swift
+
 - Aug 1
   - LeetCode 486: predict the Winner - Swift
 
