@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 3
+  - [LeetCode 1406: Stone Game III — Swift](./Swift/LeetCode/LeetCode1406.swift)
+  - [Codeforces 520B: Two Buttons — C++](./C++/CodeForces/520b.cpp)
+
 - Aug 2
   - [LeetCode 877: Stone Game - Swift](./Swift/LeetCode/LeetCode877.swift)
 
@@ -438,18 +442,18 @@
   <summary><b>Jun</b></summary>
 
 - Jun 30
-  - Programmers: 숫자 게임 - C++
-  - Programmers: 기지국 설치 - C++
-  - Programmers: 베스트앨범 - C++
+  - Programmers: 숫자 게임 - C++ — [C++](./C++/Programmers/%E1%84%89%E1%85%AE%E1%86%BA%E1%84%8C%E1%85%A1%20%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7.cpp)
+  - Programmers: 기지국 설치 - C++ — [C++](./C++/Programmers/%E1%84%80%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%80%E1%85%AE%E1%86%A8%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5.cpp)
+  - Programmers: 베스트앨범 - C++ — [C++](./C++/Programmers/%E1%84%87%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7.cpp)
 
 - Jun 28
-  - Programmers: 네트워크 - C++
+  - Programmers: 네트워크 - C++ — [C++](./C++/Programmers/%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3.cpp)
   - Programmers: 이중우선순위큐 - Swift — [Swift](./Swift/Programmers/%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%AE%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1%E1%84%8F%E1%85%B2.swift)
   - Programmers: 단어 변환 - C++
 
 - Jun 27
-  - Programmers: 도넛과 막대 그래프 - C++
-  - Programmers: 당구 연습 - C++
+  - Programmers: 도넛과 막대 그래프 - C++ — [C++](./C++/Programmers/%E1%84%83%E1%85%A9%E1%84%82%E1%85%A5%E1%86%BA%E1%84%80%E1%85%AA%20%E1%84%86%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A2%20%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3.cpp)
+  - Programmers: 당구 연습 - C++ — [C++](./C++/Programmers/%E1%84%83%E1%85%A1%E1%86%BC%E1%84%80%E1%85%AE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8.cpp)
 
 - Jun 26
   - [BOJ 10103: 주사위 게임 - C++](./C++/BOJ/BOJ10103.cpp)
