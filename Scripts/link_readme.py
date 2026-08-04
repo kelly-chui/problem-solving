@@ -4,20 +4,21 @@
 from pathlib import Path
 import re
 import unicodedata
+from typing import Optional
 from urllib.parse import quote
 
 
 README = Path("README.md")
 IGNORED_DIRS = {".git", ".venv", "venv", "__pycache__", "node_modules"}
 PLATFORM_DIRS = {
-    "leetcode": "LeetCode",
-    "codeforces": "CodeForces",
-    "boj": "BOJ",
+    "leetcode": "leetcode",
+    "codeforces": "codeforces",
+    "boj": "boj",
 }
 LANGUAGE_EXTENSIONS = {
     "Python": {".py"},
     "Swift": {".swift"},
-    "C++": {".cpp", ".c"},
+    "C++": {".cpp", ".cc", ".cxx"},
     "C": {".c"},
     "TypeScript": {".ts"},
     "SQL": {".sql"},
@@ -25,6 +26,13 @@ LANGUAGE_EXTENSIONS = {
 ENTRY_RE = re.compile(r"^(\s*- )(.*)$")
 PROBLEM_RE = re.compile(r"(?i)\b(LeetCode|Codeforces|BOJ)\s*(\d+)")
 PROGRAMMERS_RE = re.compile(r"^Programmers\s*:?[ ]*(.+?)\s+-\s+(.+?)(?:\s+▲)?$")
+FULL_LINK_RE = re.compile(r"^\[(.+)\]\((?:\./)?([^)]*)\)$")
+LANGUAGE_LINK_RE = re.compile(r"\[([^\]]+)\]\((?:\./)?[^)]*\)")
+LANGUAGE_RE = r"(?:Python|Swift|C\+\+|C|TypeScript|SQL)"
+PROGRAMMERS_CANONICAL_RE = re.compile(
+    rf"^(Programmers\s*:?.*?)\s+-\s+({LANGUAGE_RE}(?:,\s*{LANGUAGE_RE})*)"
+    rf"(?:\s+-\s+{LANGUAGE_RE}(?:,\s*{LANGUAGE_RE})*)*$"
+)
 
 
 def solution_files() -> list[Path]:
@@ -38,7 +46,7 @@ def solution_files() -> list[Path]:
 def matches(files: list[Path], platform: str, number: str, language: str) -> list[Path]:
     platform_dir = PLATFORM_DIRS[platform.lower()]
     number_re = re.compile(
-        rf"(?i)(?:leetcode|codeforces|boj)?[_-]?{re.escape(number)}(?=\D|$)"
+        rf"(?i)(?<!\d)(?:leetcode|codeforces|boj)?[_-]?{re.escape(number)}(?=\D|$)"
     )
     extensions = LANGUAGE_EXTENSIONS.get(language, set())
     return [
@@ -56,22 +64,52 @@ def normalize_title(title: str) -> str:
 
 
 def programmer_matches(files: list[Path], title: str, language: str) -> list[Path]:
-    extension = next(iter(LANGUAGE_EXTENSIONS.get(language, set())), None)
-    if extension is None:
+    extensions = LANGUAGE_EXTENSIONS.get(language, set())
+    if not extensions:
         return []
     normalized_title = normalize_title(title)
     return [
         path
         for path in files
         if any(part.lower() == "programmers" for part in path.parts)
-        and path.suffix == extension
+        and path.suffix in extensions
         and normalized_title in normalize_title(path.stem)
     ]
 
 
+def language_for_path(path: str) -> Optional[str]:
+    suffix = Path(path).suffix.lower()
+    return next(
+        (language for language, extensions in LANGUAGE_EXTENSIONS.items() if suffix in extensions),
+        None,
+    )
+
+
+def plain_entry(entry: str) -> str:
+    """Convert either supported README link format back to a canonical plain entry."""
+    if " — " in entry and "](" in entry:
+        title, link_part = entry.split(" — ", 1)
+        languages = LANGUAGE_LINK_RE.findall(link_part)
+        if languages:
+            entry = f"{title} - {', '.join(dict.fromkeys(languages))}"
+
+    full_link = FULL_LINK_RE.match(entry)
+    if full_link:
+        label, target = full_link.groups()
+        entry = re.sub(r"\s+[—–]\s+", " - ", label)
+        if " - " not in entry:
+            language = language_for_path(target)
+            entry = f"{entry} - {language}" if language else entry
+
+    programmer = PROGRAMMERS_CANONICAL_RE.match(entry)
+    if programmer:
+        title, languages = programmer.groups()
+        return f"{title} - {', '.join(dict.fromkeys(language.strip() for language in languages.split(',')))}"
+    return entry
+
+
 def link_entry(entry: str, files: list[Path]) -> str:
-    if "](" in entry:
-        return entry
+    entry = plain_entry(entry)
 
     problem = PROBLEM_RE.search(entry)
     if not problem:
@@ -80,15 +118,15 @@ def link_entry(entry: str, files: list[Path]) -> str:
             return entry
         title, language_part = programmer.groups()
         links = []
-        for language in language_part.split(","):
-            for path in programmer_matches(files, title, language.strip()):
+        for language in dict.fromkeys(language.strip() for language in language_part.split(",")):
+            for path in programmer_matches(files, title, language):
                 target = quote(path.as_posix(), safe="/._-+")
-                links.append(f"[{language.strip()}](./{target})")
+                links.append(f"[{language}](./{target})")
         return f"{entry} — {', '.join(links)}" if links else entry
 
     platform, number = problem.groups()
     language_part = entry.rsplit(" - ", 1)[-1].replace(" ▲", "")
-    languages = [language.strip() for language in language_part.split(",")]
+    languages = list(dict.fromkeys(language.strip() for language in language_part.split(",")))
     links = []
 
     for language in languages:
