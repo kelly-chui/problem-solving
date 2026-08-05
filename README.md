@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 5
+  - LeetCode 3310: Remove Methods From Project — [Swift](./swift/leetcode/leetcode3310.swift)
+  - Codeforces 451B: Sort the Array — [C++](./cpp/codeforces/codeforces451b.cpp)
+
 - Aug 4
   - LeetCode 3731: Find Missing Elements — [Python](./python/leetcode/leetcode3731.py)
   - Codeforces 580C: Kefa and Park — [C++](./cpp/codeforces/codeforces580c.cpp)
