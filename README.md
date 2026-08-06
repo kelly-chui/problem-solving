@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 6
+  - LeetCode 3345: Smallest Divisible Digit Product I — [Python](./python/leetcode/leetcode3345.py)
+  - Codeforces 489C: Given Length and Sum of Digits... — [C++](./cpp/codeforces/codeforces489c.cpp)
+
 - Aug 5
   - LeetCode 3310: Remove Methods From Project — [Swift](./swift/leetcode/leetcode3310.swift)
   - Codeforces 451B: Sort the Array — [C++](./cpp/codeforces/codeforces451b.cpp)
