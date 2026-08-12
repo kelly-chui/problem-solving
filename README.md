@@ -7,9 +7,13 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 12
+  - LeetCode 2958: Length of Longest Subarray With at Most K Frequency — [Python](./python/leetcode/leetcode2958.py)
+  - LeetCode 2996: 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum — [Python](./python/leetcode/leetcode2996.py)
+
 - Aug 10
-  - LeetCode 1140: Stone Game II — [Swift](./Swift/LeetCode/leetcode1140.swift)
-  - LeetCode 1510: Stone Game IV — [Swift](./Swift/LeetCode/leetcode1510.swift)
+  - LeetCode 1510: Stone Game IV — [Swift](./swift/leetcode/leetcode1510.swift)
+  - LeetCode 1140: Stone Game II — [Swift](./swift/leetcode/leetcode1140.swift)
 
 - Aug 8
   - LeetCode 3302: Find the Lexicographically Smallest Valid Sequence — [Python](./Python/LeetCode/leetcode3302.py)

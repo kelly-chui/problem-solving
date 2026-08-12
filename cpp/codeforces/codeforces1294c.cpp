@@ -18,7 +18,7 @@ int main() {
                 break;
             }
         }
-        for (int divisor = 2; divisor * divisor <= divisor3; divisor++) {
+        for (int divisor = divisor1 + 1; divisor * divisor <= divisor3; divisor++) {
             if (divisor3 % divisor == 0 && divisor != divisor1) {
                 divisor2 = divisor;
                 divisor3 /= divisor;
