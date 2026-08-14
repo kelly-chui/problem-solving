@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 14
+  - LeetCode 3090: 3090. Maximum Length Substring With Two Occurrences — [Python](./python/leetcode/leetcode3090.py)
+  - Codeforces 550A. Two Substrings — [C++](./cpp/codeforces/codeforces550a.cpp)
+
 - Aug 13
   - LeetCode 2213: Longest Substring of One Repeating Character — [Swift](./swift/leetcode/leetcode2213.swift)
 
