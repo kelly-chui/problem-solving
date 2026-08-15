@@ -1,5 +1,4 @@
 // https://codeforces.com/problemset/problem/550/A
-// 550A. Two Substrings
 
 #include <iostream>
 #include <string>
@@ -7,17 +6,22 @@
 int main() {
     std::string s;
     std::cin >> s;
-    bool hasAB = false;
-    bool hasBA = false;
-    for (int idx = 0; idx < s.size() - 1; idx++) {
-        if (s[idx] == 'A' && s[idx + 1] == 'B') {
-            idx++;
-            hasAB = true;
-        } else if (s[idx] == 'B' && s[idx + 1] == 'A') {
-            idx++;
-            hasBA = true;
+    auto ab = s.find("AB");
+    if (ab != std::string::npos) {
+        auto ba = s.find("BA", ab + 2);
+        if (ba != std::string::npos) {
+            std::cout << "YES" << std::endl;
+            return 0;
         }
     }
-    std::cout << ((hasAB & hasBA) ? "YES" : "NO") << std::endl;
+    auto ba = s.find("BA");
+    if (ba != std::string::npos) {
+        auto ab = s.find("AB", ba + 2);
+        if (ab != std::string::npos) {
+            std::cout << "YES" << std::endl;
+            return 0;
+        }
+    }
+    std::cout << "NO" << std::endl;
     return 0;
 }

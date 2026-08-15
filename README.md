@@ -7,9 +7,13 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 15
+  - LeetCode 3702: Longest Subsequence With Non-Zero Bitwise XOR — [Swift](./swift/leetcode/leetcode3702.swift)
+  - Codeforces 276C: Little Girl and Maximum Sum — [C++](./cpp/codeforces/codeforces276c.cpp)
+
 - Aug 14
   - LeetCode 3090: 3090. Maximum Length Substring With Two Occurrences — [Python](./python/leetcode/leetcode3090.py)
-  - Codeforces 550A. Two Substrings — [C++](./cpp/codeforces/codeforces550a.cpp)
+  - Codeforces 550A: Two Substrings — [C++](./cpp/codeforces/codeforces550a.cpp)
 
 - Aug 13
   - LeetCode 2213: Longest Substring of One Repeating Character — [Swift](./swift/leetcode/leetcode2213.swift)
