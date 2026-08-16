@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 16
+  - LeetCode 2029: Stone Game IX — [Swift](./swift/leetcode/leetcode2029.swift)
+  - Codeforces 1360D: Buying Shovels — [C++](./cpp/codeforces/codeforces1360d.cpp)
+
 - Aug 15
   - LeetCode 3702: Longest Subsequence With Non-Zero Bitwise XOR — [Swift](./swift/leetcode/leetcode3702.swift)
   - Codeforces 276C: Little Girl and Maximum Sum — [C++](./cpp/codeforces/codeforces276c.cpp)
