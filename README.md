@@ -7,6 +7,9 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 17
+  - LeetCode 1563: Stone Game V — [Python](./python/leetcode/leetcode1563.py)
+
 - Aug 16
   - LeetCode 2029: Stone Game IX — [Swift](./swift/leetcode/leetcode2029.swift)
   - Codeforces 1360D: Buying Shovels — [C++](./cpp/codeforces/codeforces1360d.cpp)
