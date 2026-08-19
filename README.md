@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 19
+  - Codeforces 478B: Random Teams — [C++](./cpp/codeforces/codeforces478b.cpp)
+  - LeetCode 1386. Cinema Seat Allocation — [Python](./python/leetcode/leetcode1386.py)
+
 - Aug 17
   - LeetCode 1563: Stone Game V — [Python](./python/leetcode/leetcode1563.py)
 
