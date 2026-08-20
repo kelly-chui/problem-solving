@@ -7,9 +7,13 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 20
+  - Codeforces 600B: Queries about less or equal elements — [C++](./cpp/codeforces/codeforces600b.cpp)
+  - LeetCode 3069: Distribute Elements Into Two Arrays I — [Swift](./swift/leetcode/leetcode3069.swift)
+
 - Aug 19
   - Codeforces 478B: Random Teams — [C++](./cpp/codeforces/codeforces478b.cpp)
-  - LeetCode 1386. Cinema Seat Allocation — [Python](./python/leetcode/leetcode1386.py)
+  - LeetCode 1386: Cinema Seat Allocation — [Python](./python/leetcode/leetcode1386.py)
 
 - Aug 17
   - LeetCode 1563: Stone Game V — [Python](./python/leetcode/leetcode1563.py)
