@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 21
+  - LeetCode 3116: Kth Smallest Amount With Single Denomination Combination — [Swift](./swift/leetcode/leetcode3116.swift)
+  - Codeforces 698A: Vacations — [C++](./cpp/codeforces/codeforces698a.cpp)
+
 - Aug 20
   - Codeforces 600B: Queries about less or equal elements — [C++](./cpp/codeforces/codeforces600b.cpp)
   - LeetCode 3069: Distribute Elements Into Two Arrays I — [Swift](./swift/leetcode/leetcode3069.swift)
