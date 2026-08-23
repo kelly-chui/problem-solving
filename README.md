@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 23
+  - LeetCode 1927: Sum Game - Swift
+  - LeetCode 3622: Check Divisibility by Digit Sum and Product - Swift
+
 - Aug 21
   - LeetCode 3116: Kth Smallest Amount With Single Denomination Combination — [Swift](./swift/leetcode/leetcode3116.swift)
   - Codeforces 698A: Vacations — [C++](./cpp/codeforces/codeforces698a.cpp)
