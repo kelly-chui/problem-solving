@@ -7,9 +7,13 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 24
+  - Codeforces 1372B: Omkar and Last Class of Math — [C++](./cpp/codeforces/codeforces1372b.cpp)
+  - LeetCode 1872: Stone Game VIII — [Swift](./swift/leetcode/leetcode1872.swift)
+
 - Aug 23
-  - LeetCode 1927: Sum Game - Swift
-  - LeetCode 3622: Check Divisibility by Digit Sum and Product - Swift
+  - LeetCode 1927: Sum Game — [Swift](./swift/leetcode/leetcode1927.swift)
+  - LeetCode 3622: Check Divisibility by Digit Sum and Product — [Swift](./swift/leetcode/leetcode3622.swift)
 
 - Aug 21
   - LeetCode 3116: Kth Smallest Amount With Single Denomination Combination — [Swift](./swift/leetcode/leetcode3116.swift)
