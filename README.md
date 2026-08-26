@@ -7,6 +7,9 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 26
+  - LeetCode 2904: Shortest and Lexicographically Smallest Beautiful String - Swift
+
 - Aug 25
   - LeetCode 3718: Smallest Missing Multiple of K — [Python](./python/leetcode/leetcode3718.py)
   - Codeforces 476B: Dreamoon and WiFi — [C++](./cpp/codeforces/codeforces476b.cpp)
