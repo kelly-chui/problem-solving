@@ -7,8 +7,11 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 27
+  - LeetCode 3720: Lexicographically Smallest Permutation Greater Than Target — [Python](./python/leetcode/leetcode3720.py)
+
 - Aug 26
-  - LeetCode 2904: Shortest and Lexicographically Smallest Beautiful String - Swift
+  - LeetCode 2904: Shortest and Lexicographically Smallest Beautiful String — [Swift](./swift/leetcode/leetcode2904.swift)
 
 - Aug 25
   - LeetCode 3718: Smallest Missing Multiple of K — [Python](./python/leetcode/leetcode3718.py)
