@@ -7,6 +7,9 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 28
+  - LeetCode 3734. Lexicographically Smallest Palindromic Permutation Greater Than Target — [Swift](./swift/leetcode/leetcode3734.swift)
+
 - Aug 27
   - LeetCode 3720: Lexicographically Smallest Permutation Greater Than Target — [Python](./python/leetcode/leetcode3720.py)
 
