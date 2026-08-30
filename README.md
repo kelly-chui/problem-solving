@@ -7,6 +7,9 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Aug 30
+  - LeetCode 2091. Removing Minimum and Maximum From Array — [Swift](./swift/leetcode/leetcode2091.swift)
+
 - Aug 28
   - LeetCode 3734. Lexicographically Smallest Palindromic Permutation Greater Than Target — [Swift](./swift/leetcode/leetcode3734.swift)
 
