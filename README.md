@@ -7,6 +7,14 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Sep 1
+  - LeetCode 3568. Minimum Moves to Clean the Classroom — [Swift](./swift/leetcode/leetcode3568.swift)
+
+</details>
+
+<details>
+  <summary><b>Aug</b></summary>
+
 - Aug 31
   - LeetCode 2058: Find the Minimum and Maximum Number of Nodes Between Critical Points — [Swift](./swift/leetcode/leetcode2058.swift)
   - Codeforces 1526B: I Hate 1111 — [C++](./cpp/codeforces/codeforces1526b.cpp)
