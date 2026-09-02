@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Sep 2
+  - LeetCode 3875. Construct Uniform Parity Array I — [Python](./python/leetcode/leetcode3875.py)
+  - Codeforces 2254E. Chronostasis — [C++](./cpp/codeforces/codeforces2254e.cpp)
+
 - Sep 1
   - LeetCode 3568. Minimum Moves to Clean the Classroom — [Swift](./swift/leetcode/leetcode3568.swift)
 
