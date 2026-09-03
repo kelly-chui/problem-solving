@@ -7,6 +7,9 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Sep 3
+  - LeetCode 3876. Construct Uniform Parity Array II — [Python](./python/leetcode/leetcode3876.py)
+
 - Sep 2
   - LeetCode 3875. Construct Uniform Parity Array I — [Python](./python/leetcode/leetcode3875.py)
   - Codeforces 2254E. Chronostasis — [C++](./cpp/codeforces/codeforces2254e.cpp)
