@@ -7,6 +7,10 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Sep 7
+  - Codeforces 1201C: Maximum Median — [C++](./cpp/codeforces/codeforces1201c.cpp)
+  - LeetCode 940: Distinct Subsequences II — [Swift](./swift/leetcode/leetcode940.swift)
+
 - Sep 4
   - LeetCode 3903: Smallest Stable Index I — [Swift](./swift/leetcode/leetcode3903.swift)
   - Codeforces 1195C: Basketball Exercies — [C++](./cpp/codeforces/codeforces1195c.cpp)
