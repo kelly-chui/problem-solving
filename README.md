@@ -7,6 +7,9 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Sep 8
+  - Codeforces 3870: Count Commas in Range - Swift
+
 - Sep 7
   - Codeforces 1201C: Maximum Median — [C++](./cpp/codeforces/codeforces1201c.cpp)
   - LeetCode 940: Distinct Subsequences II — [Swift](./swift/leetcode/leetcode940.swift)
