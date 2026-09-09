@@ -7,8 +7,12 @@
 <details>
   <summary><b>Aug</b></summary>
 
+- Sep 9
+  - LeetCode 3871: Count Commas in Range II — [Swift](./swift/leetcode/leetcode3871.swift)
+  - Codeforces 1915E: Romantic Glasses — [C++](./cpp/codeforces/codeforces1915e.cpp)
+
 - Sep 8
-  - Codeforces 3870: Count Commas in Range - Swift
+  - LeetCode 3870: Count Commas in Range — [Swift](./swift/leetcode/leetcode3870.swift)
 
 - Sep 7
   - Codeforces 1201C: Maximum Median — [C++](./cpp/codeforces/codeforces1201c.cpp)
