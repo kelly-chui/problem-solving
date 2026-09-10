@@ -5,7 +5,11 @@
 ## 2026
 
 <details>
-  <summary><b>Aug</b></summary>
+  <summary><b>Sep</b></summary>
+
+- Sep 10
+  - LeetCode 2265: Count Nodes Equal to Average of Subtree — [Swift](./swift/leetcode/leetcode2265.swift)
+  - Codeforces 1538C: Number of Pairs — [C++](./cpp/codeforces/codeforces1538c.cpp)
 
 - Sep 9
   - LeetCode 3871: Count Commas in Range II — [Swift](./swift/leetcode/leetcode3871.swift)
