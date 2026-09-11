@@ -7,6 +7,10 @@
 <details>
   <summary><b>Sep</b></summary>
 
+- Sep 11
+  - LeetCode 3483: Unique 3-Digit Even Numbers — [Python](./python/leetcode/leetcode3483.py)
+  - Programmers: 숫자의 표현 - Python — [Python](./python/programmers/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py)
+
 - Sep 10
   - LeetCode 2265: Count Nodes Equal to Average of Subtree — [Swift](./swift/leetcode/leetcode2265.swift)
   - Codeforces 1538C: Number of Pairs — [C++](./cpp/codeforces/codeforces1538c.cpp)
