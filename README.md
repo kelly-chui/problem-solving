@@ -7,9 +7,12 @@
 <details>
   <summary><b>Sep</b></summary>
 
+- Sep 17
+  - LeetCode 1477: Find Two Non-overlapping Sub-arrays Each With Target Sum — [Swift](./swift/leetcode/leetcode1477.swift)
+
 - Sep 16
   - LeetCode 1621: Number of Sets of K Non-Overlapping Line Segments — [Python](./python/leetcode/leetcode1621.py)
-  - Programmers: 리프 노드 수 최대화 — [Swift](./swift/programmers/%EB%A6%AC%ED%94%84%20%EB%85%B8%EB%93%9C%20%EC%88%98%20%EC%B5%9C%EB%8C%80%ED%99%94.swift)
+  - Programmers: 리프 노드 수 최대화 - Swift — [Swift](./swift/programmers/%EB%A6%AC%ED%94%84%20%EB%85%B8%EB%93%9C%20%EC%88%98%20%EC%B5%9C%EB%8C%80%ED%99%94.swift)
 
 - Sep 14
   - LeetCode 835: Image Overlap — [Python](./python/leetcode/leetcode835.py)
