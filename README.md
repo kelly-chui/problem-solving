@@ -7,6 +7,10 @@
 <details>
   <summary><b>Sep</b></summary>
 
+- Sep 18
+  - LeetCode 1520: Maximum Number of Non-Overlapping Substrings — [Python](./python/leetcode/leetcode1520.py)
+  - Programmers: 중요한 단어를 스포방지 - Swift — [Swift](./swift/programmers/%EC%A4%91%EC%9A%94%ED%95%9C%20%EB%8B%A8%EC%96%B4%EB%A5%BC%20%EC%8A%A4%ED%8F%AC%EB%B0%A9%EC%A7%80.swift)
+
 - Sep 17
   - LeetCode 1477: Find Two Non-overlapping Sub-arrays Each With Target Sum — [Swift](./swift/leetcode/leetcode1477.swift)
 
