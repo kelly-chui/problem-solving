@@ -7,6 +7,10 @@
 <details>
   <summary><b>Sep</b></summary>
 
+- Sep 22
+  - LeetCode 1401: Circle and Rectangle Overlapping — [Python](./python/leetcode/leetcode1401.py)
+  - LeetCode 3498: Reverse Degree of a String — [Python](./python/leetcode/leetcode3498.py)
+
 - Sep 21
   - LeetCode 3524: Find X Value of Array I — [Python](./python/leetcode/leetcode3524.py)
   - Programmers: 노란불 신호등 — [Swift](./swift/programmers/%EB%85%B8%EB%9E%80%EB%B6%88%20%EC%8B%A0%ED%98%B8%EB%93%B1.swift)
