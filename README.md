@@ -7,6 +7,10 @@
 <details>
   <summary><b>Sep</b></summary>
 
+- Sep 28
+  - LeetCode 1614: Maximum Nesting Depth of the Parentheses - Python
+  - Programmers: 게임 맵 최단거리 - Python
+
 - Sep 23
   - LeetCode 1658: Minimum Operations to Reduce X to Zero — [Python](./python/leetcode/leetcode1658.py)
   - Programmers: 바이러스 파이프 — [Swift](./swift/programmers/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%20%ED%8C%8C%EC%9D%B4%ED%94%84.swift)
