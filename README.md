@@ -7,9 +7,12 @@
 <details>
   <summary><b>Sep</b></summary>
 
+- Sep 30
+  - LeetCode 1111: Maximum Nesting Depth of Two Valid Parentheses Strings — [Python](./python/leetcode/leetcode1111.py)
+
 - Sep 28
-  - LeetCode 1614: Maximum Nesting Depth of the Parentheses - Python
-  - Programmers: 게임 맵 최단거리 - Python
+  - LeetCode 1614: Maximum Nesting Depth of the Parentheses — [Python](./python/leetcode/leetcode1614.py)
+  - Programmers: 게임 맵 최단거리 — [Python](./python/programmers/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)
 
 - Sep 23
   - LeetCode 1658: Minimum Operations to Reduce X to Zero — [Python](./python/leetcode/leetcode1658.py)
