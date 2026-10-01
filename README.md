@@ -5,6 +5,15 @@
 ## 2026
 
 <details>
+  <summary><b>Oct</b></summary>
+
+- Oct 1
+  - LeetCode 20: Valid Parentheses — [Python](./python/leetcode/leetcode20.py)
+  - Programmers: 힌트 스테이지 — [Swift](./swift/programmers/%ED%9E%8C%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.swift)
+
+</details>
+
+<details>
   <summary><b>Sep</b></summary>
 
 - Sep 30
