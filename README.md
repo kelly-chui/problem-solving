@@ -7,9 +7,13 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 5
+  - Codeforces 1927D: Find the Different Ones! — [C++](./cpp/codeforces/codeforces1927d.cpp)
+  - LeetCode 856: Score of Parentheses — [Python](./python/leetcode/leetcode856.py)
+
 - Oct 1
   - LeetCode 20: Valid Parentheses — [Python](./python/leetcode/leetcode20.py)
-  - Programmers: 힌트 스테이지 — [Swift](./swift/programmers/%ED%9E%8C%ED%8A%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.swift)
+  - Programmers: 힌트 스테이지 — [Swift](./swift/programmers/%E1%84%92%E1%85%B5%E1%86%AB%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.swift)
 
 </details>
 
@@ -21,11 +25,11 @@
 
 - Sep 28
   - LeetCode 1614: Maximum Nesting Depth of the Parentheses — [Python](./python/leetcode/leetcode1614.py)
-  - Programmers: 게임 맵 최단거리 — [Python](./python/programmers/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)
+  - Programmers: 게임 맵 최단거리 — [Python](./python/programmers/%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7%20%E1%84%86%E1%85%A2%E1%86%B8%20%E1%84%8E%E1%85%AC%E1%84%83%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A5%E1%84%85%E1%85%B5.py)
 
 - Sep 23
   - LeetCode 1658: Minimum Operations to Reduce X to Zero — [Python](./python/leetcode/leetcode1658.py)
-  - Programmers: 바이러스 파이프 — [Swift](./swift/programmers/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%20%ED%8C%8C%EC%9D%B4%ED%94%84.swift)
+  - Programmers: 바이러스 파이프 — [Swift](./swift/programmers/%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A5%E1%84%89%E1%85%B3%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%B3.swift)
 
 - Sep 22
   - LeetCode 1401: Circle and Rectangle Overlapping — [Python](./python/leetcode/leetcode1401.py)
@@ -33,7 +37,7 @@
 
 - Sep 21
   - LeetCode 3524: Find X Value of Array I — [Python](./python/leetcode/leetcode3524.py)
-  - Programmers: 노란불 신호등 — [Swift](./swift/programmers/%EB%85%B8%EB%9E%80%EB%B6%88%20%EC%8B%A0%ED%98%B8%EB%93%B1.swift)
+  - Programmers: 노란불 신호등 — [Swift](./swift/programmers/%E1%84%82%E1%85%A9%E1%84%85%E1%85%A1%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AF%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A9%E1%84%83%E1%85%B3%E1%86%BC.swift)
 
 - Sep 18
   - LeetCode 1520: Maximum Number of Non-Overlapping Substrings — [Python](./python/leetcode/leetcode1520.py)
