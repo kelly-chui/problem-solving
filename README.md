@@ -7,6 +7,10 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 15
+  - LeetCode 2913: Subarrays Distinct Element Sum of Squares I — [Python](./python/leetcode/leetcode2913.py)
+  - Codeforces 545C: Woodcutters — [C++](./cpp/codeforces/codeforces545c.cpp)
+
 - Oct 14
   - Codeforces 1324D: Pair of Topics — [C++](./cpp/codeforces/codeforces1324d.cpp)
   - LeetCode 3723: Maximize Sum of Squares of Digits — [Python](./python/leetcode/leetcode3723.py)
