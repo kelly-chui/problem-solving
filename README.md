@@ -7,6 +7,10 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 19
+  - LeetCode 2089: Find Target Indices After Sorting Array — [Python](./python/leetcode/leetcode2089.py)
+  - LeetCode 3551: Minimum Swaps to Sort by Digit Sum — [Swift](./swift/leetcode/leetcode3551.swift)
+
 - Oct 15
   - LeetCode 2913: Subarrays Distinct Element Sum of Squares I — [Python](./python/leetcode/leetcode2913.py)
   - Codeforces 545C: Woodcutters — [C++](./cpp/codeforces/codeforces545c.cpp)
