@@ -7,6 +7,10 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 21
+  - LeetCode 3863: Minimum Operations to Sort a String — [Swift](./swift/leetcode/leetcode3863.swift)
+  - Codeforces 479C: Exams — [C++](./cpp/codeforces/codeforces479c.cpp)
+
 - Oct 19
   - LeetCode 2089: Find Target Indices After Sorting Array — [Python](./python/leetcode/leetcode2089.py)
   - LeetCode 3551: Minimum Swaps to Sort by Digit Sum — [Swift](./swift/leetcode/leetcode3551.swift)
