@@ -7,6 +7,9 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 22
+  - LeetCode 3942: Minimum Operations to Sort a Permutation — [Swift](./swift/leetcode/leetcode3942.swift)
+
 - Oct 21
   - LeetCode 3863: Minimum Operations to Sort a String — [Swift](./swift/leetcode/leetcode3863.swift)
   - Codeforces 479C: Exams — [C++](./cpp/codeforces/codeforces479c.cpp)
