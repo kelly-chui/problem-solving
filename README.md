@@ -7,6 +7,10 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 23
+  - LeetCode 3644: Maximum K to Sort a Permutation — [Swift](./swift/leetcode/leetcode3644.swift)
+  - Codeforces 1285B: Just Eat It! — [C++](./cpp/codeforces/codeforces1285b.cpp)
+
 - Oct 22
   - LeetCode 3942: Minimum Operations to Sort a Permutation — [Swift](./swift/leetcode/leetcode3942.swift)
 
