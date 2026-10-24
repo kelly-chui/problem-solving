@@ -7,6 +7,9 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 24
+  - LeetCode 2409: Count Days Spent Together — [Python](./python/leetcode/leetcode2409.py)
+
 - Oct 23
   - LeetCode 3644: Maximum K to Sort a Permutation — [Swift](./swift/leetcode/leetcode3644.swift)
   - Codeforces 1285B: Just Eat It! — [C++](./cpp/codeforces/codeforces1285b.cpp)
