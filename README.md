@@ -7,6 +7,10 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 26
+  - LeetCode 3619: Count Islands With Total Value Divisible by K — [Python](./python/leetcode/leetcode3619.py)
+  - LeetCode 1254: Number of Closed Islands — [Swift](./swift/leetcode/leetcode1254.swift)
+
 - Oct 24
   - LeetCode 2409: Count Days Spent Together — [Python](./python/leetcode/leetcode2409.py)
 
