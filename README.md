@@ -7,6 +7,9 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 27
+  - LeetCode 3963: Create Grid With Exactly One Path — [Swift](./swift/leetcode/leetcode3963.swift)
+
 - Oct 26
   - LeetCode 3619: Count Islands With Total Value Divisible by K — [Python](./python/leetcode/leetcode3619.py)
   - LeetCode 1254: Number of Closed Islands — [Swift](./swift/leetcode/leetcode1254.swift)
