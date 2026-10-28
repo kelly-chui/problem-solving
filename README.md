@@ -7,6 +7,9 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 28
+  - LeetCode 3882: Minimum XOR Path in a Grid — [Python](./python/leetcode/leetcode3882.py)
+
 - Oct 27
   - LeetCode 3963: Create Grid With Exactly One Path — [Swift](./swift/leetcode/leetcode3963.swift)
 
