@@ -7,6 +7,9 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 29
+  - LeetCode 3841: Palindromic Path Queries in a Tree — [Swift](./swift/leetcode/leetcode3841.swift)
+
 - Oct 28
   - LeetCode 3882: Minimum XOR Path in a Grid — [Python](./python/leetcode/leetcode3882.py)
 
