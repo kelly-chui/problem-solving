@@ -7,6 +7,9 @@
 <details>
   <summary><b>Oct</b></summary>
 
+- Oct 30
+  - LeetCode 3970: Shortest Path With At Most K Consecutive Identical Characters — [Python](./python/leetcode/leetcode3970.py)
+
 - Oct 29
   - LeetCode 3841: Palindromic Path Queries in a Tree — [Swift](./swift/leetcode/leetcode3841.swift)
 
