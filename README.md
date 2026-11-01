@@ -5,6 +5,15 @@
 ## 2026
 
 <details>
+  <summary><b>Nov</b></summary>
+
+- Nov 1
+  - LeetCode 453: Minimum Moves to Equal Array Elements — [Python](./python/leetcode/leetcode453.py)
+  - LeetCode 3665: Twisted Mirror Path Count — [Swift](./swift/leetcode/leetcode3665.swift)
+
+</details>
+
+<details>
   <summary><b>Oct</b></summary>
 
 - Oct 30
