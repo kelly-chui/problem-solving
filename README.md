@@ -7,6 +7,9 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 2
+  - LeetCode 462: Minimum Moves to Equal Array Elements II — [Swift](./swift/leetcode/leetcode462.swift)
+
 - Nov 1
   - LeetCode 453: Minimum Moves to Equal Array Elements — [Python](./python/leetcode/leetcode453.py)
   - LeetCode 3665: Twisted Mirror Path Count — [Swift](./swift/leetcode/leetcode3665.swift)
