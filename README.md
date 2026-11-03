@@ -7,6 +7,9 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 3
+  - LeetCode 3736: Minimum Moves to Equal Array Elements III — [Python](./python/leetcode/leetcode3736.py)
+
 - Nov 2
   - LeetCode 462: Minimum Moves to Equal Array Elements II — [Swift](./swift/leetcode/leetcode462.swift)
 
