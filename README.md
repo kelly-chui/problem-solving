@@ -7,6 +7,9 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 4
+  - LeetCode 3505: Minimum Operations to Make Elements Within K Subarrays Equal — [Swift](./swift/leetcode/leetcode3505.swift)
+
 - Nov 3
   - LeetCode 3736: Minimum Moves to Equal Array Elements III — [Python](./python/leetcode/leetcode3736.py)
 
