@@ -7,6 +7,9 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 5
+  - LeetCode 1385: Find the Distance Value Between Two Arrays — [Python](./python/leetcode/leetcode1385.py)
+
 - Nov 4
   - LeetCode 3505: Minimum Operations to Make Elements Within K Subarrays Equal — [Swift](./swift/leetcode/leetcode3505.swift)
 
