@@ -7,6 +7,9 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 6
+  - LeetCode 2747: Count Zero Request Servers — [Swift](./swift/leetcode/leetcode2747.swift)
+
 - Nov 5
   - LeetCode 1385: Find the Distance Value Between Two Arrays — [Python](./python/leetcode/leetcode1385.py)
 
