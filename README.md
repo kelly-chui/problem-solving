@@ -7,6 +7,10 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 9
+  - LeetCode 1267: Count Servers that Communicate — [Swift](./swift/leetcode/leetcode1267.swift)
+  - LeetCode 1882: Process Tasks Using Servers — [Python](./python/leetcode/leetcode1882.py)
+
 - Nov 6
   - LeetCode 2747: Count Zero Request Servers — [Swift](./swift/leetcode/leetcode2747.swift)
 
