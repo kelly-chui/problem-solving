@@ -7,6 +7,10 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 10
+  - LeetCode 3693: Climbing Stairs II — [Python](./python/leetcode/leetcode3693.py)
+  - LeetCode 1606: Find Servers That Handled Most Number of Requests — [Swift](./swift/leetcode/leetcode1606.swift)
+
 - Nov 9
   - LeetCode 1267: Count Servers that Communicate — [Swift](./swift/leetcode/leetcode1267.swift)
   - LeetCode 1882: Process Tasks Using Servers — [Python](./python/leetcode/leetcode1882.py)
