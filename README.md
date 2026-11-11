@@ -7,6 +7,9 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 11
+  - LeetCode 3789: Minimum Cost to Acquire Required Items — [Swift](./swift/leetcode/leetcode3789.swift)
+
 - Nov 10
   - LeetCode 3693: Climbing Stairs II — [Python](./python/leetcode/leetcode3693.py)
   - LeetCode 1606: Find Servers That Handled Most Number of Requests — [Swift](./swift/leetcode/leetcode1606.swift)
