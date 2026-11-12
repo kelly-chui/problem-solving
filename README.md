@@ -7,6 +7,10 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 12
+  - LeetCode 3105: Longest Strictly Increasing or Strictly Decreasing Subarray — [Swift](./swift/leetcode/leetcode3105.swift)
+  - Codeforces 1931D: Divisible Pairs — [C++](./cpp/codeforces/codeforces1931d.cpp)
+
 - Nov 11
   - LeetCode 3789: Minimum Cost to Acquire Required Items — [Swift](./swift/leetcode/leetcode3789.swift)
 
@@ -1145,7 +1149,7 @@
   - BOJ 19637: IF문 좀 대신 써줘 — [Swift](./swift/boj/boj19637.swift)
 
 - May 2
-  - BOJ 3758: KCPC - Sw
+  - BOJ 3758: KCPC — [Swift](./swift/boj/boj3758.swift)
 
 </details>
 
