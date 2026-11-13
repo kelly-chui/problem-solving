@@ -7,6 +7,9 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 13
+  - LeetCode 3420: Count Non-Decreasing Subarrays After K Operations — [Python](./python/leetcode/leetcode3420.py)
+
 - Nov 12
   - LeetCode 3105: Longest Strictly Increasing or Strictly Decreasing Subarray — [Swift](./swift/leetcode/leetcode3105.swift)
   - Codeforces 1931D: Divisible Pairs — [C++](./cpp/codeforces/codeforces1931d.cpp)
