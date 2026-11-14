@@ -7,6 +7,9 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 14
+  - LeetCode 3364: Minimum Positive Sum Subarray — [Python](./python/leetcode/leetcode3364.py)
+
 - Nov 13
   - LeetCode 3420: Count Non-Decreasing Subarrays After K Operations — [Python](./python/leetcode/leetcode3420.py)
 
