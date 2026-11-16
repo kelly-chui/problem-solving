@@ -7,6 +7,10 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 16
+  - LeetCode 1524: Number of Sub-arrays With Odd Sum — [Swift](./swift/leetcode/leetcode1524.swift)
+  - LeetCode 2243: Calculate Digit Sum of a String — [Swift](./swift/leetcode/leetcode2243.swift)
+
 - Nov 14
   - LeetCode 3364: Minimum Positive Sum Subarray — [Python](./python/leetcode/leetcode3364.py)
 
