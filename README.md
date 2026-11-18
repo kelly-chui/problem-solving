@@ -7,6 +7,10 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 18
+  - LeetCode 2911: Minimum Changes to Make K Semi-palindromes — [Python](./python/leetcode/leetcode2911.py)
+  - LeetCode 2914: Minimum Number of Changes to Make Binary String Beautiful — [Swift](./swift/leetcode/leetcode2914.swift)
+
 - Nov 16
   - LeetCode 1524: Number of Sub-arrays With Odd Sum — [Swift](./swift/leetcode/leetcode1524.swift)
   - LeetCode 2243: Calculate Digit Sum of a String — [Swift](./swift/leetcode/leetcode2243.swift)
