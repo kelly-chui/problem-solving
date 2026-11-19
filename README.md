@@ -7,6 +7,10 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 19
+  - LeetCode 2567: Minimum Score by Changing Two Elements — [Python](./python/leetcode/leetcode2567.py)
+  - Codeforces 1374D: Zero Remainder Array — [C++](./cpp/codeforces/codeforces1374d.cpp)
+
 - Nov 18
   - LeetCode 2911: Minimum Changes to Make K Semi-palindromes — [Python](./python/leetcode/leetcode2911.py)
   - LeetCode 2914: Minimum Number of Changes to Make Binary String Beautiful — [Swift](./swift/leetcode/leetcode2914.swift)
