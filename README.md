@@ -7,6 +7,10 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 23
+  - LeetCode 1352: Product of the Last K Numbers — [Python](./python/leetcode/leetcode1352.py)
+  - LeetCode 3331: Find Subtree Sizes After Changes — [Python](./python/leetcode/leetcode3331.py)
+
 - Nov 19
   - LeetCode 2567: Minimum Score by Changing Two Elements — [Python](./python/leetcode/leetcode2567.py)
   - Codeforces 1374D: Zero Remainder Array — [C++](./cpp/codeforces/codeforces1374d.cpp)
