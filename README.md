@@ -7,6 +7,10 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 24
+  - LeetCode 3411: Maximum Subarray With Equal Products - Swift
+  - LeetCode 2124: Check if All A's Appears Before All B's - Swift
+
 - Nov 23
   - LeetCode 1352: Product of the Last K Numbers — [Python](./python/leetcode/leetcode1352.py)
   - LeetCode 3331: Find Subtree Sizes After Changes — [Python](./python/leetcode/leetcode3331.py)
