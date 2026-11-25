@@ -7,9 +7,12 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 25 
+  - LeetCode 3934: Smallest Unique Subarray — [Python](./python/leetcode/leetcode3934.py)
+
 - Nov 24
-  - LeetCode 3411: Maximum Subarray With Equal Products - Swift
-  - LeetCode 2124: Check if All A's Appears Before All B's - Swift
+  - LeetCode 3411: Maximum Subarray With Equal Products — [Swift](./swift/leetcode/leetcode3411.swift)
+  - LeetCode 2124: Check if All A's Appears Before All B's — [Swift](./swift/leetcode/leetcode2124.swift)
 
 - Nov 23
   - LeetCode 1352: Product of the Last K Numbers — [Python](./python/leetcode/leetcode1352.py)
