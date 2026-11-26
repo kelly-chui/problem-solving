@@ -7,6 +7,9 @@
 <details>
   <summary><b>Nov</b></summary>
 
+- Nov 26
+  - LeetCode 3360: Stone Removal Game - Python
+
 - Nov 25 
   - LeetCode 3934: Smallest Unique Subarray — [Python](./python/leetcode/leetcode3934.py)
 
